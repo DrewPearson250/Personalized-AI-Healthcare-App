@@ -1,10 +1,10 @@
 # Validation report: services
 *Run 2026-11-24*
 
-**Result:** PASSED — 101 rows, 0 errors, 17 warnings
+**Result:** PASSED — 110 rows, 0 errors, 17 warnings
 
 ## Counts
-- Hand-built services: 14 rows
+- Hand-built services: 23 rows
 - Food guide: 99 entries extracted
 - Dropped 12 outside Middlesex County: Plainfield Action Services (Plainfield, not geocoded, not a Middlesex place); Pantry (Plainfield); SHILOH Soup Kitchen (Plainfield); Community Church of God (Plainfield); New Covenant Church of God (Plainfield); Greater Refuge Church of Christ (Plainfield); MUSLIM COMMUNITY SOUP KITCHEN (Plainfield); Salvation Army, Plainfield Corps (Plainfield); El Centro Hispanoamericano (Plainfield); S.H.E.E.L.D. (The Lord's Kitchen) (Plainfield); Metropolitan Community Service - Metropolitan SDA Church of Plainfield (Plainfield); Crescent Avenue Presbyterian Church (Plainfield)
 - Dropped 0 over 15 miles
@@ -28,19 +28,22 @@
 - food-monroe-township-office-of-aging-12-halsey-reed-roa: address auto-split from a merged PDF entry, check
 - food-south-brunswick-township-food-pantry-540-ridge-rd-: no phone number
 - 87 food entries come from the Spring 2025 Rutgers guide: hours change often, re-check before launch
-- verified = false for all 101 rows: a person must check each against its source_url (catalog rule: hand-built lists get a human check)
-- Not yet covered (sites blocked automated reading): Middlesex County Board of Social Services, MCAT shuttles, Woman Aware, Coming Home of Middlesex, Central Jersey Legal Services, PAAD. Add by hand
+- verified = false for all 110 rows: a person must check each against its source_url (catalog rule: hand-built lists get a human check)
+- Set aside (sites blocked automated reading, add by hand later; see current_stage.md): Middlesex County Board of Social Services, Woman Aware (local DV program), Coming Home of Middlesex, Central Jersey Legal Services
 
 ## Summary
 - food: 88
+- prescriptions: 4
 - mental_health: 4
+- transportation: 4
 - benefits: 3
 - other: 2
+- domestic_violence: 1
+- legal: 1
 - immigrant: 1
 - housing: 1
-- legal: 1
 - utilities: 1
-- statewide (no address): 4
+- statewide (no address): 12
 
 ## Coverage (% of rows filled)
 | column | % |
@@ -50,23 +53,23 @@
 | organization | 100 |
 | category | 100 |
 | description | 100 |
-| eligibility | 16 |
-| address | 94 |
-| city | 95 |
-| zip | 89 |
+| eligibility | 23 |
+| address | 86 |
+| city | 88 |
+| zip | 83 |
 | phone | 98 |
-| hours | 82 |
+| hours | 77 |
 | languages | 4 |
 | cost | 95 |
-| documents_needed | 34 |
-| nearest_bus_stop | 85 |
-| lat | 87 |
-| lng | 87 |
-| miles_to_nb | 87 |
+| documents_needed | 35 |
+| nearest_bus_stop | 78 |
+| lat | 80 |
+| lng | 80 |
+| miles_to_nb | 80 |
 | scope | 100 |
 | embed_text | 100 |
 | verified | 100 |
-| notes | 6 |
+| notes | 5 |
 | source_url | 100 |
-| source_date | 86 |
+| source_date | 79 |
 | last_verified | 100 |

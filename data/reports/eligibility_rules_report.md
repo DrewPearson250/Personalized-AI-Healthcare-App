@@ -1,7 +1,7 @@
 # Validation report: eligibility_rules
 *Run 2026-11-24*
 
-**Result:** PASSED — 0 errors, 1 warnings
+**Result:** PASSED — 0 errors, 0 warnings
 
 ## Checks
 - poverty table steps by $5,680 per person: ok
@@ -17,7 +17,7 @@
 - none
 
 ## Warnings (review)
-- marketplace: has values marked verified: false, confirm before launch
+- none
 
 ## Worked examples
 - $20,000/yr, household 1: 125% FPL -> adult NJ FamilyCare yes, children yes, Charity Care patient pays 0%

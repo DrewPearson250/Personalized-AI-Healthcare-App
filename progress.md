@@ -12,15 +12,13 @@
   - providers (1,386 dentist / pediatric / OB-GYN locations)
   - plans, plan_rates, plan_benefits, insurers_local (2026 NJ marketplace + DOBI)
   - hospital_payers, hospital_prices (price transparency, 30 common services)
-  - services (101: food, benefits, housing, legal, mental health)
+  - services (110: food, prescriptions, transportation, benefits, housing, legal, DV, mental health)
 - [x] `config/eligibility_rules.yaml` + `links.yaml` (checked by `check_rules.py`)
 - [x] `db/schema.sql` (10 tables) + `scripts/load.py` (tested on Postgres 16)
 
 ## To do
 
-- [ ] Human checks: services list (all `verified = false`), pediatric columns for Princeton + Raritan Bay, clinic dental/walk-in flags
-- [ ] Add what sites blocked: county social services, MCAT, Woman Aware, legal services, PAAD
-- [ ] Princeton price file (download by hand)
+- [ ] Set aside (blocked sites / hand input, listed in current_stage.md): Princeton + Raritan Bay pediatric info, Princeton price file, a few local services, human check of services
 - [ ] Training data: clean NHAMCS + symptom set, generate AI messages
 - [ ] Models: urgency classifier, service matcher
 - [ ] Backend (FastAPI) + frontend (Next.js) + LLM explanations

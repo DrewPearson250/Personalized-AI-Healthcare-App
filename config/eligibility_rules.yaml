@@ -93,14 +93,21 @@ charity_care:    # NJ Hospital Care Payment Assistance Program
 marketplace:     # Get Covered NJ
   open_enrollment: {start: 2026-11-01, end: 2027-01-31, deadline_for_jan_1_coverage: 2026-12-31}
   open_enrollment_source_url: https://www.nj.gov/getcoverednj/financialhelp/savings
-  # Silver cost-sharing reduction variant by income (federal ACA rule, 45 CFR 155.305(g));
+  # Silver cost-sharing reductions (CSRs): Get Covered NJ says people who qualify for a premium
+  # tax credit with income 138-250% FPL get CSRs, only on a Silver plan. Below 138% adults go to
+  # NJ FamilyCare. The split into 94/87/73 variants follows the federal rule (45 CFR 155.305(g));
   # maps to plans.csr_variant. Above 250% FPL: standard silver.
   silver_csr_bands:
-    - {min_fpl_pct: 100, max_fpl_pct: 150, csr_variant: csr_94}
+    - {min_fpl_pct: 138, max_fpl_pct: 150, csr_variant: csr_94}
     - {min_fpl_pct: 150, max_fpl_pct: 200, csr_variant: csr_87}
     - {min_fpl_pct: 200, max_fpl_pct: 250, csr_variant: csr_73}
-  csr_source_url: https://www.law.cornell.edu/cfr/text/45/155.305
-  csr_verified: false   # federal rule; confirm Get Covered NJ applies the same bands
+  csr_requires: premium tax credit eligibility and a Silver plan
+  csr_source_url: https://www.nj.gov/getcoverednj/financialhelp/gethelp
+  csr_variant_split_source_url: https://www.law.cornell.edu/cfr/text/45/155.305
+  csr_verified: true
+  nj_health_plan_savings:   # state premium subsidy
+    max_fpl_pct: 600
+    source_url: https://www.nj.gov/getcoverednj/financialhelp/gethelp
   notes:
     - Enhanced federal premium tax credits ended Dec 31, 2025, so most 2026 premiums rose.
     - From Jan 1, 2027, federal financial help requires a qualifying immigration status.
@@ -108,6 +115,27 @@ marketplace:     # Get Covered NJ
   help_phone: 1-833-677-1010
   enroll_url: https://nj.gov/getcoverednj
   source_url: https://nj.gov/getcoverednj/findanswers/updates
+  last_verified: 2026-11-24
+  verified: true
+
+prescription_assistance:   # NJ Division of Aging Services; limits change every January (Social Security COLA)
+  paad:
+    who: NJ residents age 65+, or 18-64 receiving Social Security Disability (Title II)
+    excludes: on Medicaid, or has drug coverage equal to or better than PAAD
+    income_2026: {single_under: 54943, married_under: 62390}
+    copay: {generic: 5, brand: 7}
+    phone: 1-800-792-9745
+    apply_url: https://nj-dhsas.my.site.com/njsave/quickstart
+    source_url: https://nj.gov/humanservices/doas/services/l-p/paad
+  senior_gold:
+    who: same age/disability rule as PAAD, income just above PAAD
+    income_2026: {single_min: 54943, single_max: 64943, married_min: 62390, married_max: 72390}
+    copay: $15 plus 50% of the remaining cost; $15 flat after $2,000 (single) / $3,000 (married) out of pocket
+    phone: 1-800-792-9745
+    source_url: https://nj.gov/humanservices/doas/services/q-z/senior-gold
+    note: nj.gov/disabilities lists married $60,690-$70,690 instead; the program's own page is used
+  medicare_part_d_required: true   # Medicare-eligible PAAD / Senior Gold members must enroll in Part D
+  source_url: https://nj.gov/humanservices/doas/services/l-p/paad
   last_verified: 2026-11-24
   verified: true
 

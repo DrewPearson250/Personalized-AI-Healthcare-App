@@ -231,11 +231,15 @@ def rates_table(plans):
     out.loc[out.monthly_premium <= 0, ["monthly_premium", "tobacco_premium"]] = None
     for _, b in out[out.monthly_premium > 5000].iterrows():
         rep.warn(f"{b.rate_id}: odd premium {b.monthly_premium}")
-    multi = out.groupby("issuer_id")["rating_area"].nunique()
-    for iss, n in multi[multi > 1].items():
-        rep.warn(f"issuer {iss} ({ISSUERS.get(iss)}) has {n} rating areas and the file doesn't say "
-                 "which one Middlesex is in: confirm before showing its prices (app uses area 1 "
-                 "only after confirming)")
+    # NJ's individual market is one rating area. A plan priced in several areas only matters if
+    # the prices differ (Horizon lists its dental plans in 6 areas at identical prices).
+    for plan, g in out.groupby("standard_component_id"):
+        if g["rating_area"].nunique() > 1:
+            differ = g.groupby("age")["monthly_premium"].nunique(dropna=True).max() > 1
+            if differ:
+                rep.warn(f"{plan}: prices differ across rating areas; confirm which area is Middlesex")
+            else:
+                rep.count(f"{plan}: listed in {g.rating_area.nunique()} rating areas at identical prices")
     if (out.tobacco_premium.notna() & (out.tobacco_premium != out.monthly_premium)).any():
         rep.warn("some plans charge tobacco users more")
     return rep.write(out)

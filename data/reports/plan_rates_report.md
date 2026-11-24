@@ -1,11 +1,14 @@
 # Validation report: plan_rates
 *Run 2026-11-24*
 
-**Result:** PASSED — 3978 rows, 0 errors, 6 warnings
+**Result:** PASSED — 3978 rows, 0 errors, 5 warnings
 
 ## Counts
 - Rates: 4182 rows read
 - Rates for plans sold in Middlesex: 3978
+- 91661NJ2310001: listed in 6 rating areas at identical prices
+- 91661NJ2310003: listed in 6 rating areas at identical prices
+- 91661NJ2310004: listed in 6 rating areas at identical prices
 
 ## Errors (block loading)
 - none
@@ -16,7 +19,6 @@
 - 91661NJ2310001: $0 premium for ages 19-64 (6 rating area(s)) -> stored as NULL (not offered at that age)
 - 99708NJ0120020: $0 premium for ages 19-64 (1 rating area(s)) -> stored as NULL (not offered at that age)
 - 99708NJ0120021: $0 premium for ages 19-64 (1 rating area(s)) -> stored as NULL (not offered at that age)
-- issuer 91661 (Horizon Blue Cross Blue Shield of New Jersey) has 6 rating areas and the file doesn't say which one Middlesex is in: confirm before showing its prices (app uses area 1 only after confirming)
 
 ## Coverage (% of rows filled)
 | column | % |

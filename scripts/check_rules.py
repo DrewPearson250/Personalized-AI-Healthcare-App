@@ -41,7 +41,8 @@ def main():
     links = yaml.safe_load(LINKS.read_text())
     today = date.today()
 
-    for key in ("poverty_guidelines", "nj_familycare", "cover_all_kids", "charity_care", "marketplace"):
+    for key in ("poverty_guidelines", "nj_familycare", "cover_all_kids", "charity_care", "marketplace",
+                "prescription_assistance"):
         block = rules.get(key)
         if not block:
             errors.append(f"missing block {key}")

@@ -178,9 +178,9 @@ def main():
                  "often, re-check before launch")
     rep.warn(f"verified = false for all {int((~s.verified).sum())} rows: a person must check each "
              "against its source_url (catalog rule: hand-built lists get a human check)")
-    rep.warn("Not yet covered (sites blocked automated reading): Middlesex County Board of Social "
-             "Services, MCAT shuttles, Woman Aware, Coming Home of Middlesex, Central Jersey Legal "
-             "Services, PAAD. Add by hand")
+    rep.warn("Set aside (sites blocked automated reading, add by hand later; see current_stage.md): "
+             "Middlesex County Board of Social Services, Woman Aware (local DV program), Coming Home "
+             "of Middlesex, Central Jersey Legal Services")
     summary = [f"- {k}: {v}" for k, v in s.category.value_counts().items()]
     summary.append(f"- statewide (no address): {int((s.scope == 'statewide').sum())}")
     return rep.write(s, extra_sections={"Summary": summary})
