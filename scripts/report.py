@@ -37,19 +37,23 @@ class Report:
         if len(dup):
             self.error(f"duplicate {key}: {sorted(dup.astype(str))[:20]}")
 
-    def write(self, df, name=None, extra_sections=None, out_dir=None):
-        """Write <out_dir or data/clean>/<name>.csv/.json and data/reports/<name>_report.md."""
+    def write(self, df, name=None, extra_sections=None, out_dir=None, formats=("csv", "json")):
+        """Write <out_dir or data/clean>/<name>.csv/.json and data/reports/<name>_report.md.
+        formats: which data files to write; () writes only the report."""
         name = name or self.table
         out_dir = Path(out_dir) if out_dir else CLEAN
-        out_dir.mkdir(parents=True, exist_ok=True)
+        if formats:
+            out_dir.mkdir(parents=True, exist_ok=True)
         REPORTS.mkdir(exist_ok=True)
         out = df.copy()
         for c in out.columns:   # lists -> "a; b" in CSV, real lists in JSON
             if out[c].map(lambda v: isinstance(v, list)).any():
                 out[c] = out[c].map(lambda v: "; ".join(v) if isinstance(v, list) else v)
-        out.to_csv(out_dir / f"{name}.csv", index=False)
-        recs = json.loads(df.to_json(orient="records"))
-        (out_dir / f"{name}.json").write_text(json.dumps(recs, indent=2))
+        if "csv" in formats:
+            out.to_csv(out_dir / f"{name}.csv", index=False)
+        if "json" in formats:
+            recs = json.loads(df.to_json(orient="records"))
+            (out_dir / f"{name}.json").write_text(json.dumps(recs, indent=2))
 
         def filled(v):
             if isinstance(v, list):
@@ -68,6 +72,7 @@ class Report:
         lines += ["## Coverage (% of rows filled)", "| column | % |", "| --- | --- |",
                   *[f"| {c} | {v} |" for c, v in cov.items()], ""]
         (REPORTS / f"{name}_report.md").write_text("\n".join(lines))
-        print(f"{len(df)} rows -> {out_dir / (name + '.csv')}  "
+        where = out_dir / f"{name}.{formats[0]}" if formats else REPORTS / f"{name}_report.md"
+        print(f"{len(df)} rows -> {where}  "
               f"({len(self.errors)} errors, {len(self.warnings)} warnings)")
         return 1 if self.errors else 0

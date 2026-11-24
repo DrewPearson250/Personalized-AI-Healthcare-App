@@ -3,7 +3,7 @@
 Run from the repo root:  python scripts/build_synthetic.py
 Inputs:  data/synthetic/raw/train_*.txt, test_*.txt   (written per data/synthetic/prompts.md)
          raw line format:  <style>|<urgency>|<text>   under a "# group: <reason_group>" header
-Outputs: data/synthetic/train.jsonl, test.jsonl (+ .csv), spot_check.csv,
+Outputs: data/synthetic/train.jsonl, test.jsonl, spot_check.csv,
          data/reports/synthetic_messages_report.md
 Exit code 1 if any error-level validation check fails.
 
@@ -132,7 +132,6 @@ def main():
         with open(OUT / f"{split}.jsonl", "w") as f:
             for r in part.to_dict("records"):
                 f.write(json.dumps(r, ensure_ascii=False) + "\n")
-        part.to_csv(OUT / f"{split}.csv", index=False)
 
     # spot check: fixed seed so the sample is reproducible
     sample = df.sample(SPOT_CHECK_N, random_state=42)[["message_id", "text", "reason_group", "urgency",
@@ -159,7 +158,7 @@ def main():
     summary += ["", "Messages per prompt:"]
     summary += [f"- {k}: {v}" for k, v in df.prompt_id.value_counts().sort_index().items()]
     summary += ["", "Urgency overall: " + ", ".join(f"{k} {v}" for k, v in df.urgency.value_counts().items())]
-    return rep.write(df, name="synthetic_messages", extra_sections={"Summary": summary}, out_dir=OUT / "build")
+    return rep.write(df, name="synthetic_messages", extra_sections={"Summary": summary}, formats=())
 
 
 if __name__ == "__main__":

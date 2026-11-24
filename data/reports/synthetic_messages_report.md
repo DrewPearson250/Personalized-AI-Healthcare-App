@@ -7,6 +7,7 @@
 - train: 6 raw files, 1080 messages
 - test: 2 raw files, 300 messages
 - Test messages with a near-duplicate in train (Jaccard >= 0.7): 0
+- data/synthetic/spot_check.csv already exists, not overwritten (it may hold a person's review)
 
 ## Errors (block loading)
 - none

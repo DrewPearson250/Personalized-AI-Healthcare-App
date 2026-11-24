@@ -57,9 +57,8 @@ def main():
         rep.count(f"Dropped {len(leak)} test texts that also appear in train (leakage)")
         df = df[~((df.split == "test") & df.norm.isin(leak))]
     df["n_words"] = df.text.str.split().str.len()
-    df["source"] = "symptom_to_diagnosis"
-    df["source_url"] = SOURCE
     df = df.drop(columns="norm")
+    rep.count(f"Source: {SOURCE} (Apache 2.0)")
 
     rep.check_unique(df, "text_id")
     rep.check_required(df, ["text", "reason_group"], "text_id")
@@ -73,7 +72,7 @@ def main():
     for g, sub in df.groupby("reason_group"):
         summary.append(f"| {g} | {(sub.split == 'train').sum()} | {(sub.split == 'test').sum()} | "
                        f"{', '.join(sorted(sub.diagnosis.unique()))} |")
-    return rep.write(df, extra_sections={"Summary": summary}, out_dir=OUT)
+    return rep.write(df, extra_sections={"Summary": summary}, out_dir=OUT, formats=("csv",))
 
 
 if __name__ == "__main__":

@@ -8,6 +8,7 @@
 - Triage level (IMMEDR): blank 364, unknown 3,788, no triage reported 587, immediate 139, emergent 1,595, urgent 5,340, semi-urgent 2,826, nonurgent 307, ED doesn't triage 1,079
 - Kept 10,207 visits with a triage level 1-5
 - Dropped 433 visits whose first reason isn't a symptom/injury group: treatment/refill/follow-up 190, exam/screening 95, test results 85, administrative 31, uncodable 26, blank/other 6
+- Source: NHAMCS 2022 ED public-use file, https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHAMCS/ (visit_id = row number in ed2022); reason labels in config/reason_groups.yaml
 - Admitted to hospital by urgency class: emergency 34.0%, routine 2.1%, urgent 13.3%
 
 ## Errors (block loading)
@@ -59,23 +60,15 @@ Visits by urgency (sample count, weighted national estimate):
 | --- | --- |
 | visit_id | 100 |
 | age | 100 |
-| age_group | 100 |
 | sex | 100 |
 | pain_score | 71 |
-| arrived_by_ambulance | 98 |
+| ambulance | 98 |
 | rfv1_code | 100 |
 | reason_group | 100 |
-| reason_label | 100 |
 | rfv2_group | 66 |
 | rfv3_group | 43 |
 | triage_level | 100 |
 | urgency | 100 |
-| injury_related | 32 |
+| injury | 32 |
 | admitted | 100 |
-| left_without_seen | 100 |
-| died_in_ed | 100 |
 | patwt | 100 |
-| cstratm | 100 |
-| cpsum | 100 |
-| source | 100 |
-| source_url | 100 |

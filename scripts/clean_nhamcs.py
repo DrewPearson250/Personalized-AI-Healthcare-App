@@ -34,11 +34,6 @@ EXPECTED_ROWS = 16025          # codebook: 16,025 sample visits
 EXPECTED_LINE_LEN = 2383       # record length (PATWT ends at 2369, EDWT at 2378, ...)
 
 
-def age_group(a):
-    return ("0-1" if a < 2 else "2-11" if a < 12 else "12-17" if a < 18 else "18-39" if a < 40
-            else "40-64" if a < 65 else "65+")
-
-
 def main():
     rep = Report("nhamcs_visits")
     cfg = load()
@@ -75,30 +70,27 @@ def main():
               + ", ".join(f"{k} {v}" for k, v in mod.value_counts().items()))
     df = df[df["reason_group"].notna()].copy()
 
+    # Compact on purpose (GitHub shows files under ~1 MB): constant columns (source, URL) live in
+    # the report; derivable ones (reason label, age group) come from config / age; yes/no as 1/0.
+    b = lambda s: s.astype("Int64")
     out = pd.DataFrame({
-        "visit_id": [f"nhamcs22-{i}" for i in df.index],
+        "visit_id": df.index.astype(int),                     # row number in ed2022
         "age": df["AGE"].astype(int),
-        "age_group": df["AGE"].astype(int).map(age_group),
         "sex": df["SEX"].map({1: "F", 2: "M"}),
         "pain_score": df["PAINSCALE"].where(df["PAINSCALE"].between(0, 10)).astype("Int64"),
-        "arrived_by_ambulance": df["ARREMS"].map({1: True, 2: False}),
+        "ambulance": b(df["ARREMS"].map({1: 1, 2: 0})),
         "rfv1_code": (df["RFV1"] / 10).round(1),
         "reason_group": df["reason_group"],
-        "reason_label": df["reason_group"].map(labels),
         "rfv2_group": df["RFV2"].map(to_group),
         "rfv3_group": df["RFV3"].map(to_group),
         "triage_level": df["IMMEDR"].astype(int),
         "urgency": df["IMMEDR"].astype(int).map(urg),
-        "injury_related": df["INJURY"].map({1: True, 2: False}),
-        "admitted": df["ADMITHOS"] == 1,
-        "left_without_seen": df["LWBS"] == 1,
-        "died_in_ed": df["DIEDED"] == 1,
-        "patwt": df["PATWT"],
-        "cstratm": df["CSTRATM"].astype("Int64"),
-        "cpsum": df["CPSUM"].astype("Int64"),
-        "source": "NHAMCS 2022 ED",
-        "source_url": SOURCE,
+        "injury": b(df["INJURY"].map({1: 1, 2: 0})),
+        "admitted": (df["ADMITHOS"] == 1).astype(int),
+        "patwt": df["PATWT"].round(3),
     })
+    rep.count(f"Source: NHAMCS 2022 ED public-use file, {SOURCE} (visit_id = row number in ed2022); "
+              "reason labels in config/reason_groups.yaml")
 
     # --- validation -----------------------------------------------------------
     rep.check_unique(out, "visit_id")
@@ -134,7 +126,8 @@ def main():
         summary.append(f"| {g} | {n} | {ct.at[g, 'emergency']:.0f} | {ct.at[g, 'urgent']:.0f} | "
                        f"{ct.at[g, 'routine']:.0f} |")
 
-    return rep.write(out, extra_sections={"Summary": summary}, out_dir=OUT)   # not data/clean (app DB)
+    return rep.write(out, extra_sections={"Summary": summary}, out_dir=OUT,   # not data/clean (app DB)
+                     formats=("csv",))
 
 
 if __name__ == "__main__":

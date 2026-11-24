@@ -7,6 +7,7 @@
 - Read 1,065 rows (853 train, 212 test), 22 diagnoses
 - Dropped 4 exact duplicate texts within a split
 - Dropped 1 test texts that also appear in train (leakage)
+- Source: https://huggingface.co/datasets/gretelai/symptom_to_diagnosis (Apache 2.0)
 
 ## Errors (block loading)
 - none
@@ -41,5 +42,3 @@
 | split | 100 |
 | reason_group | 100 |
 | n_words | 100 |
-| source | 100 |
-| source_url | 100 |
