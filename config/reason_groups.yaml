@@ -1,0 +1,145 @@
+# Reason-for-visit groups shared by every training set:
+#   - NHAMCS: RFV codes (NCHS Reason for Visit Classification, 2022 codebook appendix II) -> group
+#   - symptom-to-diagnosis text set: diagnosis label -> group
+#   - AI-generated messages: generated per group, using label + description
+# The urgency model learns urgency per group from real NHAMCS triage; the reason classifier
+# learns to map free text to a group. Order matters: the first group whose ranges contain a
+# code wins (e.g. head_injury before injury_other, allergic_reaction before substance_overdose).
+# rfv ranges use the 4-digit code with one decimal, as in the codebook (file value / 10).
+# Codes in no group (exams, refills, test results, administrative, uncodable) are dropped.
+
+version: 1
+source_url: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHAMCS/doc22-ed-508.pdf
+
+groups:
+  - id: chest_pain
+    label: Chest pain
+    description: chest pain, pressure or tightness
+    rfv: [[1050.0, 1050.9]]
+  - id: heart_circulation
+    label: Heart, blood pressure or circulation
+    description: palpitations, racing heart, high blood pressure, swollen or varicose veins
+    rfv: [[1260.0, 1299.9], [2500.0, 2599.9]]
+    symptom_set: [hypertension]
+  - id: breathing_difficulty
+    label: Trouble breathing
+    description: shortness of breath, wheezing, asthma attack, can't catch breath
+    rfv: [[1415.0, 1439.9], [2625.0, 2625.9]]
+    symptom_set: [bronchial asthma, pneumonia]
+  - id: cough_cold_flu
+    label: Cough, cold, flu or sore throat
+    description: cough, congestion, runny nose, sore throat, flu or COVID symptoms
+    rfv: [[1400.0, 1414.9], [1440.0, 1499.9], [2600.0, 2649.9]]
+    symptom_set: [common cold]
+  - id: fever_infection
+    label: Fever or infection
+    description: fever, chills, infections that cause fever
+    rfv: [[1005.0, 1019.9], [2001.0, 2099.9]]
+    symptom_set: [dengue, malaria, typhoid]
+  - id: abdominal_pain
+    label: Stomach or belly pain
+    description: abdominal pain, cramps, stomach ache
+    rfv: [[1540.0, 1549.9]]
+    symptom_set: [peptic ulcer disease]
+  - id: digestive_upset
+    label: Nausea, vomiting, diarrhea or digestion
+    description: nausea, vomiting, diarrhea, constipation, heartburn, reflux, jaundice
+    rfv: [[1510.0, 1539.9], [1550.0, 1639.9], [2650.0, 2699.9]]
+    symptom_set: [gastroesophageal reflux disease, jaundice]
+  - id: dental_mouth
+    label: Tooth or mouth problem
+    description: toothache, gum pain or swelling, mouth sores
+    rfv: [[1500.0, 1509.9]]
+  - id: headache
+    label: Headache
+    description: headache, migraine, pain in the head
+    rfv: [[1210.0, 1219.9]]
+    symptom_set: [migraine]
+  - id: neuro_dizziness_seizure
+    label: Dizziness, numbness or seizure
+    description: dizziness, vertigo, numbness, tingling, seizure, confusion, trouble speaking
+    rfv: [[1200.0, 1209.9], [1220.0, 1259.9], [2350.0, 2399.9]]
+  - id: weakness_fainting
+    label: Weakness or fainting
+    description: general weakness, tiredness, fainting or passing out
+    rfv: [[1020.0, 1039.9]]
+  - id: mental_health
+    label: Mental health
+    description: anxiety, depression, panic, thoughts of self-harm or suicide, behavior changes
+    rfv: [[1100.0, 1199.9], [2300.0, 2349.9], [3130.0, 3130.9], [5818.0, 5820.9]]
+  - id: allergic_reaction
+    label: Allergic or medication reaction
+    description: allergic reaction, hives, swelling, reaction to a medicine
+    rfv: [[1090.0, 1094.9], [5905.0, 5905.9]]
+    symptom_set: [allergy, drug reaction]
+  - id: substance_overdose
+    label: Alcohol, drugs or poisoning
+    description: overdose, poisoning, too much alcohol or drugs, withdrawal
+    rfv: [[5900.0, 5925.9]]
+  - id: eye
+    label: Eye problem
+    description: eye pain, redness, vision changes, something in the eye
+    rfv: [[1300.0, 1349.9], [2400.0, 2449.9]]
+  - id: ear
+    label: Ear problem
+    description: earache, ear infection, hearing loss, ringing
+    rfv: [[1350.0, 1399.9], [2450.0, 2499.9]]
+  - id: urinary_kidney
+    label: Urinary or kidney problem
+    description: painful or frequent urination, blood in urine, flank or kidney pain
+    rfv: [[1640.0, 1699.9], [1055.2, 1055.2], [2700.0, 2749.9]]
+    symptom_set: [urinary tract infection]
+  - id: pregnancy_womens_health
+    label: Pregnancy or women's health
+    description: pregnancy problems, vaginal bleeding or discharge, menstrual or pelvic problems, birth control
+    rfv: [[1700.0, 1829.9], [2750.0, 2799.9], [3500.0, 3599.9]]
+  - id: skin
+    label: Skin rash or infection
+    description: rash, itching, hives, boil, abscess, skin infection, chickenpox
+    rfv: [[1830.0, 1899.9], [2800.0, 2899.9]]
+    symptom_set: [impetigo, psoriasis, chicken pox, fungal infection]
+  - id: back_neck_pain
+    label: Back or neck pain
+    description: back pain, low back pain, neck pain or stiffness
+    rfv: [[1900.0, 1912.9]]
+    symptom_set: [cervical spondylosis]
+  - id: joint_limb_pain
+    label: Joint, muscle or limb pain
+    description: pain or swelling in a joint, arm, leg, hip, knee, hand or foot; arthritis
+    rfv: [[1913.0, 1999.9], [2900.0, 2949.9], [1055.1, 1055.1]]
+    symptom_set: [arthritis, varicose veins]   # varicose-vein texts describe leg pain/cramps
+  - id: diabetes_blood_sugar
+    label: Diabetes or blood sugar
+    description: high or low blood sugar, diabetes problems, excessive thirst
+    rfv: [[2200.0, 2249.9]]
+    symptom_set: [diabetes]
+  - id: collapse_unresponsive
+    label: Collapsed or unresponsive
+    description: unconscious, not responding, not breathing, cardiac arrest
+    rfv: [[5835.0, 5842.9]]
+  - id: head_injury
+    label: Head or face injury
+    description: hit head, head or face injury, concussion, cut on the face
+    rfv: [[5005.0, 5005.9], [5105.0, 5105.9], [5205.0, 5210.9], [5305.0, 5305.9],
+          [5405.0, 5405.9], [5505.0, 5505.9], [5705.0, 5705.9]]
+  - id: bites_stings
+    label: Bite or sting
+    description: animal or human bite, insect sting
+    rfv: [[5750.0, 5769.9]]
+  - id: injury_other
+    label: Injury
+    description: fall, fracture, sprain, cut, bruise, burn, car accident, assault
+    rfv: [[5001.0, 5749.9], [5770.0, 5834.9]]
+  - id: other_general
+    label: Other general symptoms
+    description: pain without a clear location, swelling, other general symptoms, problems after a procedure
+    rfv: [[1040.0, 1089.9], [1095.0, 1099.9], [2100.0, 2199.9], [2250.0, 2299.9],
+          [2950.0, 2999.9], [5930.0, 5935.9]]
+
+urgency:   # NHAMCS IMMEDR triage level -> app urgency class
+  "1": emergency     # immediate
+  "2": emergency     # emergent
+  "3": urgent
+  "4": routine       # semi-urgent
+  "5": routine       # nonurgent
+  dropped: {"-9": blank, "-8": unknown, "0": no triage reported, "7": ED doesn't triage}

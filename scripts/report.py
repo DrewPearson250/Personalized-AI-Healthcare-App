@@ -37,18 +37,19 @@ class Report:
         if len(dup):
             self.error(f"duplicate {key}: {sorted(dup.astype(str))[:20]}")
 
-    def write(self, df, name=None, extra_sections=None):
-        """Write data/clean/<name>.csv/.json and data/reports/<name>_report.md."""
+    def write(self, df, name=None, extra_sections=None, out_dir=None):
+        """Write <out_dir or data/clean>/<name>.csv/.json and data/reports/<name>_report.md."""
         name = name or self.table
-        CLEAN.mkdir(exist_ok=True)
+        out_dir = Path(out_dir) if out_dir else CLEAN
+        out_dir.mkdir(parents=True, exist_ok=True)
         REPORTS.mkdir(exist_ok=True)
         out = df.copy()
         for c in out.columns:   # lists -> "a; b" in CSV, real lists in JSON
             if out[c].map(lambda v: isinstance(v, list)).any():
                 out[c] = out[c].map(lambda v: "; ".join(v) if isinstance(v, list) else v)
-        out.to_csv(CLEAN / f"{name}.csv", index=False)
+        out.to_csv(out_dir / f"{name}.csv", index=False)
         recs = json.loads(df.to_json(orient="records"))
-        (CLEAN / f"{name}.json").write_text(json.dumps(recs, indent=2))
+        (out_dir / f"{name}.json").write_text(json.dumps(recs, indent=2))
 
         def filled(v):
             if isinstance(v, list):
@@ -67,6 +68,6 @@ class Report:
         lines += ["## Coverage (% of rows filled)", "| column | % |", "| --- | --- |",
                   *[f"| {c} | {v} |" for c, v in cov.items()], ""]
         (REPORTS / f"{name}_report.md").write_text("\n".join(lines))
-        print(f"{len(df)} rows -> {CLEAN / (name + '.csv')}  "
+        print(f"{len(df)} rows -> {out_dir / (name + '.csv')}  "
               f"({len(self.errors)} errors, {len(self.warnings)} warnings)")
         return 1 if self.errors else 0
