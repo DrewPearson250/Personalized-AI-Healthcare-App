@@ -8,7 +8,7 @@ __pycache__/
 .venv/
 venv/
 .env
-
+CLAUDE.md
 current_stage.md
 
 # macOS
