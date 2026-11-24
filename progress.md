@@ -1,6 +1,6 @@
 # CareBridge NB — Progress
 
-*Updated 2026-11-24 · Stage: training data, models next*
+*Updated 2026-11-24 · Stage: models next*
 
 ## Done
 
@@ -20,6 +20,7 @@
 
 - [ ] Set aside (blocked sites / hand input, listed in current_stage.md): Princeton + Raritan Bay pediatric info, Princeton price file, a few local services, human check of services
 - [x] Training data cleaned: NHAMCS 2022 (9,774 triaged visits) + symptom text (1,060), 27 shared reason groups
-- [ ] AI-generated training/test messages
+- [x] AI-generated messages: 1,080 train + 300 test, 27 groups (`data/synthetic/`)
+- [ ] Spot-check 50 AI messages by hand
 - [ ] Models: urgency classifier, service matcher
 - [ ] Backend (FastAPI) + frontend (Next.js) + LLM explanations

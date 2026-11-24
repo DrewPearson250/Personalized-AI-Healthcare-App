@@ -1,0 +1,205 @@
+# group: abdominal_pain
+s|u|bad stomach pain on the right side
+s|e|severe belly pain and vomiting blood
+s|r|stomach ache after eating
+s|u|sharp pain lower right belly
+s|r|cramps on and off for a week
+s|u|stomach pain and fever
+s|e|worst stomach pain of my life, belly is hard
+r|u|The pain started around my belly button last night and now it's moved to the lower right side. It hurts more when I walk or cough. I'm 19 and haven't been able to eat today.
+r|r|I get a burning stomach ache most mornings, especially when I skip breakfast. It's been going on for a couple of months. Antacids help a bit. I'm worried about an ulcer.
+r|u|I have pain under my right ribs that comes after I eat fatty food and lasts a few hours. Tonight it's worse than usual and goes to my back. I'm 44.
+r|e|I'm 8 weeks pregnant and suddenly have terrible pain on one side of my lower belly and I feel faint. There's a little bleeding.
+r|r|My stomach has been crampy and bloated for about a week since I started a new medication. It's uncomfortable but I can still work.
+r|u|I've had steady upper belly pain for a day that goes straight through to my back, and I've been throwing up. I drink a lot on weekends.
+r|e|My belly is really swollen and hard and I haven't pooped or passed gas in three days and now I'm vomiting. I had surgery on my intestines last year.
+m|u|my stomach hurts real bad on the rite side down low
+m|r|stomach ache after i eat spicy food
+m|e|belly pain so bad i cant stand up and im throwin up blood
+m|u|pain in my upper stomach goin to my back
+m|r|cramps n bloating all week
+m|u|stomack pain wit fever and chills
+m|r|my stomach burns wen im hungry
+x|u|me duele mucho el estómago del lado derecho, since this morning
+x|r|dolor de estómago después de comer, it's been a few days
+x|e|tengo un dolor horrible en la panza y estoy vomitando sangre
+x|u|dolor en la boca del estómago que va a la espalda
+x|r|tengo cólicos y gases desde ayer
+x|u|mi esposa tiene dolor de estómago con fiebre y no puede comer
+p|u|my 10 year old has pain in his lower right belly and won't jump
+p|r|my 6 year old keeps saying her tummy hurts before school
+p|e|my 1 year old has a hard swollen belly and is vomiting green
+p|u|my 14 year old daughter has bad stomach pain and a fever
+p|r|my 4 year old has a tummy ache after eating too much candy
+p|u|my 8 year old has belly pain that comes and goes every few minutes and he pulls his legs up
+o|e|I'm 76 and have sudden severe belly pain and my belly is tender everywhere
+o|u|I'm 68 and have had stomach pain for two days and I'm on blood thinners
+o|r|I'm 70 and get stomach cramps after taking my arthritis pills
+o|u|I'm 72 and have pain in my lower left belly with a fever
+o|r|I'm 63 and have mild stomach discomfort on and off for weeks
+o|e|I'm 80 and I'm in terrible stomach pain and my stool is black
+o|u|I'm 66 with gallstones and the pain is back and worse
+# group: digestive_upset
+s|r|nausea all day
+s|u|vomiting for 24 hours can't keep water down
+s|r|diarrhea since yesterday
+s|r|heartburn every night
+s|u|throwing up and dizzy
+s|r|constipated for 5 days
+s|u|blood in my stool
+r|r|I think I ate something bad at a party. I've had diarrhea and cramps since last night but I'm keeping fluids down. I just want to know what to watch for.
+r|u|I've been vomiting since yesterday afternoon and can't even keep water down. I haven't peed much today and I feel dizzy when I stand up.
+r|r|I get heartburn almost every night after dinner and it wakes me up with a sour taste. Over the counter stuff helps for a while. I'd like to see someone about it.
+r|u|I noticed bright red blood when I wiped and in the toilet a few times this week. It doesn't really hurt. I'm 50 and never had a colonoscopy.
+r|r|I've been constipated for almost a week even though I'm eating fruit. I'm uncomfortable and bloated. I started a new iron pill recently.
+r|u|My skin and the whites of my eyes look yellow and my pee is dark. I've been really tired and itchy. I'm 41.
+r|e|I've been throwing up blood that looks like coffee grounds and I feel weak and shaky. I've had stomach problems for a while.
+m|r|feel nauseas all day and no appetite
+m|u|cant stop throwin up since last nite
+m|r|got diarrea from somethin i ate
+m|r|heart burn real bad after i eat
+m|u|blood wen i poop for a few days
+m|r|havent pooped in 4 days stomach feels full
+m|u|my eyes look yellow n my pee is dark
+x|r|tengo náuseas y no tengo hambre, since two days
+x|u|vomitando desde anoche y no puedo tomar agua
+x|r|tengo diarrea desde ayer, should I take something?
+x|r|agruras todas las noches después de cenar
+x|u|sangre en las heces, I'm scared
+x|r|estreñimiento hace cinco días, ya probé de todo
+p|u|my 2 year old has been vomiting all day and has had no wet diapers since morning
+p|r|my 7 year old has diarrhea but is drinking and playing
+p|u|my 9 month old has diarrhea and seems very sleepy
+p|r|my 5 year old is constipated and cries when she poops
+p|r|my 12 year old gets nauseous in the morning before school
+p|e|my baby is 3 weeks old and is projectile vomiting after every feed and seems weak
+o|u|I'm 74 and have had diarrhea for 3 days and feel weak
+o|r|I'm 67 with acid reflux that's getting worse
+o|u|I'm 70 and noticed black tarry stools since yesterday
+o|r|I'm 65 and constipated since starting a new pain medicine
+o|u|I'm 78 and vomiting since this morning, I take insulin
+o|r|I'm 69 and have nausea after taking my new pills
+o|r|I'm 72 and need a colonoscopy referral but have no doctor
+# group: dental_mouth
+s|r|toothache for a week
+s|u|swollen face from a tooth infection
+s|r|need a cheap dentist
+s|r|broken tooth
+s|u|tooth pain and fever
+s|r|bleeding gums when I brush
+s|e|jaw and face swelling, hard to swallow
+r|r|I have a molar that's been aching for about a week, worse with cold drinks. I don't have dental insurance and I'm scared of how much it will cost. Is there a low-cost dentist near New Brunswick?
+r|u|My cheek has swollen up over the last two days around a bad tooth and it's throbbing. I have a low fever now. I can still open my mouth but it hurts.
+r|r|I chipped my front tooth on a fork. It doesn't hurt but it looks bad and I have job interviews coming up.
+r|e|My face swelled up from a tooth infection and now the swelling is going down my neck and it's hard to swallow and breathe.
+r|r|My gums bleed every time I brush and my breath is bad. I haven't been to a dentist in about five years because I couldn't afford it.
+r|u|I had a tooth pulled three days ago and the pain is getting worse instead of better, and it goes up to my ear. I think it might be dry socket.
+r|r|I have a sore inside my mouth that's been there about a week. It's painful when I eat. I want someone to look at it.
+m|r|my tooth hurts real bad wen i drink cold stuff
+m|u|face swole up from my tooth
+m|r|need a dentist that dont cost alot
+m|r|broke my tooth on some candy
+m|u|tooth abses and fever
+m|r|gums bleedin wen i brush
+m|r|wisdom tooth comin in n it hurts
+x|r|me duele una muela hace una semana, no tengo seguro dental
+x|u|tengo la cara hinchada por una muela infectada
+x|r|busco un dentista barato cerca de New Brunswick
+x|r|se me rompió un diente comiendo
+x|u|dolor de muela con fiebre, since yesterday
+x|r|me sangran las encías cuando me cepillo
+p|r|my 6 year old has a cavity and says it hurts when she eats
+p|u|my 8 year old's cheek is swollen near a bad tooth
+p|r|my 3 year old has never seen a dentist, where can we go with medicaid
+p|r|my 10 year old knocked out a baby tooth at the park
+p|u|my 12 year old knocked out an adult front tooth playing basketball 20 minutes ago
+p|r|my 14 year old needs braces evaluation but we can't afford it
+o|r|I'm 70 and my dentures don't fit anymore and hurt
+o|u|I'm 66 and have a painful swollen gum and a bad taste
+o|r|I'm 72 and need dental care but Medicare doesn't cover it
+o|r|I'm 68 and a filling fell out
+o|u|I'm 75 with a toothache and swelling and I'm on blood thinners
+o|r|I'm 63 and my teeth are loose
+o|r|I'm 80 and have a sore on my gum that won't heal
+# group: headache
+s|r|headache for two days
+s|e|worst headache of my life came on suddenly
+s|r|migraine again
+s|u|headache with vomiting
+s|r|tension headache from stress
+s|u|headache and blurry vision
+s|e|sudden headache and can't move my arm
+r|e|I was lifting weights and suddenly got the worst headache I've ever had, like being hit with a bat. It came on in seconds. I feel sick and the light hurts.
+r|r|I get headaches most afternoons, usually behind my eyes. I stare at a computer all day and drink a lot of coffee. Ibuprofen helps but I'm taking it almost every day.
+r|u|I've had migraines for years but this one has lasted three days and my usual medicine isn't working. I keep throwing up.
+r|r|I've been getting headaches since I started a new job with night shifts. They're not terrible, just annoying. I don't have a doctor.
+r|u|I have a headache that's been getting worse every day for two weeks, and it's worse in the morning when I wake up. I've also been throwing up a little.
+r|e|My headache started an hour ago and now my speech is slurred and the left side of my face feels droopy.
+r|r|I get migraines a few times a month and I'd like to get on a preventive medication. I can't afford a neurologist.
+m|r|my head been hurtin for 2 days
+m|e|worst headache ever came out of nowhere
+m|r|migrain again cant look at light
+m|u|headache n throwin up all nite
+m|r|headaches every day from stress at work
+m|u|bad headache and my vision is blurry
+m|r|need somethin for my migranes
+x|r|me duele la cabeza desde ayer
+x|e|tengo el peor dolor de cabeza de mi vida, it came on suddenly
+x|r|tengo migraña otra vez y la luz me molesta
+x|u|dolor de cabeza con vómito, since this morning
+x|r|dolores de cabeza por estrés del trabajo
+x|u|mi mamá tiene dolor de cabeza fuerte y la presión alta
+p|r|my 11 year old gets headaches after school
+p|u|my 9 year old has a headache and fever and his neck hurts
+p|r|my 15 year old gets migraines and misses school
+p|u|my 7 year old has had a headache every morning for a week with vomiting
+p|r|my 13 year old says her head hurts when she reads, maybe she needs glasses
+p|e|my 16 year old has a sudden terrible headache and is confused
+o|u|I'm 71 and have a new headache and pain at my temple when I chew
+o|r|I'm 65 and get tension headaches in my neck and head
+o|e|I'm 78 on blood thinners, fell yesterday and now have a bad headache
+o|u|I'm 68 and have a headache with very high blood pressure
+o|r|I'm 70 and have headaches in the morning
+o|u|I'm 74 and this headache is different from any I've had before
+o|r|I'm 62 and want help with my chronic migraines
+# group: neuro_dizziness_seizure
+s|u|room spinning when I move my head
+s|e|face drooping and slurred speech
+s|e|having a seizure right now
+s|r|tingling in my feet
+s|u|dizzy and off balance all day
+s|e|sudden weakness on one side of my body
+s|r|numb fingers in the morning
+r|e|My husband's speech suddenly got garbled about 15 minutes ago and he can't lift his right arm. He's 61. We're at home in New Brunswick.
+r|u|Every time I roll over in bed or look up the room spins for about a minute and I feel sick. It started three days ago. I'm 45.
+r|r|My hands go numb and tingly at night, especially the thumb and first fingers. I type all day at work. It's been a few months.
+r|e|I had a seizure about 10 minutes ago and I've never had one before. I bit my tongue and I'm really confused.
+r|u|I have epilepsy and I've had two seizures this week even though I'm taking my medication. I'm running low on pills and can't afford more.
+r|r|I've been feeling a little lightheaded when I stand up quickly. It passes after a few seconds. I've been dieting and not eating much.
+r|u|For the past week I've had numbness and tingling in both legs that seems to be moving up. Today my legs feel weak.
+m|u|im real dizzy n the room keeps spinnin
+m|e|my face feels droopy and i cant talk rite
+m|r|my feet tingle n burn at nite
+m|e|my brother is havin a seizure on the floor
+m|u|dizzy n almost fell over twice today
+m|r|my hand goes numb wen i sleep on it
+m|u|ran out of my seizure meds
+x|u|me siento muy mareado y todo da vueltas
+x|e|mi papá no puede hablar bien y tiene la cara caída
+x|r|tengo hormigueo en los pies desde hace meses
+x|e|mi hijo está convulsionando, what do I do
+x|u|mareos y casi me desmayo en el trabajo
+x|r|se me duermen las manos en la noche
+p|e|my 2 year old had a seizure with a fever, first time ever
+p|u|my 10 year old has been dizzy and clumsy for a few days
+p|r|my 14 year old gets dizzy when she stands up fast
+p|e|my 8 year old has been seizing for over 5 minutes
+p|u|my 6 year old has epilepsy and his seizures are happening more often
+p|r|my 12 year old's hands shake a little when he writes
+o|e|I'm 74 and suddenly can't see out of one side and my arm is weak
+o|u|I'm 70 and keep getting dizzy spells and nearly fell
+o|r|I'm 67 with diabetes and numbness in my feet
+o|e|I'm 80 and my wife is suddenly confused and can't find her words
+o|u|I'm 66 and my balance has gotten much worse this week
+o|r|I'm 72 and have a slight tremor in my hand
+o|u|I'm 69 and have had vertigo for two days with vomiting

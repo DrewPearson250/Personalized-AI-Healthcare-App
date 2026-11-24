@@ -1,0 +1,109 @@
+# TEST SET. style: t=test-textspeak c=test-caregiver f=test-formal q=test-question n=test-spanish l=test-runon
+# group: chest_pain
+t|e|chest feels like an elephant on it rn and my arm tingles smh
+c|e|my dad is clutching his chest and says it feels heavy, he's sweating buckets
+f|u|Good afternoon, I have experienced intermittent chest discomfort over the past three days, mostly after meals. I would like to be evaluated.
+q|r|is it normal for my chest to hurt where I press on it after a week of heavy coughing?
+n|e|siento una presión muy fuerte en el pecho y me falta el aire, empezó hace diez minutos
+l|u|so my chest has been doing this stabbing thing whenever i breathe in deep since saturday and i dont have a fever but it wont go away and i dont know if i should worry
+t|r|chest kinda sore from the gym lol pulled smth i think
+c|u|my roommate keeps getting chest pain when she climbs stairs and then it stops when she rests
+f|r|Hello, I experience brief chest tightness when anxious. It resolves within a minute. Could I schedule a check-up?
+q|e|should I go in if my chest pain spread to my jaw and I feel like throwing up?
+n|u|me duele el pecho cuando como, desde hace una semana
+# group: heart_circulation
+t|u|heart going like 140 just sitting here idk why
+c|r|my mom ran out of her blood pressure meds and we can't find a doctor that takes her insurance
+f|e|My blood pressure reading is 230/125 and I have a severe headache and chest discomfort. Please advise.
+q|r|can I get my blood pressure checked for free anywhere near New Brunswick?
+n|u|tengo palpitaciones muy fuertes y me siento mareada
+l|r|the veins on my legs are bulging and blue and they ache after my double shifts and i was wondering if theres anything i can do that doesnt cost a ton
+t|u|bp machine at cvs said 185/105 is that bad
+c|u|my husband's ankles are super swollen and he gets winded walking to the car
+f|r|I would like assistance obtaining a refill of my hypertension medication, amlodipine, as I currently lack insurance.
+q|e|my heart is beating super irregular and I almost passed out, do I need the ER?
+n|r|necesito que alguien me revise la presión, no tengo médico
+# group: breathing_difficulty
+t|e|cant breathe like at all help
+c|u|my partner's asthma is acting up and her inhaler isnt doing much tonight
+f|u|I have had progressive shortness of breath for three days, worse when lying flat.
+q|r|where can I get an albuterol inhaler without insurance?
+n|e|mi bebé respira muy rápido y se le hunden las costillas
+l|u|i keep wheezing every night since the smoke from the fires and my rescue inhaler helps for like an hour and then it comes back and im using it way more than normal
+t|r|kinda winded on the stairs lately is that a lung thing
+c|e|my grandpa is on oxygen and still gasping and his lips look gray
+f|r|I am seeking a pulmonary function test as I have noticed reduced exercise tolerance.
+q|u|is it bad that I'm still short of breath a month after covid?
+n|u|tengo asma y me está costando respirar desde anoche
+# group: cough_cold_flu
+t|r|got a cold ugh nose wont stop running
+c|u|my coworker has a fever of 102 and a nasty cough and is diabetic
+f|r|I have had nasal congestion and a sore throat for four days and would like advice on care.
+q|r|how long is a cough supposed to last after a cold?
+n|u|me duele muchísimo la garganta y tengo placas blancas
+l|r|i think i have the flu bc my whole body aches and im freezing and then hot and my head hurts but im 25 and healthy so idk if i need to see anyone
+t|u|positive covid test and im 60 w heart probs what do i do
+c|r|my sister has had a stuffy nose and sneezing for a week
+f|u|I tested positive for influenza and have chronic kidney disease. Should I be seen?
+q|r|can I get a flu shot for free somewhere?
+n|r|tengo tos y mocos desde el lunes
+# group: fever_infection
+t|u|fever 103 for 3 days tylenol aint doing it
+c|e|my mom is on chemo and just spiked a fever of 101
+f|r|I had a mild fever last night of 100.4 which has resolved. Is follow-up necessary?
+q|e|is it serious that I have a fever, stiff neck and the light hurts my eyes?
+n|u|tengo fiebre alta desde que regresé de mi viaje
+l|u|my tattoo got all red and hot and now theres streaks going up my arm and i have a fever and i feel kinda gross
+t|r|lowkey feverish and tired
+c|u|my husband has had fevers every night for a week and is sweating through the sheets
+f|e|My infant is five weeks old and has a temperature of 100.9.
+q|r|should I worry about a low fever after my vaccine?
+n|e|tengo fiebre de 104 y unas manchas moradas en las piernas
+# group: abdominal_pain
+t|u|stomach pain lower right rn n it hurts to walk
+c|e|my grandma has terrible belly pain and her belly is rock hard
+f|r|I experience a burning sensation in my upper abdomen when hungry. Antacids provide partial relief.
+q|u|should I worry if my stomach pain goes to my back and I keep throwing up?
+n|u|me duele mucho el estómago del lado derecho abajo
+l|r|my stomach has been crampy and bloated all week since i started this new medicine and its not terrible but its annoying and i want to know if i should stop it
+t|e|throwing up blood and my stomach hurts sooo bad
+c|u|my son is 11 and his belly hurts on the right and he won't eat
+f|u|I have pain beneath my right ribs after fatty meals, which has become more severe tonight.
+q|e|is sudden one-sided pelvic pain with spotting dangerous if I'm pregnant?
+n|r|tengo dolor de estómago leve después de comer
+# group: digestive_upset
+t|u|been puking since last nite cant keep water down
+c|r|my roommate has diarrhea from bad takeout but is drinking fine
+f|r|I suffer from nightly heartburn and would like to discuss treatment options.
+q|u|is blood on toilet paper something I need to get checked?
+n|u|mis ojos están amarillos y la orina oscura
+l|r|i havent pooped in like five days even though im eating fruit and drinking water and im bloated and uncomfortable
+t|r|nauseous all day ugh
+c|u|my dad is throwing up coffee ground looking stuff
+f|r|I would like a referral for a screening colonoscopy; I am 50 and uninsured.
+q|r|what can I take for diarrhea that's been going on for a day?
+n|u|vomito desde ayer y me siento muy débil
+# group: dental_mouth
+t|r|tooth hurts when i drink cold stuff
+c|u|my mom's cheek is swollen from a bad tooth and she has a fever
+f|r|I am seeking an affordable dental clinic for a cleaning and examination.
+q|r|is there a dentist near New Brunswick that takes Medicaid for adults?
+n|u|se me inflamó el cachete por una muela podrida y tengo calentura
+l|r|i chipped my front tooth on a fork and it doesnt hurt but it looks bad and i have interviews next week
+t|e|face swelling from tooth going down my neck n hard to swallow
+c|r|my husband's dentures broke and he can't eat well
+f|u|I had a tooth extracted four days ago and the pain is worsening and radiating to my ear.
+q|r|why do my gums bleed every time I brush?
+n|r|una muela me está matando de dolor, ¿dónde hay un dentista barato?
+# group: headache
+t|e|worst headache of my life just hit outta nowhere
+c|u|my wife's migraine has lasted 3 days and she keeps vomiting
+f|r|I experience daily tension headaches and would like to discuss preventive treatment.
+q|u|should I worry about a headache that's worse every morning for two weeks?
+n|r|me duele la cabeza desde ayer por el estrés
+l|e|my head started hurting an hour ago and now my words are coming out wrong and my face feels weird on one side
+t|r|headache from staring at screens all day
+c|e|my dad hit his head yesterday, he's on blood thinners, now he has a bad headache
+f|u|I have a severe headache accompanied by blurred vision and elevated blood pressure.
+q|r|is it okay to take ibuprofen every day for headaches?
+n|u|tengo un dolor de cabeza con vómito desde la mañana

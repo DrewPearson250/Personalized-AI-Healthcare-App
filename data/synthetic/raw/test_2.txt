@@ -1,0 +1,220 @@
+# TEST SET (part 2)
+# group: neuro_dizziness_seizure
+t|u|room spinning every time i roll over in bed
+c|e|my mom's face is drooping and she can't lift her arm
+f|r|I experience numbness and tingling in my fingers at night and would like an evaluation.
+q|e|what should I do if my coworker is having a seizure right now?
+n|u|me siento muy mareado y casi me caigo dos veces
+l|u|i have epilepsy and ive had two seizures this week even though im taking my meds and im almost out and cant afford more
+t|r|feet tingly at nite
+c|e|my husband suddenly can't talk right and is confused
+f|u|I have had worsening balance and leg weakness over the past week.
+q|r|is it normal to feel lightheaded for a second when I stand up fast?
+n|e|mi hijo de dos años tuvo una convulsión con fiebre
+# group: weakness_fainting
+t|u|passed out at work for like 10 sec
+c|e|my grandma fainted and isn't waking up properly
+f|r|I have experienced persistent fatigue for several weeks and would like blood work.
+q|u|should I see someone if I almost faint every time I stand?
+n|r|no tengo fuerzas para nada últimamente, duermo y sigo agotada
+l|e|i fainted while running and when i woke up my heart was racing and my chest hurt and im only 20
+t|r|tired 24/7 no energy
+c|u|my dad has been so weak since his stomach bug he can barely stand
+f|u|I lost consciousness briefly this morning in the shower. I feel recovered now.
+q|r|could heavy periods be why I'm always tired?
+n|u|me desmayé hoy en la tienda
+# group: mental_health
+t|r|anxiety thru the roof cant sleep
+c|e|my roommate said she has pills and is going to end it tonight
+f|r|I am seeking an affordable therapist who speaks Spanish.
+q|u|what do I do if my brother hasn't slept in days and thinks people are following him?
+n|e|ya no quiero vivir y tengo un plan
+l|r|ive been feeling really down for months and not enjoying anything and sleeping a ton but im not going to hurt myself i just want to talk to someone and i dont have insurance
+t|u|panic attacks every day now n getting worse
+c|u|found cuts on my 15 year old's thighs and she admitted she does it on purpose
+f|r|My psychiatrist left the clinic and I need a new prescriber for my antidepressant.
+q|r|are there free counseling services for Rutgers students?
+n|u|mi esposo está muy agresivo y confundido desde ayer
+q|e|what should I do, I cut myself and it won't stop bleeding?
+# group: allergic_reaction
+t|e|ate shrimp n my throat closing up
+c|u|my husband broke out in hives all over after a new antibiotic
+f|r|I would like allergy testing for persistent seasonal symptoms.
+q|e|is it an emergency if my lips and tongue swell after a new pill?
+n|u|tengo ronchas por todo el cuerpo y me pica mucho
+l|r|every spring my eyes itch and i sneeze nonstop and the otc pills make me sleepy so is there something better
+t|u|eye swole shut from a bug bite
+c|e|my son ate a cookie with nuts and is wheezing and has hives
+f|u|I have recurrent hives for two weeks that respond partially to antihistamines.
+q|r|where can I get an EpiPen prescription renewed cheaply?
+n|r|soy alérgico al gato y estornudo mucho
+# group: substance_overdose
+t|e|my friend took smth n isnt breathing right lips blue
+c|u|my brother wants to stop drinking but gets the shakes
+f|r|I am looking for a Suboxone program that accepts uninsured patients.
+q|e|what do I do if my toddler swallowed a button battery?
+n|u|tengo síntomas de abstinencia, vomito y no duermo
+l|e|i took a whole bottle of tylenol a couple hours ago because i was upset and i feel fine right now but i read it can be dangerous
+t|r|tryna quit vaping any programs
+c|u|my dad mixed his sleeping pills with wine and is very confused
+f|r|I would like information about outpatient alcohol counseling.
+q|r|is there a rehab near New Brunswick that takes Medicaid?
+n|e|mi niña de 3 años se bebió un poco de detergente líquido
+# group: eye
+t|e|splashed oven cleaner in my eye omg it stings like crazy
+c|u|my mom suddenly sees a curtain over one eye
+f|r|I require an eye examination and prescription glasses but lack vision insurance.
+q|u|should I worry about new flashes and floaters in one eye?
+n|r|tengo el ojo rojo y con lagañas
+l|u|i slept in my contacts and now my eye is super red and painful and my vision is kinda cloudy
+t|r|eye all goopy n crusted shut this am
+c|e|my grandfather has a red painful eye with headache and vomiting
+f|u|I was struck in the eye by a branch and have pain and tearing.
+q|r|where can kids get free eye exams?
+n|u|perdí la vista de un ojo hace una hora, todo se ve nublado
+# group: ear
+t|r|ear hurts since swimming
+c|u|my toddler is pulling her ear and has a fever
+f|r|I have experienced a sensation of fullness in my ears since a cold one week ago.
+q|u|is it serious to suddenly lose hearing in one ear overnight?
+n|r|escucho un pitido constante en ambos oídos desde hace meses
+l|r|my hearing has been getting worse for years and everyone says the tv is too loud but i cant afford hearing aids
+t|u|ear pain n gunk coming out
+c|r|my dad needs a hearing test
+f|u|There is swelling and redness behind my ear following an ear infection.
+q|r|can I clean ear wax at home or should a doctor do it?
+n|r|mi oído izquierdo está adolorido y siento presión
+# group: urinary_kidney
+t|r|burns when i pee ugh uti again
+c|e|my grandfather can't pee and his belly is swollen and painful
+f|u|I have urinary symptoms for four days and now fever and flank pain.
+q|u|should I go in for pain in my side that comes in waves and goes to my groin?
+n|u|mi orina salió rojiza hoy y no sé por qué
+l|r|im getting up like four times a night to pee and my stream is weak and its been getting worse for months
+t|u|uti + fever + back pain
+c|u|my mom has a UTI and is more confused than usual
+f|r|I have chronic kidney disease and require laboratory monitoring without insurance.
+q|r|where can I get tested for a UTI cheaply?
+n|r|me arde al orinar desde ayer
+# group: pregnancy_womens_health
+t|r|positive test now what no insurance
+c|e|my wife is 35 weeks pregnant with a bad headache and swelling and seeing spots
+f|r|I am seeking a gynecologist for heavy and painful menstrual periods.
+q|u|is spotting with cramps at 11 weeks pregnant something to get checked?
+n|e|tengo 30 semanas y no siento al bebé moverse
+l|r|i want to start birth control but i dont have a doctor and dont know where to go thats free or cheap
+t|u|bleeding after menopause is that bad
+c|r|my 16 year old daughter needs a gyn checkup
+f|u|I have pelvic pain with fever and abnormal discharge for three days.
+q|r|where can I get free prenatal care in New Brunswick?
+n|r|necesito la pastilla del día siguiente
+# group: skin
+t|u|leg red hot n swelling getting bigger
+c|e|my brother's skin is blistering and peeling after a new med and he has a fever
+f|r|I would like a dermatology evaluation of a mole that has changed in size.
+q|r|what can I do about eczema on my hands from washing dishes?
+n|u|tengo un absceso con pus en la axila
+l|r|my acne is really bad and leaving scars and nothing over the counter works and i cant afford a dermatologist
+t|r|itchy rash on my arms idk from what
+c|u|my grandmother has a bedsore that's getting worse
+f|u|I have a painful blistering rash in a band on one side of my torso.
+q|r|is there free treatment for lice?
+n|r|entre los dedos de los pies tengo la piel blanca y con comezón
+# group: back_neck_pain
+t|r|back hurts after moving furniture
+c|e|my dad's back pain got bad and now he can't feel his groin and wet himself
+f|u|I have lower back pain radiating down my right leg with numbness in my foot.
+q|r|can I get physical therapy without insurance?
+n|r|tengo el cuello tieso desde ayer
+l|u|my back has been killing me and i have a fever and chills and it hurts to touch my spine
+t|r|neck stiff from sleeping weird
+c|e|my grandmother has sudden tearing back pain into her belly
+f|r|I have chronic low back pain from construction work and would like a treatment plan.
+q|u|should I worry about back pain with new leg weakness?
+n|r|me duele la espalda baja por el trabajo
+# group: joint_limb_pain
+t|u|calf swollen n red after long flight
+c|e|my husband's leg suddenly went cold and pale and he can't feel his foot
+f|r|I experience knee pain when descending stairs and would like an evaluation.
+q|u|is a hot, swollen, super painful big toe something I need to get looked at today?
+n|r|no puedo subir el brazo por el dolor en el hombro
+l|r|my fingers are stiff and swollen every morning for like an hour and my mom had rheumatoid arthritis so im worried
+t|r|knees achy arthritis probs
+c|u|my son is limping and has a fever
+f|u|I have a swollen and painful calf following recent surgery.
+q|r|what helps leg cramps at night?
+n|r|tengo artritis en las manos
+# group: diabetes_blood_sugar
+t|u|sugar 420 n i feel sick
+c|e|my husband is diabetic and sweaty and confused, sugar is 42
+f|r|I would like to be screened for diabetes; I have increased thirst and urination.
+q|u|what do I do if I ran out of insulin and can't afford it?
+n|e|mi hijo tiene diabetes tipo 1, vomita y respira muy rápido
+l|r|lost my job last month so no insurance and my diabetes pills are gone and my readings keep creeping up around 200 every morning
+t|r|prediabetic what now
+c|u|my mom's diabetic foot sore smells bad
+f|r|I require a referral to a diabetes educator.
+q|r|where can I get my A1c checked cheaply?
+n|u|tengo el azúcar en 380 desde hace días
+# group: collapse_unresponsive
+t|e|my friend wont wake up n barely breathing
+c|e|my dad collapsed in the kitchen and isn't responding
+f|e|An individual has collapsed in front of my building and is not breathing.
+q|e|what do I do, my grandmother isn't breathing?
+n|e|mi esposo se desplomó y no responde
+l|e|my roommate was drinking last night and now she is breathing really slow and i cant wake her up
+t|e|guy passed out at the gym no pulse
+c|u|my mom keeps nodding off mid conversation since her new pain med
+f|u|My elderly father is unusually drowsy and difficult to rouse after a fall two days ago.
+q|e|my baby went limp and blue, what do I do?
+n|e|mi sobrino se ahogó en la alberca y no reacciona
+# group: head_injury
+t|u|hit my head on ice n kinda foggy now
+c|e|my friend got knocked out, now he keeps repeating questions and throwing up
+f|r|I struck my head on a cabinet yesterday and have a small tender bump; I feel otherwise normal.
+q|e|is it serious if I hit my head and I'm on blood thinners?
+n|u|me corté la frente y no para de sangrar
+l|u|i took a hard hit to the head in football last night and today im dizzy and light bothers me and i cant focus
+t|r|black eye from walking into a door lol
+c|e|my nephew is 9 months and tumbled down a full flight of stairs and now keeps dozing off
+f|u|I sustained a laceration above my eyebrow that likely requires stitches.
+q|u|how do I know if my son has a concussion from soccer?
+n|r|me di un golpe en la cabeza con la puerta del carro, solo tengo un bulto
+# group: bites_stings
+t|u|dog bit my hand broke skin
+c|e|my daughter got stung and her face is swelling and she's wheezing
+f|r|I removed a tick from my leg after hiking and would like advice about Lyme disease.
+q|u|do I need a rabies shot if a bat was in my room while I slept?
+n|r|tengo el tobillo inflamado donde me picó un insecto
+l|u|a cat at the shelter where i volunteer sank its teeth into my thumb yesterday and now my whole hand is puffy and throbbing
+t|r|mosquito bites everywhere so itchy
+c|u|my grandpa was bitten by a neighbor's dog on the leg
+f|u|My child was bitten on the face by a dog this afternoon.
+q|r|is a big swollen red area from a wasp sting normal?
+n|e|una avispa me picó y se me está cerrando la garganta
+# group: injury_other
+t|u|fell off my bike wrist looks bent
+c|e|my dad fell off a ladder and can't stand up
+f|r|I sprained my ankle two days ago and can bear weight with a limp. Is an x-ray necessary?
+q|e|my belly started hurting a lot an hour after a car crash, should I go in?
+n|u|me corté la mano con un cuchillo y es profunda
+l|u|i spilled boiling water on my leg and theres a blister bigger than my hand and it hurts so much
+t|r|jammed my finger at basketball
+c|u|my grandmother fell and can't put weight on her hip
+f|r|I sustained bruises during an altercation and would like them documented.
+q|e|what do I do if the bone is sticking out of my son's arm?
+n|u|creo que me fracturé el tobillo
+c|u|my roommate cut his hand on a box cutter and can't bend his finger
+# group: other_general
+t|r|need a checkup no insurance
+c|u|my mom has a lump in her neck thats been growing for a month
+f|r|I recently moved to New Brunswick and need a primary care physician who accepts NJ FamilyCare.
+q|u|should I worry about losing 15 pounds without trying and night sweats?
+n|u|la herida de mi cirugía está roja y le sale pus
+l|r|i dont have anything specific wrong i just havent seen a doctor in like five years and want bloodwork and a basic checkup
+t|r|body aches all over not sick tho
+c|r|my sister just had a baby and needs a pediatrician who accepts NJ FamilyCare
+f|u|I have a bulge in my groin that has become painful and firm.
+q|r|where can my kid get school vaccines for free?
+n|r|me siento mal en general desde hace semanas
+q|r|can I get a sports physical cheaply?

@@ -1,0 +1,205 @@
+# group: joint_limb_pain
+s|r|knee pain when walking
+s|u|swollen painful calf after a long flight
+s|r|shoulder hurts when I lift my arm
+s|r|arthritis in my hands
+s|u|hot swollen big toe joint
+s|r|leg cramps at night
+s|u|leg suddenly cold and painful
+r|r|My right knee has been aching for a few months, especially going down stairs. It clicks sometimes. I'm 49 and I used to run a lot.
+r|u|My left calf is swollen, red and painful since yesterday. I just got back from a long road trip. It hurts more when I walk.
+r|r|My shoulder hurts when I reach overhead or sleep on it. I'm a painter and it's been bothering me for weeks.
+r|u|I woke up with my big toe joint red, hot, swollen and so painful I can't put a sheet on it. I had a lot of beer last night.
+r|r|My fingers are stiff and swollen in the morning for about an hour. My mom had rheumatoid arthritis.
+r|e|My leg suddenly got cold, pale and really painful an hour ago and I can't feel my foot well.
+r|r|I get cramps in my calves at night and varicose veins that ache by the end of the day.
+m|r|my knee hurts wen i walk up stairs
+m|u|my calf is swole n red n hurts
+m|r|shoulder pain cant lift my arm all the way
+m|r|my hands r stiff n achy in the mornin
+m|u|my big toe is red n hot n swollen
+m|r|leg cramps wake me up at nite
+m|r|my hip hurts wen i sleep on it
+x|r|me duele la rodilla al caminar
+x|u|tengo la pantorrilla hinchada y roja
+x|r|me duele el hombro cuando levanto el brazo
+x|r|artritis en las manos, need medicine
+x|u|el dedo gordo del pie hinchado y caliente
+x|r|calambres en las piernas en la noche
+p|r|my 12 year old has knee pain after basketball
+p|u|my 6 year old is limping and has a fever
+p|r|my 4 year old says her legs hurt at night
+p|u|my 9 year old's wrist is swollen after a fall but he can move it
+p|r|my 14 year old has heel pain when running
+p|u|my 8 year old won't walk on his leg today and it's swollen at the knee
+o|r|I'm 70 with arthritis in both knees
+o|u|I'm 72 with a swollen painful leg, I had surgery last month
+o|r|I'm 66 and my hip hurts walking
+o|r|I'm 68 with shoulder pain for months
+o|u|I'm 75 and my knee is suddenly hot and swollen
+o|r|I'm 69 and my hands are stiff with arthritis
+o|u|I'm 71 and my leg is purple and painful
+# group: diabetes_blood_sugar
+s|u|blood sugar over 400
+s|e|blood sugar 40 and shaking
+s|r|need diabetes medication refill
+s|r|always thirsty and peeing a lot
+s|u|ran out of insulin
+s|r|want to check for diabetes
+s|u|high sugar and vomiting
+r|r|I've been really thirsty and peeing a lot for a few weeks, and I've lost some weight without trying. My dad has diabetes. Can I get tested somewhere cheap?
+r|u|I ran out of insulin two days ago because I couldn't afford it. My sugar is 380 this morning and I feel tired and thirsty.
+r|e|My blood sugar meter says HI and I've been throwing up all day, breathing fast and my breath smells fruity. I'm type 1.
+r|r|I have type 2 diabetes and my metformin ran out. I lost my job and my insurance. My sugars have been around 200.
+r|e|My husband is diabetic and he's sweaty, confused and not making sense. His sugar is 45. He can still swallow.
+r|u|I have diabetes and a sore on the bottom of my foot that isn't healing and now it smells.
+r|r|I was told I'm prediabetic at a health fair. I'd like to see someone about diet and whether I need medicine.
+m|u|my sugar is 450 n i feel sick
+m|e|my sugar is real low n im shakin n sweatin
+m|r|need my metformin refill no insurance
+m|r|always thirsty n peein alot
+m|u|out of insulin n cant afford it
+m|r|think i might have diabetes
+m|u|diabetic and my foot sore looks bad
+x|u|tengo el azúcar en 400
+x|e|el azúcar de mi papá está muy baja y está confundido
+x|r|necesito mi medicina para la diabetes, no tengo seguro
+x|r|tengo mucha sed y orino mucho
+x|u|se me acabó la insulina
+x|r|quiero hacerme la prueba de diabetes
+p|u|my 10 year old has diabetes and his sugar is very high with ketones
+p|r|my 8 year old is always thirsty and wetting the bed
+p|e|my 12 year old type 1 is vomiting and breathing very fast
+p|r|my 15 year old was told he's prediabetic
+p|u|my 6 year old diabetic's sugar dropped low and she's shaky
+p|r|my 13 year old needs a diabetes educator
+o|u|I'm 70 and my sugar has been over 300 for days
+o|r|I'm 66 and need a diabetes doctor
+o|e|I'm 75 and my sugar is 35 and I feel very confused
+o|r|I'm 68 and can't afford my insulin
+o|u|I'm 72 with diabetes and a toe turning black
+o|r|I'm 64 and need my A1c checked
+o|r|I'm 69 and need diabetic shoes and foot care
+# group: collapse_unresponsive
+s|e|person collapsed and not breathing
+s|e|my dad is unconscious
+s|e|found my friend unresponsive
+s|e|someone passed out on the street not waking up
+s|e|not breathing, no pulse
+s|e|my mom collapsed and won't respond
+s|u|my brother is very drowsy and hard to wake
+r|e|My grandfather just collapsed in the kitchen and he isn't responding when I shake him. I can't tell if he's breathing.
+r|e|There's a man lying on the sidewalk outside my building and he's not moving or answering. People are just walking past.
+r|e|My roommate won't wake up. She was drinking last night and now she's breathing really slowly and I can't get her up.
+r|u|My dad has been really sleepy and hard to wake today, he answers and then falls back asleep. He's 77 and had a fall two days ago.
+r|e|My husband was mowing the lawn and fell over. He's breathing but won't open his eyes or answer me.
+r|e|My son was swimming at the pool and they pulled him out not breathing. Someone is doing CPR.
+r|u|My mom keeps nodding off in the middle of conversations and is hard to keep awake. She started a new pain medicine.
+m|e|my friend aint breathin and wont wake up
+m|e|dad fell down n wont answer me
+m|e|my mom collapsed n her lips r blue
+m|u|my uncle real hard to wake up n confused
+m|e|guy passed out at the store not movin
+m|e|someone collapsed at the gym no pulse
+m|u|my grandma keeps passin out
+x|e|mi papá se desmayó y no respira
+x|e|encontré a mi amigo inconsciente
+x|e|mi abuela se cayó y no responde
+x|u|mi esposo está muy dormido y no despierta bien
+x|e|un hombre se desplomó en la calle
+x|e|mi hijo no respira, lo sacamos de la piscina
+p|e|my baby is not breathing and limp
+p|e|my 3 year old fell in the pool and isn't responding
+p|e|my 14 year old collapsed at practice and isn't breathing
+p|u|my 5 year old is very sleepy and hard to wake after a fever
+p|e|my 1 year old turned blue and went limp
+p|u|my 10 year old fainted and is slow to answer questions
+o|e|I'm 70 and my husband collapsed and isn't breathing
+o|e|I'm 75 and my wife won't wake up
+o|u|I'm 68 and my brother is very drowsy and confused
+o|e|I'm 80 and my neighbor collapsed in the hallway
+o|e|I'm 72, my friend fell and isn't breathing right
+o|u|I'm 66 and my sister keeps blacking out
+o|e|I'm 77 and my husband is unresponsive in bed
+# group: head_injury
+s|u|hit my head and have a headache
+s|e|head injury, vomiting and confused
+s|r|small bump on my head
+s|u|cut on my forehead won't stop bleeding
+s|u|possible concussion from soccer
+s|e|fell and hit head, on blood thinners
+s|r|bruise on my cheek from a fall
+r|u|I slipped on ice and hit the back of my head. I didn't pass out but I have a headache and feel a little foggy. It happened two hours ago.
+r|e|My friend got punched and fell back and hit his head on the curb. He was knocked out for a minute and now he keeps asking the same questions and throwing up.
+r|r|I bumped my head on a cabinet door yesterday. There's a small lump and it's tender but I feel totally normal.
+r|u|I got a deep cut on my eyebrow from a fall and it's gaping open. The bleeding slowed with pressure. I think it needs stitches.
+r|e|I'm on Eliquis and I fell and hit my head on the bathroom floor. I have a headache that's getting worse.
+r|u|I took a hard hit to the head in a football game last night and today I'm dizzy, sensitive to light and can't concentrate.
+r|r|I walked into a pole and my nose is swollen and sore but not bleeding. I can breathe through it fine.
+m|u|hit my head n got a headache
+m|e|hit my head n keep throwin up n confused
+m|r|got a lil bump on my head
+m|u|cut on my face wont stop bleedin
+m|u|think i got a concussion
+m|e|passed out after hittin my head
+m|r|black eye from a fall
+x|u|me golpeé la cabeza y me duele mucho
+x|e|mi hijo se cayó, se golpeó la cabeza y está vomitando
+x|r|tengo un chichón en la cabeza
+x|u|me corté la frente y sangra mucho
+x|u|creo que tengo una conmoción cerebral
+x|r|me golpeé la cara, tengo un moretón
+p|u|my 2 year old fell off the bed and hit his head and is crying
+p|e|my 9 month old fell down the stairs and is very sleepy
+p|r|my 5 year old has a bump on her forehead from the playground
+p|u|my 12 year old got hit in the head at soccer and has a headache
+p|e|my 7 year old hit his head and has clear fluid from his nose
+p|u|my 4 year old cut his chin and it's gaping
+o|e|I'm 78 and fell and hit my head, I'm on warfarin
+o|u|I'm 70 and hit my head on a shelf and feel dizzy
+o|r|I'm 66 and bumped my head, small bruise
+o|e|I'm 82 and my wife fell and hit her head and is confused
+o|u|I'm 73 and have a cut on my scalp from a fall
+o|r|I'm 68 and have a bruise on my face from tripping
+o|u|I'm 75 and hit my head yesterday and today I'm more forgetful
+# group: bites_stings
+s|r|bee sting swelling on my arm
+s|u|dog bite on my hand
+s|e|stung by a bee and throat feels tight
+s|r|mosquito bites very itchy
+s|u|bitten by a stray cat
+s|r|tick on my leg
+s|u|human bite from a fight
+r|u|A neighbor's dog bit my hand this morning. The bite broke the skin in a couple of places and it's swollen. I don't know if the dog has had its shots.
+r|r|I got stung by a wasp on my arm yesterday and the area is red and swollen about the size of my palm. It's itchy but I feel fine otherwise.
+r|e|I got stung by a bee and within minutes I'm covered in hives, my throat feels tight and I'm dizzy. I'm allergic but don't have an EpiPen.
+r|r|I found a tick on my thigh after hiking. I pulled it off. Now there's a small red bump. Should I worry about Lyme?
+r|u|I was scratched and bitten by a stray cat I was trying to help. My finger is now red, swollen and throbbing a day later.
+r|u|A bat flew into my bedroom last night and I'm not sure if it touched me while I was asleep.
+r|r|I have a bunch of bug bites on my legs from camping that are really itchy.
+m|r|bee sting on my arm swole up
+m|u|dog bit me on my hand
+m|e|got stung n my throat feels tight
+m|r|bug bites everywhere so itchy
+m|u|cat bit me n my finger is swollen
+m|r|found a tick on me
+m|u|spider bite looks bad n spreading
+x|r|me picó una abeja y se me hinchó el brazo
+x|u|me mordió un perro en la mano
+x|e|me picó una abeja y no puedo respirar bien
+x|r|picaduras de mosquito que me pican mucho
+x|u|me mordió un gato callejero
+x|r|tenía una garrapata en la pierna
+p|u|my 6 year old was bitten by a dog on the face
+p|r|my 4 year old has a bee sting on her foot
+p|e|my 8 year old was stung and his face is swelling and he's wheezing
+p|r|my 10 year old has lots of mosquito bites
+p|u|my 3 year old was bitten by another kid and it broke the skin
+p|r|found a tick on my 7 year old's scalp
+o|u|I'm 70 and a dog bit my leg
+o|r|I'm 66 and got stung by a wasp
+o|e|I'm 72 and was stung and I'm lightheaded and itchy all over
+o|u|I'm 75 with a cat bite that's red and swollen
+o|r|I'm 68 with a tick bite and a rash
+o|u|I'm 69, on chemo, and a dog scratched my hand
+o|r|I'm 64 with itchy bug bites

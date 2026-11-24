@@ -1,0 +1,205 @@
+# group: ear
+s|r|earache for 2 days
+s|r|ear feels clogged
+s|u|ear pain and fever
+s|r|ringing in my ears
+s|u|fluid draining from my ear
+s|r|need a hearing test
+s|u|sudden hearing loss in one ear
+r|r|My right ear has been aching for two days since I went swimming. It hurts when I pull on my earlobe. No fever. Is this swimmer's ear?
+r|u|I woke up this morning and can't hear out of my left ear at all. It feels full and there's ringing. It came on overnight.
+r|r|My ears feel plugged and muffled after a cold. It's been a week. I tried yawning and chewing gum.
+r|u|I have bad ear pain with a fever and now there's yellow fluid coming out of my ear. The pain got a little better when it started draining.
+r|r|My hearing has gotten worse over the years and people complain I have the TV too loud. I can't afford hearing aids.
+r|u|My ear is red and swollen behind it and very painful. I had an ear infection last week and the antibiotics didn't seem to work.
+r|r|I have constant ringing in both ears after a concert last weekend. It's quieter now but still there.
+m|r|my ear hurts since yesterday
+m|r|ear feels stuffed up cant hear good
+m|u|ear pain n fever n stuff comin out
+m|r|ringin in my ears all the time
+m|u|woke up deaf in one ear
+m|r|think i got wax stuck in my ear
+m|r|swimmers ear again
+x|r|me duele el oído desde ayer
+x|r|tengo el oído tapado
+x|u|dolor de oído con fiebre y sale líquido
+x|r|zumbido en los oídos
+x|u|de repente no escucho de un oído
+x|r|necesito un examen de audición
+p|u|my 2 year old is pulling her ear and has a fever
+p|r|my 5 year old says his ear hurts after a cold
+p|u|my 8 month old is crying and has pus coming from her ear
+p|r|my 4 year old put a bead in his ear
+p|r|my 7 year old isn't hearing well at school
+p|u|my 3 year old has a swollen red area behind his ear and fever
+o|r|I'm 72 and my hearing is getting worse
+o|r|I'm 68 with ringing in my ears for months
+o|u|I'm 70 and lost hearing in one ear suddenly yesterday
+o|r|I'm 66 and my ears are full of wax
+o|u|I'm 74 with ear pain, dizziness and fever
+o|r|I'm 65 and need a hearing aid
+o|r|I'm 78 and my ear itches and hurts a little
+# group: urinary_kidney
+s|r|burning when I pee
+s|u|kidney stone pain
+s|u|blood in my urine
+s|r|peeing a lot at night
+s|u|UTI with fever and back pain
+s|e|can't pee at all and bladder is full
+s|r|think I have a bladder infection
+r|r|It burns when I pee and I feel like I have to go all the time but only a little comes out. It started yesterday. I've had UTIs before and this feels the same.
+r|u|I have sharp pain in my side and back that comes in waves and goes down to my groin. I can't sit still. I had a kidney stone two years ago.
+r|u|I've had UTI symptoms for four days and now I have a fever, chills and pain in my lower back on one side. I feel sick to my stomach.
+r|r|I'm getting up three or four times a night to pee and my stream is weak. I'm 58. It's been getting worse for months.
+r|e|I haven't been able to pee since this morning and my lower belly is swollen and really painful. I'm 66.
+r|u|There's blood in my urine today, it looks pink. It doesn't hurt. I'm 55 and I smoke.
+r|r|I have kidney disease and need to get my labs checked but I lost my insurance. I'm not having symptoms right now.
+m|r|it burns wen i pee
+m|u|real bad pain in my side goin down to my groin
+m|u|pee is red and it hurts
+m|r|gotta pee all the time
+m|u|uti n now fever n my back hurts
+m|e|cant pee at all since this mornin
+m|r|bladder infection again
+x|r|me arde al orinar
+x|u|dolor fuerte en el costado, creo que es piedra en el riñón
+x|u|tengo sangre en la orina
+x|r|orino mucho en la noche
+x|u|infección de orina con fiebre y dolor de espalda
+x|r|creo que tengo infección urinaria
+p|u|my 3 year old cries when she pees and has a fever
+p|r|my 6 year old started wetting the bed again
+p|u|my 1 year old's diapers smell very strong and he has a fever
+p|r|my 8 year old daughter says it burns when she pees
+p|u|my 12 year old has pink urine and puffy eyes
+p|u|my 14 year old son has sudden pain in his testicle
+o|u|I'm 75 and have a UTI and I'm a bit confused
+o|r|I'm 70 and leak urine when I cough
+o|e|I'm 79 and can't urinate and I'm in a lot of pain
+o|r|I'm 66 and get up to pee 4 times a night
+o|u|I'm 72 with kidney stones and the pain is back
+o|r|I'm 64 with chronic kidney disease, need a nephrologist
+o|u|I'm 68 and see blood in my urine
+# group: pregnancy_womens_health
+s|r|need prenatal care
+s|u|bleeding while pregnant
+s|r|positive pregnancy test what now
+s|e|pregnant and having seizures
+s|r|irregular periods
+s|u|pelvic pain and fever
+s|r|need birth control
+r|r|I just found out I'm pregnant, about 6 weeks. I don't have insurance and I'm not sure where to start with prenatal care. I'm 24.
+r|u|I'm 12 weeks pregnant and started spotting this morning with mild cramps. It's not a lot of blood but I'm really worried.
+r|e|I'm 34 weeks pregnant and I have a severe headache, swelling in my face and hands, and I'm seeing spots.
+r|r|My periods have been really heavy and painful for the last year, I go through a pad every hour on the first day. I'd like to see a gynecologist.
+r|u|I have lower belly pain, fever and an unusual discharge with a bad smell. It's been getting worse over three days.
+r|e|I'm 30 weeks pregnant and haven't felt the baby move since last night.
+r|r|I want to get on birth control but I don't have a doctor. Is there a clinic that does it for free or cheap?
+m|r|im pregnant n need a doctor no insurance
+m|u|bleedin while pregnant 10 weeks
+m|r|my period is late n i took a test
+m|e|my water broke n im only 32 weeks
+m|r|bad cramps every period
+m|u|weird discharge n pelvic pain n fever
+m|r|need the morning after pill
+x|r|estoy embarazada y necesito control prenatal, no tengo seguro
+x|u|estoy sangrando y tengo 9 semanas de embarazo
+x|e|tengo 36 semanas, me duele mucho la cabeza y veo luces
+x|r|mi regla es irregular hace meses
+x|r|necesito anticonceptivos, where can I go
+x|u|dolor pélvico con fiebre
+p|r|my 15 year old daughter thinks she might be pregnant
+p|r|my 13 year old has very painful periods
+p|u|my 16 year old daughter has heavy bleeding and is dizzy
+p|r|my 12 year old hasn't started her period, should she see someone
+p|u|my 17 year old is pregnant and having cramps
+p|r|my 14 year old needs the HPV vaccine
+o|u|I'm 62 and started bleeding again years after menopause
+o|r|I'm 60 and need a mammogram and pap
+o|r|I'm 64 with hot flashes and trouble sleeping
+o|u|I'm 66 and found a lump in my breast
+o|r|I'm 61 and have vaginal dryness and pain
+o|r|I'm 68 and haven't had a gyn checkup in ten years
+o|u|I'm 63 with pelvic pressure and bleeding
+# group: skin
+s|r|itchy rash on my arms
+s|u|red hot swollen spot on my leg spreading
+s|r|acne won't go away
+s|u|painful boil with pus
+s|r|eczema flare up
+s|e|skin peeling and blisters with fever after new medicine
+s|r|mole changed color
+r|r|I have an itchy red rash on my hands that comes and goes. It gets worse in winter and when I wash dishes a lot at work.
+r|u|I have a red, hot, swollen area on my shin that's getting bigger since yesterday. I drew a line around it and it's past the line now. I have a low fever.
+r|u|I have a painful lump under my armpit that's filled with pus. It's been growing for four days. I've had these before.
+r|r|I have a mole on my back that my girlfriend says looks bigger and darker. It doesn't hurt. I spend a lot of time in the sun at work.
+r|e|I started a new seizure medicine two weeks ago and now I have a fever and my skin is blistering and peeling, even in my mouth.
+r|r|My acne is really bad and leaving scars. Over the counter stuff doesn't work. I'd like to see a dermatologist but I can't afford it.
+r|u|I have a rash with blisters in a band on one side of my back and it burns. I'm 52.
+m|r|got a itchy rash on my legs
+m|u|my leg is red n hot n swollen
+m|r|acne real bad on my face
+m|u|got a big boil thats full of pus
+m|r|my eczema is flarin up
+m|r|scabies maybe everybody in the house is itchy
+m|r|ringworm on my arm
+x|r|tengo una erupción que me pica mucho
+x|u|tengo la pierna roja, caliente y hinchada
+x|r|tengo acné y no se me quita
+x|u|me salió un absceso con pus
+x|r|tengo hongos en los pies
+x|r|un lunar cambió de color
+p|r|my 4 year old has an itchy rash on her belly
+p|u|my 8 month old has a rash and fever
+p|r|my 6 year old has eczema that's getting worse
+p|r|my 7 year old has lice
+p|u|my 3 year old has red crusty sores around his nose that are spreading
+p|r|my 10 year old has chickenpox spots
+o|r|I'm 70 and have itchy dry skin all over
+o|u|I'm 72 and have shingles on my face near my eye
+o|r|I'm 66 with a spot on my nose that won't heal
+o|u|I'm 75 with a bedsore that's getting worse
+o|r|I'm 68 and have psoriasis that's flaring
+o|u|I'm 71 and my leg is red and swollen with a fever
+o|r|I'm 64 and need a skin check for moles
+# group: back_neck_pain
+s|r|lower back pain for a week
+s|u|back pain and can't feel my legs well
+s|r|stiff neck from sleeping wrong
+s|r|back hurts after lifting at work
+s|u|back pain shooting down my leg
+s|e|back pain and lost control of my bladder
+s|r|neck pain from computer work
+r|r|I hurt my lower back moving a couch last weekend. It's sore and stiff and I can't bend over well, but it's slowly getting better.
+r|u|I have back pain that shoots down the back of my right leg to my foot, and now my foot feels numb. It's been five days.
+r|r|My neck has been stiff and achy for a few weeks. I work at a computer all day and look down at my phone a lot.
+r|e|My back pain got suddenly worse today and now I'm numb between my legs and I peed myself without knowing.
+r|r|I've had back pain for years from working construction. It flares up every few months. I'd like to try physical therapy but don't have insurance.
+r|u|I have back pain with a fever and chills and it hurts to touch my spine. I use IV drugs.
+r|r|My upper back and shoulders are tight and achy from stress. Massage helps for a day.
+m|r|my back hurts after work
+m|u|back pain goin down my leg n its numb
+m|r|neck stiff cant turn my head
+m|r|threw my back out liftin
+m|e|back pain n i cant feel down there n peed myself
+m|r|lower back achin all week
+m|u|back hurts n i got a fever
+x|r|me duele la espalda baja desde hace una semana
+x|u|dolor de espalda que baja por la pierna
+x|r|tengo el cuello tieso
+x|r|me lastimé la espalda en el trabajo
+x|u|dolor de espalda con fiebre
+x|r|dolor de espalda crónico, need physical therapy
+p|r|my 14 year old has back pain from his heavy backpack
+p|u|my 9 year old has back pain and a fever
+p|r|my 15 year old has neck pain after soccer
+p|r|my 12 year old's shoulders look uneven, could it be scoliosis
+p|u|my 16 year old fell off a skateboard and his lower back hurts a lot
+p|r|my 10 year old says her back hurts when she sits long
+o|r|I'm 70 with chronic lower back pain
+o|u|I'm 72 and have sudden severe back pain, I have osteoporosis
+o|r|I'm 65 and my neck is stiff in the mornings
+o|e|I'm 74 and have sudden tearing pain in my back and belly
+o|r|I'm 68 and need help managing my back pain without opioids
+o|u|I'm 70 and my back pain is now with leg weakness
+o|r|I'm 66 with arthritis in my neck

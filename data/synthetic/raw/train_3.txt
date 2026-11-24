@@ -1,0 +1,205 @@
+# group: weakness_fainting
+s|u|fainted at work today
+s|r|always tired and no energy
+s|u|passed out in the shower
+s|r|feel weak and run down lately
+s|e|passed out and hit my head, still confused
+s|u|so weak I can barely stand
+s|r|tired all the time even with sleep
+r|u|I fainted this morning while standing in line at the store. I was out for maybe 10 seconds. I feel okay now but a little shaky. I'm 28 and it's never happened before.
+r|r|I've been exhausted for about a month. I sleep 8 hours and still need a nap. My periods have been heavy. I wonder if I'm anemic.
+r|e|I fainted while jogging and when I came to my heart was racing and my chest hurt. I'm 22 and play soccer.
+r|u|I've felt really weak and lightheaded for two days and I've barely been able to eat or drink because of a stomach bug.
+r|r|I've been feeling tired and sluggish for a few months and gained weight. My mom has thyroid problems. Can I get bloodwork somewhere cheap?
+r|u|I keep almost passing out when I stand up and my heart races. It's been happening more this week. I'm 34.
+r|r|I work two jobs and feel worn out all the time. I'm not sick exactly but I don't feel right. I'd like a checkup.
+m|u|i passed out at the bus stop this mornin
+m|r|so tired all the time cant get outta bed
+m|u|feel real weak n shaky n lightheaded
+m|r|no energy for weeks idk why
+m|e|my friend fainted n hes not wakin up rite
+m|u|blacked out for a sec at work
+m|r|always tired maybe low iron
+x|u|me desmayé en el trabajo hoy
+x|r|me siento muy cansado todo el tiempo
+x|u|tengo mucha debilidad y mareo, since yesterday
+x|r|no tengo energía desde hace semanas
+x|e|mi abuela se desmayó y no despierta bien
+x|u|casi me desmayo cuando me levanto
+p|u|my 13 year old fainted at church this morning
+p|r|my 15 year old is tired all the time and sleeps a lot
+p|e|my 9 year old fainted while running and isn't waking up normally
+p|u|my 16 year old daughter keeps getting lightheaded and almost fainting
+p|r|my 7 year old seems pale and tired lately
+p|u|my 3 year old is very weak and floppy after being sick
+o|u|I'm 73 and fainted when I got up from the toilet
+o|r|I'm 68 and feel weaker than usual for a few weeks
+o|e|I'm 79 and passed out and my pulse feels very slow
+o|u|I'm 70 and very weak since starting a new blood pressure pill
+o|r|I'm 65 and tired all the time, maybe my thyroid
+o|u|I'm 82 and so weak I can't get out of my chair today
+o|r|I'm 67 and get tired quickly when I walk
+# group: mental_health
+s|r|feeling anxious all the time
+s|e|thinking about killing myself
+s|u|panic attacks getting worse
+s|r|need a therapist that takes medicaid
+s|u|haven't slept in 3 days and hearing things
+s|r|feeling depressed lately
+s|e|I want to hurt myself tonight
+r|r|I've been feeling down for a couple of months. I'm not enjoying things I used to and I'm sleeping a lot. I don't want to hurt myself, I just want to talk to someone. I don't have insurance.
+r|e|I don't see a point in living anymore. I have pills saved up and I've been thinking about taking them tonight. I don't know why I'm typing this.
+r|u|I've had three panic attacks this week where my heart races and I feel like I'm dying. I had to leave work twice. They're getting more frequent.
+r|r|I'm a grad student at Rutgers and I'm really stressed and anxious all the time. I can't focus. I'd like to find counseling that's affordable.
+r|u|My brother hasn't slept in days, he's talking really fast and spending all his money and says people are following him. He won't go to the doctor.
+r|r|I've been on antidepressants but my prescriber left the clinic and I'm running out next week. I need a new psychiatrist.
+r|u|Since my mom died I can barely get out of bed and I've stopped eating. It's been six weeks. I'm not suicidal but I feel stuck.
+m|r|been feelin real anxious n cant sleep
+m|e|i dont wanna be alive anymore
+m|u|havin panic attacks every day now
+m|r|need someone to talk to about my depresion
+m|u|my roomate is talkin to people who arent there
+m|r|my anxiety meds ran out
+m|e|i cut myself and its bleedin alot
+x|r|me siento muy triste y ansiosa, I need help
+x|e|ya no quiero vivir, estoy pensando en hacerme daño
+x|u|tengo ataques de pánico cada día
+x|r|busco un psicólogo que hable español
+x|u|mi esposo está muy agresivo y dice cosas sin sentido
+x|r|tengo depresión y no tengo seguro médico
+p|u|my 15 year old told me she's been cutting herself
+p|e|my 16 year old son said he wants to die and has a plan
+p|r|my 10 year old has a lot of anxiety about school
+p|r|my 7 year old has trouble focusing, could it be ADHD
+p|u|my 14 year old hasn't eaten much in weeks and is losing weight fast
+p|r|my 12 year old seems depressed since we moved
+o|r|I'm 70 and feel lonely and depressed since my wife passed
+o|u|I'm 67 and I'm very anxious and can't sleep for a week
+o|e|I'm 75 and I've been thinking I'd be better off dead
+o|r|I'm 64 and need a new psychiatrist for my bipolar meds
+o|u|I'm 72 and my husband is suddenly very confused and agitated
+o|r|I'm 69 and have been feeling down since retiring
+o|r|I'm 66 and want counseling for my drinking and mood
+# group: allergic_reaction
+s|e|throat closing after eating peanuts
+s|u|hives all over my body
+s|r|seasonal allergies itchy eyes
+s|e|lips and tongue swelling up
+s|u|rash after starting antibiotics
+s|r|allergic to my new detergent, itchy
+s|u|face swelling after bee sting yesterday
+r|e|I ate at a restaurant and I think there were nuts in the sauce. My lips are swelling, my throat feels tight and I have hives. I don't have an EpiPen.
+r|u|I started amoxicillin two days ago for a sinus infection and now I have an itchy red rash all over my chest and arms. No trouble breathing.
+r|r|Every spring my eyes itch and I sneeze constantly. Over the counter pills make me sleepy. Is there something better I can get?
+r|u|I woke up with my eyelids and lips puffy and itchy. I don't know what caused it. I can breathe fine but it's getting worse.
+r|r|I think I'm allergic to my cat. My nose runs and my eyes water when I'm home. I'd like allergy testing but I don't know where to go.
+r|e|I took a new blood pressure pill this morning and now my tongue is swollen and I'm having trouble talking and swallowing.
+r|u|I keep getting hives that come and go for two weeks. They're super itchy and keep me up at night. Benadryl helps a little.
+m|e|my throat feels tight n my face is swelling up
+m|u|got hives everywhere and they itch so bad
+m|r|allergies are killin me sneezin all day
+m|u|broke out in a rash from the new medicine
+m|e|my lips r swollen and its hard to breathe
+m|r|itchy eyes n runny nose every spring
+m|u|my eye swole shut after a bug bite
+x|e|se me está cerrando la garganta, I ate shrimp
+x|u|tengo ronchas por todo el cuerpo
+x|r|alergias de temporada, me pican los ojos
+x|u|me salió un sarpullido con el antibiótico
+x|e|se me hinchó la lengua después de tomar una pastilla
+x|r|soy alérgico al polvo, need something for it
+p|e|my 4 year old ate peanut butter and now has hives and is coughing and wheezing
+p|u|my 6 year old broke out in hives after a new food
+p|r|my 9 year old has hay fever every spring
+p|u|my 2 year old has a rash after starting antibiotics
+p|r|my 12 year old needs a new EpiPen prescription
+p|e|my 8 year old's face is swelling after a bee sting and he's vomiting
+o|u|I'm 70 and broke out in a rash after a new prescription
+o|r|I'm 66 with seasonal allergies that are worse this year
+o|e|I'm 72 and my throat is swelling after taking a new medicine
+o|u|I'm 68 and my lips swell up every few days
+o|r|I'm 64 and itchy all over since changing soap
+o|u|I'm 75 with hives and itching for three days
+o|r|I'm 69 and want allergy testing
+# group: substance_overdose
+s|e|friend overdosed and won't wake up
+s|e|took too many pills
+s|u|need help detoxing from alcohol
+s|r|want to quit drinking
+s|u|withdrawal shakes and sweating
+s|e|kid swallowed cleaning liquid
+s|r|looking for suboxone clinic
+r|e|My roommate took something at a party and now he's barely breathing and his lips are blue. I gave him Narcan once. We're in New Brunswick.
+r|u|I've been drinking heavily every day for a year and I want to stop, but last time I tried I got the shakes and saw things. I'm scared to do it alone.
+r|r|I've been using pain pills for a while and I want to get on treatment like Suboxone. I don't have insurance. Is there a clinic around here?
+r|e|I took a whole bottle of Tylenol about two hours ago because I was upset. I feel okay right now but I read that it's dangerous.
+r|u|I stopped using heroin three days ago and I'm in really bad withdrawal, throwing up and can't sleep. I want help but don't know where to start.
+r|r|I think I'm drinking too much, like most nights. Nothing bad has happened but my partner is worried. I want to talk to someone about cutting back.
+r|e|My 3 year old got into my medicine cabinet and I think she ate some of my blood pressure pills. She seems sleepy.
+m|e|my boy took somethin n hes not breathin rite
+m|u|i got the shakes real bad from not drinkin
+m|r|need a rehab that takes medicaid
+m|e|i took a bunch of pills i shouldnt have
+m|u|coming off opiates and its real bad
+m|r|want to stop smokin weed every day
+m|u|drank way too much n keep throwin up
+x|e|mi amigo tomó muchas pastillas y no despierta
+x|u|quiero dejar de tomar alcohol pero me tiemblan las manos
+x|r|busco un programa para dejar las drogas, sin seguro
+x|e|mi hijo tomó cloro por accidente
+x|u|tengo síntomas de abstinencia y vomito mucho
+x|r|mi esposo toma mucho y necesitamos ayuda
+p|e|my 2 year old swallowed a battery
+p|u|my 16 year old came home very drunk and keeps vomiting
+p|r|my 15 year old is vaping and I want help for him to quit
+p|e|my 4 year old drank some of the windshield washer fluid
+p|u|I found pills in my 17 year old's room and he's acting strange
+p|r|my 14 year old is smoking weed, where can we get counseling
+o|e|I'm 72 and I think I took my heart pills twice and feel very dizzy and slow
+o|u|I'm 66 and want to stop drinking, I get shaky when I don't
+o|r|I'm 68 and need help quitting smoking
+o|e|I'm 75 and accidentally took too much of my blood thinner and my gums are bleeding
+o|u|I'm 70 and mixed my sleeping pill with wine and feel very confused
+o|r|I'm 63 and want to cut down on my drinking
+o|u|I'm 67 on methadone and missed doses, feeling sick
+# group: eye
+s|r|red itchy eye
+s|e|chemical splashed in my eye
+s|u|sudden blurry vision in one eye
+s|r|need an eye exam and glasses
+s|u|eye pain and light sensitivity
+s|e|lost vision in one eye suddenly
+s|r|eye infection with crusty discharge
+r|e|I was using drain cleaner and some splashed into my eye. It's burning badly and I rinsed it a little. I can barely open it.
+r|r|My left eye has been red and gooey since yesterday and my eyelashes are stuck together in the morning. My kid had pink eye last week.
+r|u|I suddenly started seeing a bunch of floaters and flashes of light in my right eye this afternoon, and now there's a shadow on the side.
+r|r|I can't see the board at night school anymore and I get headaches. I haven't had an eye exam in years and I don't have vision insurance.
+r|u|I got poked in the eye by a branch while doing yard work. It hurts, it's watery and I can't keep it open in the light.
+r|r|My eyes feel dry and gritty all the time, especially after work on the computer. Eye drops help a bit.
+r|u|My eye is really painful and red and my vision is cloudy, and I wear contacts. I slept in them last night.
+m|r|my eye is red n itchy
+m|e|got bleach in my eye it burns so bad
+m|u|cant see good outta my left eye all of a sudden
+m|r|need glasses cant afford eye doctor
+m|u|my eye hurts n light makes it worse
+m|r|pink eye i think
+m|u|something stuck in my eye all day
+x|r|tengo el ojo rojo y me pica
+x|e|me cayó químico en el ojo y me arde mucho
+x|u|veo borroso de un ojo de repente
+x|r|necesito lentes, no tengo seguro
+x|u|me duele el ojo y me molesta la luz
+x|r|tengo conjuntivitis, creo
+p|r|my 5 year old has pink eye
+p|u|my 9 year old got hit in the eye with a ball and it's swollen
+p|r|my 7 year old can't see the board at school
+p|e|my 3 year old got dish soap pods in his eye and is screaming
+p|u|my 1 year old's eyelid is red and swollen and she has a fever
+p|r|my 11 year old needs new glasses, we have medicaid
+o|u|I'm 70 and my vision suddenly got blurry in one eye
+o|r|I'm 65 and need cataract evaluation
+o|e|I'm 73 and have severe eye pain, headache and vomiting, my eye is red
+o|r|I'm 68 and my glasses prescription is old
+o|u|I'm 72 and see a curtain coming down over my vision
+o|r|I'm 66 with diabetes and need an eye exam
+o|r|I'm 75 and my eyes are dry and irritated

@@ -1,0 +1,207 @@
+# style: s=train-short r=train-rambling m=train-misspelled x=train-spanglish p=train-parent o=train-older
+# urgency: e=emergency u=urgent r=routine
+# group: chest_pain
+s|e|crushing chest pain and sweating
+s|e|chest pressure spreading to my left arm
+s|u|sharp chest pain when i breathe in
+s|r|chest sore after coughing all week
+s|e|chest tightness, can't catch my breath
+s|u|burning pain in the middle of my chest
+s|r|pulled a muscle in my chest lifting boxes
+r|e|I was walking up the stairs to my apartment and suddenly felt this heavy pressure in my chest like someone sitting on it. It's been 20 minutes and my jaw hurts too. I'm 54 and my dad had a heart attack at my age.
+r|u|For the past two days I've had a sharp stabbing pain on the right side of my chest that gets worse when I take a deep breath or lie down. No fever that I know of. It's annoying more than anything but I'm a little worried.
+r|r|I've had a dull ache in my chest wall since I started a new job moving furniture. It hurts when I press on it or twist. I don't have insurance so I don't want to go to the ER if it's just a muscle.
+r|e|I'm having chest pain that started at work about half an hour ago and now I feel lightheaded and nauseous. I'm sweating even though it's cold in here. My coworker says I look gray.
+r|u|My chest has been hurting on and off for a week, mostly after I eat. It's like a squeezing feeling that lasts a few minutes. I'm 47 and overweight and honestly I'm scared to find out what it is.
+r|r|Every time I get stressed at school my chest feels tight for a minute and then it goes away. It's been happening for months. My friend said it could be anxiety but I want to make sure it's nothing with my heart.
+r|e|My chest started hurting really bad right after I used cocaine at a party and my heart is pounding out of my chest. I don't want to get in trouble but I'm scared.
+m|e|chest hurts so bad cant breath rite and my left arm is numb
+m|u|got this sharp pain in my chest wen i take a deep breth since yesterday
+m|r|my chest is sore on the rite side wen i push on it, i been lifting at the gym
+m|e|real bad pressure in my chest and im sweatin alot and throwin up
+m|u|chest pain comes and goes all day today kinda like a squeeze idk wat it is
+m|r|chest feel tight wen i get nervous for my exams is that normal
+m|u|pain in my chest after i fell on the stairs, hurts to breathe deep
+x|e|tengo un dolor muy fuerte en el pecho y me sube al brazo, started like 20 minutes ago
+x|u|me duele el pecho cuando respiro profundo, since yesterday and I have a little fever
+x|r|tengo el pecho adolorido from coughing so much, es normal?
+x|e|mi esposo tiene dolor de pecho y está sudando mucho, he says it feels like pressure
+x|u|chest pain que va y viene después de comer, been happening all week
+x|r|I hurt my chest cargando cajas en el trabajo, duele cuando me muevo
+p|u|my 15 year old son says his chest hurts when he runs at soccer practice
+p|r|my daughter is 9 and says her chest hurts after she coughs a lot, she has a cold
+p|e|my 16 year old collapsed at practice holding his chest and is now really pale
+p|u|my 12 year old got hit in the chest with a baseball and it still hurts hours later
+p|r|my teen says she gets chest pain when she's anxious about school, it goes away fast
+p|u|my 7 year old says her chest hurts and she has a fever and fast breathing
+o|e|I'm 72 with a heart stent and I'm having the same chest pressure I had before my heart attack
+o|u|I'm 68 and I get chest pain when I walk to the bus stop that goes away when I rest
+o|r|I'm 65 and my chest is sore where I had my shingles last month
+o|e|I am 80 years old, chest pain and short of breath since this morning, my nitroglycerin didn't help
+o|u|I'm 70 and have heartburn-like chest pain at night that my antacids aren't fixing
+o|r|I'm 63 and my chest wall aches since I started doing push-ups at the senior center
+o|u|I'm 75 with diabetes and I've had a strange tightness in my chest on and off for two days
+# group: heart_circulation
+s|u|heart racing for no reason
+s|e|heart pounding and I feel like I'm going to pass out
+s|r|need blood pressure medication refill
+s|u|blood pressure 190 over 110
+s|r|swollen veins in my legs
+s|u|heart skipping beats all day
+s|r|want my blood pressure checked
+r|u|My heart keeps racing even when I'm just sitting on the couch, like 130 beats a minute on my watch. It started this morning and comes in waves. I drank a lot of coffee but it's never been this bad.
+r|r|I ran out of my blood pressure pills two weeks ago because I lost my job and my insurance. I feel fine but I know I'm supposed to take them every day. Where can I get a refill without insurance?
+r|e|I checked my blood pressure at the pharmacy and it was 220 over 130, and I have a pounding headache and my vision is blurry. I don't know what to do.
+r|r|The veins on the back of my legs have gotten really big and twisty over the last year. They ache at the end of a long shift standing at the restaurant. Is there anything that can help?
+r|u|My ankles and feet have been really swollen for a week and my shoes don't fit. I've also been getting more tired walking up stairs. I'm 58 and I take a water pill but I ran out.
+r|e|My heart is beating super fast and irregular and I feel dizzy and short of breath. I've never had heart problems before. I'm 39.
+r|r|At my last checkup the doctor said my blood pressure was a little high and to get it rechecked. That was a few months ago and I never did. I don't have a doctor now.
+m|u|my hart keeps fluttering like it skips a beat then pounds
+m|r|i need someone to check my blood presure i dont have a doctor
+m|e|heart beatin so fast i feel like im gonna faint and my chest hurts
+m|u|my blood presure was 180 something at the pharmacy machine wat do i do
+m|r|varicose veins on my legs hurt wen i stand at work all day
+m|u|my legs r swollen and my bp meds ran out
+m|r|ran out of my lisinopril need a refill no insurance
+x|u|mi corazón late muy rápido and I feel anxious, desde esta mañana
+x|r|necesito revisar mi presión, I don't have a doctor here
+x|e|la presión de mi mamá está en 210 y dice que le duele la cabeza mucho
+x|u|tengo las piernas muy hinchadas and my blood pressure pills se me acabaron
+x|r|tengo várices en las piernas que me duelen al final del día
+x|u|siento palpitaciones fuertes y a veces me mareo un poco
+p|u|my 14 year old's heart is racing and she feels shaky, she says it happens sometimes
+p|r|the school nurse said my 12 year old son's blood pressure was high, what should we do
+p|e|my 10 year old's heart is beating so fast I can't count it and he looks pale and sweaty
+p|r|my daughter is 16 and gets heart flutters when she drinks energy drinks
+p|u|my 6 year old has swollen ankles and puffy eyes in the morning
+p|r|my 13 year old was told he has a heart murmur, do we need a specialist
+o|u|I'm 71 and my heart has been irregular since yesterday, I have atrial fibrillation
+o|r|I'm 66 and I need someone to manage my blood pressure, my doctor retired
+o|e|I'm 77, my heart is racing and I fainted in the kitchen a few minutes ago
+o|u|I'm 69 and my legs are swollen up to my knees and I'm getting out of breath
+o|r|I'm 64 and my home blood pressure readings are around 150 over 90
+o|r|I'm 73 and my varicose veins itch and look darker than before
+o|u|I am 80 and my blood pressure has been dropping low and I feel weak when I stand
+# group: breathing_difficulty
+s|e|can't breathe, lips turning blue
+s|u|asthma attack, inhaler not helping much
+s|u|short of breath walking up stairs
+s|r|need an inhaler refill
+s|e|struggling to breathe and chest is tight
+s|u|wheezing since last night
+s|r|mild shortness of breath with allergies
+r|e|I'm having a bad asthma attack and I've used my inhaler four times in the last hour. I can only say a few words before I need to take a breath. My roommate is here with me.
+r|u|For the past three days I've been more and more short of breath, especially lying flat. I have to sleep sitting up now. I also have a cough with some yellow stuff.
+r|r|I have asthma and my inhaler is almost empty. I lost my insurance when I aged off my parents' plan. I'm breathing okay right now but I'm worried about running out.
+r|u|I got over COVID a month ago but I still get winded just walking to the bus. It's not getting better and I'm worried something is wrong with my lungs.
+r|e|I was cleaning the bathroom and mixed bleach with another cleaner and now I'm coughing nonstop and my chest burns and it's hard to breathe.
+r|u|I've been wheezing for two days and my rescue inhaler only helps for an hour. I have a fever too. I'm 31 and have had asthma since I was a kid.
+r|r|I smoke and lately I notice I'm out of breath faster when I play basketball. I want to get my lungs checked but I don't have a doctor.
+m|e|cant breath good at all and my chest is so tight help
+m|u|wheezin a lot and my inhaler aint working like it used to
+m|r|need albuterol refill i got asthma and no insurance
+m|u|short of breth for 3 days now and coughing up green stuff
+m|e|my breathing is real fast and i feel like im suffocating
+m|r|get winded easy wen i walk up hills is that bad
+m|u|asthma flare up since the fire smoke came in, hard to breathe at nite
+x|e|no puedo respirar bien y tengo los labios morados
+x|u|tengo asma and my inhaler no me está ayudando
+x|r|necesito un inhalador nuevo, I have asthma pero no tengo seguro
+x|u|me falta el aire desde hace tres días y tengo tos con flema
+x|e|mi hijo no puede respirar, he's breathing really fast and his chest pulls in
+x|u|wheezing cuando me acuesto, can't sleep
+p|e|my 2 year old is breathing really fast and the skin between his ribs sucks in
+p|u|my 8 year old has asthma and is wheezing even after his nebulizer
+p|r|my 11 year old needs a new inhaler for school, we have no pediatrician
+p|e|my 4 month old baby is grunting when she breathes and won't feed
+p|u|my 5 year old has a cough and is breathing harder than usual tonight
+p|r|my teenager gets short of breath during gym class, is it asthma
+o|e|I'm 74 with COPD and I can't get enough air even on my oxygen
+o|u|I'm 67 and I've been more short of breath for a week and my ankles are swollen
+o|r|I'm 70 and need a refill on my COPD inhalers, my clinic closed
+o|u|I'm 72 and wheezing with a fever since yesterday
+o|e|I'm 81 and gasping for air, I can't lie down at all
+o|r|I'm 65 and get a little winded on long walks, I'd like a lung check
+o|u|I'm 69 and my breathing got worse after a cold last week, using my inhaler a lot
+# group: cough_cold_flu
+s|r|bad cold and stuffy nose
+s|r|sore throat for 2 days
+s|u|flu symptoms and fever of 102
+s|r|cough that won't go away
+s|u|tested positive for covid
+s|r|runny nose and sneezing
+s|u|really bad sore throat can't swallow
+r|r|I've had a runny nose, sneezing and a scratchy throat for three days. I feel kind of crummy but I'm still going to work. Is there somewhere cheap I can get checked or should I just rest?
+r|u|I tested positive for COVID this morning. I have a fever of 101 and body aches. I'm 52 and have diabetes and I heard there's a pill you can take if you start it early.
+r|r|My cough has lasted almost three weeks after a cold. It's dry and worse at night. Otherwise I feel fine but it's keeping my partner awake.
+r|u|My throat is so swollen it's hard to swallow even water and I have white spots on my tonsils. I've had a fever since yesterday. My little brother had strep last week.
+r|r|I think I have the flu. Fever, chills, everything hurts. I'm 24 and healthy, just want to know if I need to see someone or can ride it out.
+r|u|I've been coughing up yellow-green mucus for a week and now I have a fever again after it went away. I feel worse than I did at the start.
+r|r|Every winter I get a cold that lingers. This year it's congestion and sinus pressure for 10 days. Can a clinic give me something stronger than over the counter stuff?
+m|r|got a cold stuffy nose and coughin a lil
+m|u|throat hurts sooo bad cant even swallow my spit
+m|r|i think i got the flu body aches and chills
+m|u|tested positiv for covid and my fever wont go down
+m|r|coughin for 2 weeks wont stop
+m|r|sinus pressure and headache from my cold
+m|u|sore throat with white spots and fever
+x|r|tengo gripe y mucha congestión, since Monday
+x|u|me duele mucho la garganta y tengo fiebre de 102
+x|r|tengo tos seca hace dos semanas, no se me quita
+x|u|salí positivo de covid and I have asthma, me preocupa
+x|r|catarro y dolor de cuerpo, should I see a doctor?
+x|u|my husband tiene fiebre alta y tos con flema verde
+p|u|my 3 year old has a fever of 103 and a cough
+p|r|my 6 year old has a runny nose and mild cough for 4 days
+p|u|my 10 year old has a really sore throat and fever, could it be strep
+p|r|my 8 month old has a stuffy nose and is a little fussy
+p|e|my 2 month old baby has a fever of 100.8 and a cough
+p|r|my 13 year old tested positive for covid, she just has a cough
+o|u|I'm 70 and I have the flu with a high fever, I'm worried because of my age
+o|r|I'm 66 and have a lingering cough after a cold, no fever
+o|u|I'm 75 and tested positive for COVID today
+o|r|I'm 62 and have a sore throat and congestion for three days
+o|u|I'm 79 and my cold has turned into a bad cough and I'm very tired
+o|r|I'm 68 and need a flu shot, I don't have insurance
+o|u|I'm 73 with heart failure and I have a fever and cough since yesterday
+# group: fever_infection
+s|u|fever of 103 that won't break
+s|r|low grade fever and chills
+s|u|fever and shaking chills
+s|e|high fever and stiff neck
+s|r|fever for one day, feel okay otherwise
+s|u|fever after getting back from a trip abroad
+s|e|fever and confused, very sleepy
+r|u|I've had a fever between 101 and 103 for four days now even with Tylenol. I don't have a cough or anything else, just fever and feeling wiped out. I'm 35.
+r|e|My fever is 104 and my neck is really stiff and the light hurts my eyes. I've been throwing up too. I'm a college student living in the dorms.
+r|r|I had a fever last night around 100.5 but it's gone this morning. I feel a little tired. I'm wondering if I should get checked or just wait.
+r|u|I just got back from visiting family in Guatemala and now I have a high fever, chills and a headache. I'm worried it's something from the trip.
+r|e|I'm on chemotherapy for breast cancer and I have a fever of 101. My oncology nurse told me to never ignore a fever.
+r|u|I got a tattoo a week ago and now the area is hot and red and I have a fever. The redness is spreading up my arm.
+r|r|I keep getting low fevers in the evenings for a couple of weeks and I've lost some weight. I don't feel terrible but something seems off.
+m|u|fever 103 for 3 days n tylenol not working
+m|r|feelin hot n cold kinda feverish
+m|e|my fever is 105 and im shakin real bad
+m|u|got the chills n fever after my surgery last week
+m|r|lil fever and tired, think im comin down with somethin
+m|u|fever and my whole body aches real bad
+m|e|fever and theres a purple rash spreadin on my legs
+x|u|tengo fiebre de 103 hace tres días y no baja
+x|r|tengo un poco de fiebre y escalofríos, desde anoche
+x|e|mi hija tiene fiebre muy alta y está muy dormida, no responde bien
+x|u|fiebre después de viajar a Honduras, también dolor de cabeza
+x|r|calentura leve y cansancio, should I go to a clinic?
+x|u|tengo fiebre y la herida de mi operación está roja
+p|e|my 6 week old has a fever of 100.6
+p|u|my 2 year old has had a fever of 103 for 3 days
+p|r|my 5 year old had a fever yesterday but is playing normally today
+p|e|my 1 year old has a fever and a rash that doesn't fade when I press a glass on it
+p|u|my 4 year old has a fever and is pulling at his ear and crying
+p|r|my 9 year old has a low fever after her vaccines
+o|u|I'm 78 and have a fever and I'm more confused than usual, my daughter says
+o|r|I'm 64 and have had a mild fever for a day with no other symptoms
+o|u|I'm 70 with a fever and burning when I pee
+o|e|I'm 82 and my temperature is 103 and I can barely get out of bed
+o|u|I'm 66, on dialysis, and I have a fever and chills
+o|r|I'm 69 and had a low fever after my shingles shot
+o|u|I'm 75 with a fever and my leg wound looks infected

@@ -1,0 +1,1081 @@
+message_id,text,reason_group,urgency,prompt_id,split,n_words,generator,created
+syn-train-0001,bad stomach pain on the right side,abdominal_pain,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0002,severe belly pain and vomiting blood,abdominal_pain,emergency,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0003,stomach ache after eating,abdominal_pain,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0004,sharp pain lower right belly,abdominal_pain,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0005,cramps on and off for a week,abdominal_pain,routine,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0006,stomach pain and fever,abdominal_pain,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0007,"worst stomach pain of my life, belly is hard",abdominal_pain,emergency,train-short,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0008,The pain started around my belly button last night and now it's moved to the lower right side. It hurts more when I walk or cough. I'm 19 and haven't been able to eat today.,abdominal_pain,urgent,train-rambling,train,35,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0009,"I get a burning stomach ache most mornings, especially when I skip breakfast. It's been going on for a couple of months. Antacids help a bit. I'm worried about an ulcer.",abdominal_pain,routine,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0010,I have pain under my right ribs that comes after I eat fatty food and lasts a few hours. Tonight it's worse than usual and goes to my back. I'm 44.,abdominal_pain,urgent,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0011,I'm 8 weeks pregnant and suddenly have terrible pain on one side of my lower belly and I feel faint. There's a little bleeding.,abdominal_pain,emergency,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0012,My stomach has been crampy and bloated for about a week since I started a new medication. It's uncomfortable but I can still work.,abdominal_pain,routine,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0013,"I've had steady upper belly pain for a day that goes straight through to my back, and I've been throwing up. I drink a lot on weekends.",abdominal_pain,urgent,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0014,My belly is really swollen and hard and I haven't pooped or passed gas in three days and now I'm vomiting. I had surgery on my intestines last year.,abdominal_pain,emergency,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0015,my stomach hurts real bad on the rite side down low,abdominal_pain,urgent,train-misspelled,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0016,stomach ache after i eat spicy food,abdominal_pain,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0017,belly pain so bad i cant stand up and im throwin up blood,abdominal_pain,emergency,train-misspelled,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0018,pain in my upper stomach goin to my back,abdominal_pain,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0019,cramps n bloating all week,abdominal_pain,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0020,stomack pain wit fever and chills,abdominal_pain,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0021,my stomach burns wen im hungry,abdominal_pain,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0022,"me duele mucho el estómago del lado derecho, since this morning",abdominal_pain,urgent,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0023,"dolor de estómago después de comer, it's been a few days",abdominal_pain,routine,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0024,tengo un dolor horrible en la panza y estoy vomitando sangre,abdominal_pain,emergency,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0025,dolor en la boca del estómago que va a la espalda,abdominal_pain,urgent,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0026,tengo cólicos y gases desde ayer,abdominal_pain,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0027,mi esposa tiene dolor de estómago con fiebre y no puede comer,abdominal_pain,urgent,train-spanglish,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0028,my 10 year old has pain in his lower right belly and won't jump,abdominal_pain,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0029,my 6 year old keeps saying her tummy hurts before school,abdominal_pain,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0030,my 1 year old has a hard swollen belly and is vomiting green,abdominal_pain,emergency,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0031,my 14 year old daughter has bad stomach pain and a fever,abdominal_pain,urgent,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0032,my 4 year old has a tummy ache after eating too much candy,abdominal_pain,routine,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0033,my 8 year old has belly pain that comes and goes every few minutes and he pulls his legs up,abdominal_pain,urgent,train-parent,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0034,I'm 76 and have sudden severe belly pain and my belly is tender everywhere,abdominal_pain,emergency,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0035,I'm 68 and have had stomach pain for two days and I'm on blood thinners,abdominal_pain,urgent,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0036,I'm 70 and get stomach cramps after taking my arthritis pills,abdominal_pain,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0037,I'm 72 and have pain in my lower left belly with a fever,abdominal_pain,urgent,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0038,I'm 63 and have mild stomach discomfort on and off for weeks,abdominal_pain,routine,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0039,I'm 80 and I'm in terrible stomach pain and my stool is black,abdominal_pain,emergency,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0040,I'm 66 with gallstones and the pain is back and worse,abdominal_pain,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0041,throat closing after eating peanuts,allergic_reaction,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0042,hives all over my body,allergic_reaction,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0043,seasonal allergies itchy eyes,allergic_reaction,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0044,lips and tongue swelling up,allergic_reaction,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0045,rash after starting antibiotics,allergic_reaction,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0046,"allergic to my new detergent, itchy",allergic_reaction,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0047,face swelling after bee sting yesterday,allergic_reaction,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0048,"I ate at a restaurant and I think there were nuts in the sauce. My lips are swelling, my throat feels tight and I have hives. I don't have an EpiPen.",allergic_reaction,emergency,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0049,I started amoxicillin two days ago for a sinus infection and now I have an itchy red rash all over my chest and arms. No trouble breathing.,allergic_reaction,urgent,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0050,Every spring my eyes itch and I sneeze constantly. Over the counter pills make me sleepy. Is there something better I can get?,allergic_reaction,routine,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0051,I woke up with my eyelids and lips puffy and itchy. I don't know what caused it. I can breathe fine but it's getting worse.,allergic_reaction,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0052,I think I'm allergic to my cat. My nose runs and my eyes water when I'm home. I'd like allergy testing but I don't know where to go.,allergic_reaction,routine,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0053,I took a new blood pressure pill this morning and now my tongue is swollen and I'm having trouble talking and swallowing.,allergic_reaction,emergency,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0054,I keep getting hives that come and go for two weeks. They're super itchy and keep me up at night. Benadryl helps a little.,allergic_reaction,urgent,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0055,my throat feels tight n my face is swelling up,allergic_reaction,emergency,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0056,got hives everywhere and they itch so bad,allergic_reaction,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0057,allergies are killin me sneezin all day,allergic_reaction,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0058,broke out in a rash from the new medicine,allergic_reaction,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0059,my lips r swollen and its hard to breathe,allergic_reaction,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0060,itchy eyes n runny nose every spring,allergic_reaction,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0061,my eye swole shut after a bug bite,allergic_reaction,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0062,"se me está cerrando la garganta, I ate shrimp",allergic_reaction,emergency,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0063,tengo ronchas por todo el cuerpo,allergic_reaction,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0064,"alergias de temporada, me pican los ojos",allergic_reaction,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0065,me salió un sarpullido con el antibiótico,allergic_reaction,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0066,se me hinchó la lengua después de tomar una pastilla,allergic_reaction,emergency,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0067,"soy alérgico al polvo, need something for it",allergic_reaction,routine,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0068,my 4 year old ate peanut butter and now has hives and is coughing and wheezing,allergic_reaction,emergency,train-parent,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0069,my 6 year old broke out in hives after a new food,allergic_reaction,urgent,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0070,my 9 year old has hay fever every spring,allergic_reaction,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0071,my 2 year old has a rash after starting antibiotics,allergic_reaction,urgent,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0072,my 12 year old needs a new EpiPen prescription,allergic_reaction,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0073,my 8 year old's face is swelling after a bee sting and he's vomiting,allergic_reaction,emergency,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0074,I'm 70 and broke out in a rash after a new prescription,allergic_reaction,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0075,I'm 66 with seasonal allergies that are worse this year,allergic_reaction,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0076,I'm 72 and my throat is swelling after taking a new medicine,allergic_reaction,emergency,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0077,I'm 68 and my lips swell up every few days,allergic_reaction,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0078,I'm 64 and itchy all over since changing soap,allergic_reaction,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0079,I'm 75 with hives and itching for three days,allergic_reaction,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0080,I'm 69 and want allergy testing,allergic_reaction,routine,train-older,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0081,lower back pain for a week,back_neck_pain,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0082,back pain and can't feel my legs well,back_neck_pain,urgent,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0083,stiff neck from sleeping wrong,back_neck_pain,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0084,back hurts after lifting at work,back_neck_pain,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0085,back pain shooting down my leg,back_neck_pain,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0086,back pain and lost control of my bladder,back_neck_pain,emergency,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0087,neck pain from computer work,back_neck_pain,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0088,"I hurt my lower back moving a couch last weekend. It's sore and stiff and I can't bend over well, but it's slowly getting better.",back_neck_pain,routine,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0089,"I have back pain that shoots down the back of my right leg to my foot, and now my foot feels numb. It's been five days.",back_neck_pain,urgent,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0090,My neck has been stiff and achy for a few weeks. I work at a computer all day and look down at my phone a lot.,back_neck_pain,routine,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0091,My back pain got suddenly worse today and now I'm numb between my legs and I peed myself without knowing.,back_neck_pain,emergency,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0092,I've had back pain for years from working construction. It flares up every few months. I'd like to try physical therapy but don't have insurance.,back_neck_pain,routine,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0093,I have back pain with a fever and chills and it hurts to touch my spine. I use IV drugs.,back_neck_pain,urgent,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0094,My upper back and shoulders are tight and achy from stress. Massage helps for a day.,back_neck_pain,routine,train-rambling,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0095,my back hurts after work,back_neck_pain,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0096,back pain goin down my leg n its numb,back_neck_pain,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0097,neck stiff cant turn my head,back_neck_pain,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0098,threw my back out liftin,back_neck_pain,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0099,back pain n i cant feel down there n peed myself,back_neck_pain,emergency,train-misspelled,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0100,lower back achin all week,back_neck_pain,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0101,back hurts n i got a fever,back_neck_pain,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0102,me duele la espalda baja desde hace una semana,back_neck_pain,routine,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0103,dolor de espalda que baja por la pierna,back_neck_pain,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0104,tengo el cuello tieso,back_neck_pain,routine,train-spanglish,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0105,me lastimé la espalda en el trabajo,back_neck_pain,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0106,dolor de espalda con fiebre,back_neck_pain,urgent,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0107,"dolor de espalda crónico, need physical therapy",back_neck_pain,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0108,my 14 year old has back pain from his heavy backpack,back_neck_pain,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0109,my 9 year old has back pain and a fever,back_neck_pain,urgent,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0110,my 15 year old has neck pain after soccer,back_neck_pain,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0111,"my 12 year old's shoulders look uneven, could it be scoliosis",back_neck_pain,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0112,my 16 year old fell off a skateboard and his lower back hurts a lot,back_neck_pain,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0113,my 10 year old says her back hurts when she sits long,back_neck_pain,routine,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0114,I'm 70 with chronic lower back pain,back_neck_pain,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0115,"I'm 72 and have sudden severe back pain, I have osteoporosis",back_neck_pain,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0116,I'm 65 and my neck is stiff in the mornings,back_neck_pain,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0117,I'm 74 and have sudden tearing pain in my back and belly,back_neck_pain,emergency,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0118,I'm 68 and need help managing my back pain without opioids,back_neck_pain,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0119,I'm 70 and my back pain is now with leg weakness,back_neck_pain,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0120,I'm 66 with arthritis in my neck,back_neck_pain,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0121,bee sting swelling on my arm,bites_stings,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0122,dog bite on my hand,bites_stings,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0123,stung by a bee and throat feels tight,bites_stings,emergency,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0124,mosquito bites very itchy,bites_stings,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0125,bitten by a stray cat,bites_stings,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0126,tick on my leg,bites_stings,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0127,human bite from a fight,bites_stings,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0128,A neighbor's dog bit my hand this morning. The bite broke the skin in a couple of places and it's swollen. I don't know if the dog has had its shots.,bites_stings,urgent,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0129,I got stung by a wasp on my arm yesterday and the area is red and swollen about the size of my palm. It's itchy but I feel fine otherwise.,bites_stings,routine,train-rambling,train,30,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0130,"I got stung by a bee and within minutes I'm covered in hives, my throat feels tight and I'm dizzy. I'm allergic but don't have an EpiPen.",bites_stings,emergency,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0131,I found a tick on my thigh after hiking. I pulled it off. Now there's a small red bump. Should I worry about Lyme?,bites_stings,routine,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0132,"I was scratched and bitten by a stray cat I was trying to help. My finger is now red, swollen and throbbing a day later.",bites_stings,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0133,A bat flew into my bedroom last night and I'm not sure if it touched me while I was asleep.,bites_stings,urgent,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0134,I have a bunch of bug bites on my legs from camping that are really itchy.,bites_stings,routine,train-rambling,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0135,bee sting on my arm swole up,bites_stings,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0136,dog bit me on my hand,bites_stings,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0137,got stung n my throat feels tight,bites_stings,emergency,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0138,bug bites everywhere so itchy,bites_stings,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0139,cat bit me n my finger is swollen,bites_stings,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0140,found a tick on me,bites_stings,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0141,spider bite looks bad n spreading,bites_stings,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0142,me picó una abeja y se me hinchó el brazo,bites_stings,routine,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0143,me mordió un perro en la mano,bites_stings,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0144,me picó una abeja y no puedo respirar bien,bites_stings,emergency,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0145,picaduras de mosquito que me pican mucho,bites_stings,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0146,me mordió un gato callejero,bites_stings,urgent,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0147,tenía una garrapata en la pierna,bites_stings,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0148,my 6 year old was bitten by a dog on the face,bites_stings,urgent,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0149,my 4 year old has a bee sting on her foot,bites_stings,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0150,my 8 year old was stung and his face is swelling and he's wheezing,bites_stings,emergency,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0151,my 10 year old has lots of mosquito bites,bites_stings,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0152,my 3 year old was bitten by another kid and it broke the skin,bites_stings,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0153,found a tick on my 7 year old's scalp,bites_stings,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0154,I'm 70 and a dog bit my leg,bites_stings,urgent,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0155,I'm 66 and got stung by a wasp,bites_stings,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0156,I'm 72 and was stung and I'm lightheaded and itchy all over,bites_stings,emergency,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0157,I'm 75 with a cat bite that's red and swollen,bites_stings,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0158,I'm 68 with a tick bite and a rash,bites_stings,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0159,"I'm 69, on chemo, and a dog scratched my hand",bites_stings,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0160,I'm 64 with itchy bug bites,bites_stings,routine,train-older,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0161,"can't breathe, lips turning blue",breathing_difficulty,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0162,"asthma attack, inhaler not helping much",breathing_difficulty,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0163,short of breath walking up stairs,breathing_difficulty,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0164,need an inhaler refill,breathing_difficulty,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0165,struggling to breathe and chest is tight,breathing_difficulty,emergency,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0166,wheezing since last night,breathing_difficulty,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0167,mild shortness of breath with allergies,breathing_difficulty,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0168,I'm having a bad asthma attack and I've used my inhaler four times in the last hour. I can only say a few words before I need to take a breath. My roommate is here with me.,breathing_difficulty,emergency,train-rambling,train,37,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0169,"For the past three days I've been more and more short of breath, especially lying flat. I have to sleep sitting up now. I also have a cough with some yellow stuff.",breathing_difficulty,urgent,train-rambling,train,32,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0170,I have asthma and my inhaler is almost empty. I lost my insurance when I aged off my parents' plan. I'm breathing okay right now but I'm worried about running out.,breathing_difficulty,routine,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0171,I got over COVID a month ago but I still get winded just walking to the bus. It's not getting better and I'm worried something is wrong with my lungs.,breathing_difficulty,urgent,train-rambling,train,30,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0172,I was cleaning the bathroom and mixed bleach with another cleaner and now I'm coughing nonstop and my chest burns and it's hard to breathe.,breathing_difficulty,emergency,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0173,I've been wheezing for two days and my rescue inhaler only helps for an hour. I have a fever too. I'm 31 and have had asthma since I was a kid.,breathing_difficulty,urgent,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0174,I smoke and lately I notice I'm out of breath faster when I play basketball. I want to get my lungs checked but I don't have a doctor.,breathing_difficulty,routine,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0175,cant breath good at all and my chest is so tight help,breathing_difficulty,emergency,train-misspelled,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0176,wheezin a lot and my inhaler aint working like it used to,breathing_difficulty,urgent,train-misspelled,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0177,need albuterol refill i got asthma and no insurance,breathing_difficulty,routine,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0178,short of breth for 3 days now and coughing up green stuff,breathing_difficulty,urgent,train-misspelled,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0179,my breathing is real fast and i feel like im suffocating,breathing_difficulty,emergency,train-misspelled,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0180,get winded easy wen i walk up hills is that bad,breathing_difficulty,routine,train-misspelled,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0181,"asthma flare up since the fire smoke came in, hard to breathe at nite",breathing_difficulty,urgent,train-misspelled,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0182,no puedo respirar bien y tengo los labios morados,breathing_difficulty,emergency,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0183,tengo asma and my inhaler no me está ayudando,breathing_difficulty,urgent,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0184,"necesito un inhalador nuevo, I have asthma pero no tengo seguro",breathing_difficulty,routine,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0185,me falta el aire desde hace tres días y tengo tos con flema,breathing_difficulty,urgent,train-spanglish,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0186,"mi hijo no puede respirar, he's breathing really fast and his chest pulls in",breathing_difficulty,emergency,train-spanglish,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0187,"wheezing cuando me acuesto, can't sleep",breathing_difficulty,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0188,my 2 year old is breathing really fast and the skin between his ribs sucks in,breathing_difficulty,emergency,train-parent,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0189,my 8 year old has asthma and is wheezing even after his nebulizer,breathing_difficulty,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0190,"my 11 year old needs a new inhaler for school, we have no pediatrician",breathing_difficulty,routine,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0191,my 4 month old baby is grunting when she breathes and won't feed,breathing_difficulty,emergency,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0192,my 5 year old has a cough and is breathing harder than usual tonight,breathing_difficulty,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0193,"my teenager gets short of breath during gym class, is it asthma",breathing_difficulty,routine,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0194,I'm 74 with COPD and I can't get enough air even on my oxygen,breathing_difficulty,emergency,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0195,I'm 67 and I've been more short of breath for a week and my ankles are swollen,breathing_difficulty,urgent,train-older,train,17,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0196,"I'm 70 and need a refill on my COPD inhalers, my clinic closed",breathing_difficulty,routine,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0197,I'm 72 and wheezing with a fever since yesterday,breathing_difficulty,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0198,"I'm 81 and gasping for air, I can't lie down at all",breathing_difficulty,emergency,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0199,"I'm 65 and get a little winded on long walks, I'd like a lung check",breathing_difficulty,routine,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0200,"I'm 69 and my breathing got worse after a cold last week, using my inhaler a lot",breathing_difficulty,urgent,train-older,train,17,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0201,crushing chest pain and sweating,chest_pain,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0202,chest pressure spreading to my left arm,chest_pain,emergency,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0203,sharp chest pain when i breathe in,chest_pain,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0204,chest sore after coughing all week,chest_pain,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0205,"chest tightness, can't catch my breath",chest_pain,emergency,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0206,burning pain in the middle of my chest,chest_pain,urgent,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0207,pulled a muscle in my chest lifting boxes,chest_pain,routine,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0208,I was walking up the stairs to my apartment and suddenly felt this heavy pressure in my chest like someone sitting on it. It's been 20 minutes and my jaw hurts too. I'm 54 and my dad had a heart attack at my age.,chest_pain,emergency,train-rambling,train,44,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0209,For the past two days I've had a sharp stabbing pain on the right side of my chest that gets worse when I take a deep breath or lie down. No fever that I know of. It's annoying more than anything but I'm a little worried.,chest_pain,urgent,train-rambling,train,46,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0210,I've had a dull ache in my chest wall since I started a new job moving furniture. It hurts when I press on it or twist. I don't have insurance so I don't want to go to the ER if it's just a muscle.,chest_pain,routine,train-rambling,train,44,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0211,I'm having chest pain that started at work about half an hour ago and now I feel lightheaded and nauseous. I'm sweating even though it's cold in here. My coworker says I look gray.,chest_pain,emergency,train-rambling,train,34,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0212,"My chest has been hurting on and off for a week, mostly after I eat. It's like a squeezing feeling that lasts a few minutes. I'm 47 and overweight and honestly I'm scared to find out what it is.",chest_pain,urgent,train-rambling,train,39,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0213,Every time I get stressed at school my chest feels tight for a minute and then it goes away. It's been happening for months. My friend said it could be anxiety but I want to make sure it's nothing with my heart.,chest_pain,routine,train-rambling,train,42,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0214,My chest started hurting really bad right after I used cocaine at a party and my heart is pounding out of my chest. I don't want to get in trouble but I'm scared.,chest_pain,emergency,train-rambling,train,33,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0215,chest hurts so bad cant breath rite and my left arm is numb,chest_pain,emergency,train-misspelled,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0216,got this sharp pain in my chest wen i take a deep breth since yesterday,chest_pain,urgent,train-misspelled,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0217,"my chest is sore on the rite side wen i push on it, i been lifting at the gym",chest_pain,routine,train-misspelled,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0218,real bad pressure in my chest and im sweatin alot and throwin up,chest_pain,emergency,train-misspelled,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0219,chest pain comes and goes all day today kinda like a squeeze idk wat it is,chest_pain,urgent,train-misspelled,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0220,chest feel tight wen i get nervous for my exams is that normal,chest_pain,routine,train-misspelled,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0221,"pain in my chest after i fell on the stairs, hurts to breathe deep",chest_pain,urgent,train-misspelled,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0222,"tengo un dolor muy fuerte en el pecho y me sube al brazo, started like 20 minutes ago",chest_pain,emergency,train-spanglish,train,18,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0223,"me duele el pecho cuando respiro profundo, since yesterday and I have a little fever",chest_pain,urgent,train-spanglish,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0224,"tengo el pecho adolorido from coughing so much, es normal?",chest_pain,routine,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0225,"mi esposo tiene dolor de pecho y está sudando mucho, he says it feels like pressure",chest_pain,emergency,train-spanglish,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0226,"chest pain que va y viene después de comer, been happening all week",chest_pain,urgent,train-spanglish,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0227,"I hurt my chest cargando cajas en el trabajo, duele cuando me muevo",chest_pain,routine,train-spanglish,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0228,my 15 year old son says his chest hurts when he runs at soccer practice,chest_pain,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0229,"my daughter is 9 and says her chest hurts after she coughs a lot, she has a cold",chest_pain,routine,train-parent,train,18,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0230,my 16 year old collapsed at practice holding his chest and is now really pale,chest_pain,emergency,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0231,my 12 year old got hit in the chest with a baseball and it still hurts hours later,chest_pain,urgent,train-parent,train,18,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0232,"my teen says she gets chest pain when she's anxious about school, it goes away fast",chest_pain,routine,train-parent,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0233,my 7 year old says her chest hurts and she has a fever and fast breathing,chest_pain,urgent,train-parent,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0234,I'm 72 with a heart stent and I'm having the same chest pressure I had before my heart attack,chest_pain,emergency,train-older,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0235,I'm 68 and I get chest pain when I walk to the bus stop that goes away when I rest,chest_pain,urgent,train-older,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0236,I'm 65 and my chest is sore where I had my shingles last month,chest_pain,routine,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0237,"I am 80 years old, chest pain and short of breath since this morning, my nitroglycerin didn't help",chest_pain,emergency,train-older,train,18,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0238,I'm 70 and have heartburn-like chest pain at night that my antacids aren't fixing,chest_pain,urgent,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0239,I'm 63 and my chest wall aches since I started doing push-ups at the senior center,chest_pain,routine,train-older,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0240,I'm 75 with diabetes and I've had a strange tightness in my chest on and off for two days,chest_pain,urgent,train-older,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0241,person collapsed and not breathing,collapse_unresponsive,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0242,my dad is unconscious,collapse_unresponsive,emergency,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0243,found my friend unresponsive,collapse_unresponsive,emergency,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0244,someone passed out on the street not waking up,collapse_unresponsive,emergency,train-short,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0245,"not breathing, no pulse",collapse_unresponsive,emergency,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0246,my mom collapsed and won't respond,collapse_unresponsive,emergency,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0247,my brother is very drowsy and hard to wake,collapse_unresponsive,urgent,train-short,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0248,My grandfather just collapsed in the kitchen and he isn't responding when I shake him. I can't tell if he's breathing.,collapse_unresponsive,emergency,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0249,There's a man lying on the sidewalk outside my building and he's not moving or answering. People are just walking past.,collapse_unresponsive,emergency,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0250,My roommate won't wake up. She was drinking last night and now she's breathing really slowly and I can't get her up.,collapse_unresponsive,emergency,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0251,"My dad has been really sleepy and hard to wake today, he answers and then falls back asleep. He's 77 and had a fall two days ago.",collapse_unresponsive,urgent,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0252,My husband was mowing the lawn and fell over. He's breathing but won't open his eyes or answer me.,collapse_unresponsive,emergency,train-rambling,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0253,My son was swimming at the pool and they pulled him out not breathing. Someone is doing CPR.,collapse_unresponsive,emergency,train-rambling,train,18,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0254,My mom keeps nodding off in the middle of conversations and is hard to keep awake. She started a new pain medicine.,collapse_unresponsive,urgent,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0255,my friend aint breathin and wont wake up,collapse_unresponsive,emergency,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0256,dad fell down n wont answer me,collapse_unresponsive,emergency,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0257,my mom collapsed n her lips r blue,collapse_unresponsive,emergency,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0258,my uncle real hard to wake up n confused,collapse_unresponsive,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0259,guy passed out at the store not movin,collapse_unresponsive,emergency,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0260,someone collapsed at the gym no pulse,collapse_unresponsive,emergency,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0261,my grandma keeps passin out,collapse_unresponsive,urgent,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0262,mi papá se desmayó y no respira,collapse_unresponsive,emergency,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0263,encontré a mi amigo inconsciente,collapse_unresponsive,emergency,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0264,mi abuela se cayó y no responde,collapse_unresponsive,emergency,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0265,mi esposo está muy dormido y no despierta bien,collapse_unresponsive,urgent,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0266,un hombre se desplomó en la calle,collapse_unresponsive,emergency,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0267,"mi hijo no respira, lo sacamos de la piscina",collapse_unresponsive,emergency,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0268,my baby is not breathing and limp,collapse_unresponsive,emergency,train-parent,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0269,my 3 year old fell in the pool and isn't responding,collapse_unresponsive,emergency,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0270,my 14 year old collapsed at practice and isn't breathing,collapse_unresponsive,emergency,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0271,my 5 year old is very sleepy and hard to wake after a fever,collapse_unresponsive,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0272,my 1 year old turned blue and went limp,collapse_unresponsive,emergency,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0273,my 10 year old fainted and is slow to answer questions,collapse_unresponsive,urgent,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0274,I'm 70 and my husband collapsed and isn't breathing,collapse_unresponsive,emergency,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0275,I'm 75 and my wife won't wake up,collapse_unresponsive,emergency,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0276,I'm 68 and my brother is very drowsy and confused,collapse_unresponsive,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0277,I'm 80 and my neighbor collapsed in the hallway,collapse_unresponsive,emergency,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0278,"I'm 72, my friend fell and isn't breathing right",collapse_unresponsive,emergency,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0279,I'm 66 and my sister keeps blacking out,collapse_unresponsive,urgent,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0280,I'm 77 and my husband is unresponsive in bed,collapse_unresponsive,emergency,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0281,bad cold and stuffy nose,cough_cold_flu,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0282,sore throat for 2 days,cough_cold_flu,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0283,flu symptoms and fever of 102,cough_cold_flu,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0284,cough that won't go away,cough_cold_flu,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0285,tested positive for covid,cough_cold_flu,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0286,runny nose and sneezing,cough_cold_flu,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0287,really bad sore throat can't swallow,cough_cold_flu,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0288,"I've had a runny nose, sneezing and a scratchy throat for three days. I feel kind of crummy but I'm still going to work. Is there somewhere cheap I can get checked or should I just rest?",cough_cold_flu,routine,train-rambling,train,37,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0289,I tested positive for COVID this morning. I have a fever of 101 and body aches. I'm 52 and have diabetes and I heard there's a pill you can take if you start it early.,cough_cold_flu,urgent,train-rambling,train,35,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0290,My cough has lasted almost three weeks after a cold. It's dry and worse at night. Otherwise I feel fine but it's keeping my partner awake.,cough_cold_flu,routine,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0291,My throat is so swollen it's hard to swallow even water and I have white spots on my tonsils. I've had a fever since yesterday. My little brother had strep last week.,cough_cold_flu,urgent,train-rambling,train,32,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0292,"I think I have the flu. Fever, chills, everything hurts. I'm 24 and healthy, just want to know if I need to see someone or can ride it out.",cough_cold_flu,routine,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0293,I've been coughing up yellow-green mucus for a week and now I have a fever again after it went away. I feel worse than I did at the start.,cough_cold_flu,urgent,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0294,Every winter I get a cold that lingers. This year it's congestion and sinus pressure for 10 days. Can a clinic give me something stronger than over the counter stuff?,cough_cold_flu,routine,train-rambling,train,30,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0295,got a cold stuffy nose and coughin a lil,cough_cold_flu,routine,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0296,throat hurts sooo bad cant even swallow my spit,cough_cold_flu,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0297,i think i got the flu body aches and chills,cough_cold_flu,routine,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0298,tested positiv for covid and my fever wont go down,cough_cold_flu,urgent,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0299,coughin for 2 weeks wont stop,cough_cold_flu,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0300,sinus pressure and headache from my cold,cough_cold_flu,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0301,sore throat with white spots and fever,cough_cold_flu,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0302,"tengo gripe y mucha congestión, since Monday",cough_cold_flu,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0303,me duele mucho la garganta y tengo fiebre de 102,cough_cold_flu,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0304,"tengo tos seca hace dos semanas, no se me quita",cough_cold_flu,routine,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0305,"salí positivo de covid and I have asthma, me preocupa",cough_cold_flu,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0306,"catarro y dolor de cuerpo, should I see a doctor?",cough_cold_flu,routine,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0307,my husband tiene fiebre alta y tos con flema verde,cough_cold_flu,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0308,my 3 year old has a fever of 103 and a cough,cough_cold_flu,urgent,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0309,my 6 year old has a runny nose and mild cough for 4 days,cough_cold_flu,routine,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0310,"my 10 year old has a really sore throat and fever, could it be strep",cough_cold_flu,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0311,my 8 month old has a stuffy nose and is a little fussy,cough_cold_flu,routine,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0312,my 2 month old baby has a fever of 100.8 and a cough,cough_cold_flu,emergency,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0313,"my 13 year old tested positive for covid, she just has a cough",cough_cold_flu,routine,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0314,"I'm 70 and I have the flu with a high fever, I'm worried because of my age",cough_cold_flu,urgent,train-older,train,17,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0315,"I'm 66 and have a lingering cough after a cold, no fever",cough_cold_flu,routine,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0316,I'm 75 and tested positive for COVID today,cough_cold_flu,urgent,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0317,I'm 62 and have a sore throat and congestion for three days,cough_cold_flu,routine,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0318,I'm 79 and my cold has turned into a bad cough and I'm very tired,cough_cold_flu,urgent,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0319,"I'm 68 and need a flu shot, I don't have insurance",cough_cold_flu,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0320,I'm 73 with heart failure and I have a fever and cough since yesterday,cough_cold_flu,urgent,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0321,toothache for a week,dental_mouth,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0322,swollen face from a tooth infection,dental_mouth,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0323,need a cheap dentist,dental_mouth,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0324,broken tooth,dental_mouth,routine,train-short,train,2,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0325,tooth pain and fever,dental_mouth,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0326,bleeding gums when I brush,dental_mouth,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0327,"jaw and face swelling, hard to swallow",dental_mouth,emergency,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0328,"I have a molar that's been aching for about a week, worse with cold drinks. I don't have dental insurance and I'm scared of how much it will cost. Is there a low-cost dentist near New Brunswick?",dental_mouth,routine,train-rambling,train,37,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0329,My cheek has swollen up over the last two days around a bad tooth and it's throbbing. I have a low fever now. I can still open my mouth but it hurts.,dental_mouth,urgent,train-rambling,train,32,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0330,I chipped my front tooth on a fork. It doesn't hurt but it looks bad and I have job interviews coming up.,dental_mouth,routine,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0331,My face swelled up from a tooth infection and now the swelling is going down my neck and it's hard to swallow and breathe.,dental_mouth,emergency,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0332,My gums bleed every time I brush and my breath is bad. I haven't been to a dentist in about five years because I couldn't afford it.,dental_mouth,routine,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0333,"I had a tooth pulled three days ago and the pain is getting worse instead of better, and it goes up to my ear. I think it might be dry socket.",dental_mouth,urgent,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0334,I have a sore inside my mouth that's been there about a week. It's painful when I eat. I want someone to look at it.,dental_mouth,routine,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0335,my tooth hurts real bad wen i drink cold stuff,dental_mouth,routine,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0336,face swole up from my tooth,dental_mouth,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0337,need a dentist that dont cost alot,dental_mouth,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0338,broke my tooth on some candy,dental_mouth,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0339,tooth abses and fever,dental_mouth,urgent,train-misspelled,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0340,gums bleedin wen i brush,dental_mouth,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0341,wisdom tooth comin in n it hurts,dental_mouth,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0342,"me duele una muela hace una semana, no tengo seguro dental",dental_mouth,routine,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0343,tengo la cara hinchada por una muela infectada,dental_mouth,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0344,busco un dentista barato cerca de New Brunswick,dental_mouth,routine,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0345,se me rompió un diente comiendo,dental_mouth,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0346,"dolor de muela con fiebre, since yesterday",dental_mouth,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0347,me sangran las encías cuando me cepillo,dental_mouth,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0348,my 6 year old has a cavity and says it hurts when she eats,dental_mouth,routine,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0349,my 8 year old's cheek is swollen near a bad tooth,dental_mouth,urgent,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0350,"my 3 year old has never seen a dentist, where can we go with medicaid",dental_mouth,routine,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0351,my 10 year old knocked out a baby tooth at the park,dental_mouth,routine,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0352,my 12 year old knocked out an adult front tooth playing basketball 20 minutes ago,dental_mouth,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0353,my 14 year old needs braces evaluation but we can't afford it,dental_mouth,routine,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0354,I'm 70 and my dentures don't fit anymore and hurt,dental_mouth,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0355,I'm 66 and have a painful swollen gum and a bad taste,dental_mouth,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0356,I'm 72 and need dental care but Medicare doesn't cover it,dental_mouth,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0357,I'm 68 and a filling fell out,dental_mouth,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0358,I'm 75 with a toothache and swelling and I'm on blood thinners,dental_mouth,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0359,I'm 63 and my teeth are loose,dental_mouth,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0360,I'm 80 and have a sore on my gum that won't heal,dental_mouth,routine,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0361,blood sugar over 400,diabetes_blood_sugar,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0362,blood sugar 40 and shaking,diabetes_blood_sugar,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0363,need diabetes medication refill,diabetes_blood_sugar,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0364,always thirsty and peeing a lot,diabetes_blood_sugar,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0365,ran out of insulin,diabetes_blood_sugar,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0366,want to check for diabetes,diabetes_blood_sugar,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0367,high sugar and vomiting,diabetes_blood_sugar,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0368,"I've been really thirsty and peeing a lot for a few weeks, and I've lost some weight without trying. My dad has diabetes. Can I get tested somewhere cheap?",diabetes_blood_sugar,routine,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0369,I ran out of insulin two days ago because I couldn't afford it. My sugar is 380 this morning and I feel tired and thirsty.,diabetes_blood_sugar,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0370,"My blood sugar meter says HI and I've been throwing up all day, breathing fast and my breath smells fruity. I'm type 1.",diabetes_blood_sugar,emergency,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0371,I have type 2 diabetes and my metformin ran out. I lost my job and my insurance. My sugars have been around 200.,diabetes_blood_sugar,routine,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0372,"My husband is diabetic and he's sweaty, confused and not making sense. His sugar is 45. He can still swallow.",diabetes_blood_sugar,emergency,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0373,I have diabetes and a sore on the bottom of my foot that isn't healing and now it smells.,diabetes_blood_sugar,urgent,train-rambling,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0374,I was told I'm prediabetic at a health fair. I'd like to see someone about diet and whether I need medicine.,diabetes_blood_sugar,routine,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0375,my sugar is 450 n i feel sick,diabetes_blood_sugar,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0376,my sugar is real low n im shakin n sweatin,diabetes_blood_sugar,emergency,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0377,need my metformin refill no insurance,diabetes_blood_sugar,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0378,always thirsty n peein alot,diabetes_blood_sugar,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0379,out of insulin n cant afford it,diabetes_blood_sugar,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0380,think i might have diabetes,diabetes_blood_sugar,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0381,diabetic and my foot sore looks bad,diabetes_blood_sugar,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0382,tengo el azúcar en 400,diabetes_blood_sugar,urgent,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0383,el azúcar de mi papá está muy baja y está confundido,diabetes_blood_sugar,emergency,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0384,"necesito mi medicina para la diabetes, no tengo seguro",diabetes_blood_sugar,routine,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0385,tengo mucha sed y orino mucho,diabetes_blood_sugar,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0386,se me acabó la insulina,diabetes_blood_sugar,urgent,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0387,quiero hacerme la prueba de diabetes,diabetes_blood_sugar,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0388,my 10 year old has diabetes and his sugar is very high with ketones,diabetes_blood_sugar,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0389,my 8 year old is always thirsty and wetting the bed,diabetes_blood_sugar,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0390,my 12 year old type 1 is vomiting and breathing very fast,diabetes_blood_sugar,emergency,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0391,my 15 year old was told he's prediabetic,diabetes_blood_sugar,routine,train-parent,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0392,my 6 year old diabetic's sugar dropped low and she's shaky,diabetes_blood_sugar,urgent,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0393,my 13 year old needs a diabetes educator,diabetes_blood_sugar,routine,train-parent,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0394,I'm 70 and my sugar has been over 300 for days,diabetes_blood_sugar,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0395,I'm 66 and need a diabetes doctor,diabetes_blood_sugar,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0396,I'm 75 and my sugar is 35 and I feel very confused,diabetes_blood_sugar,emergency,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0397,I'm 68 and can't afford my insulin,diabetes_blood_sugar,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0398,I'm 72 with diabetes and a toe turning black,diabetes_blood_sugar,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0399,I'm 64 and need my A1c checked,diabetes_blood_sugar,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0400,I'm 69 and need diabetic shoes and foot care,diabetes_blood_sugar,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0401,nausea all day,digestive_upset,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0402,vomiting for 24 hours can't keep water down,digestive_upset,urgent,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0403,diarrhea since yesterday,digestive_upset,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0404,heartburn every night,digestive_upset,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0405,throwing up and dizzy,digestive_upset,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0406,constipated for 5 days,digestive_upset,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0407,blood in my stool,digestive_upset,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0408,I think I ate something bad at a party. I've had diarrhea and cramps since last night but I'm keeping fluids down. I just want to know what to watch for.,digestive_upset,routine,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0409,I've been vomiting since yesterday afternoon and can't even keep water down. I haven't peed much today and I feel dizzy when I stand up.,digestive_upset,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0410,I get heartburn almost every night after dinner and it wakes me up with a sour taste. Over the counter stuff helps for a while. I'd like to see someone about it.,digestive_upset,routine,train-rambling,train,32,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0411,I noticed bright red blood when I wiped and in the toilet a few times this week. It doesn't really hurt. I'm 50 and never had a colonoscopy.,digestive_upset,urgent,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0412,I've been constipated for almost a week even though I'm eating fruit. I'm uncomfortable and bloated. I started a new iron pill recently.,digestive_upset,routine,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0413,My skin and the whites of my eyes look yellow and my pee is dark. I've been really tired and itchy. I'm 41.,digestive_upset,urgent,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0414,I've been throwing up blood that looks like coffee grounds and I feel weak and shaky. I've had stomach problems for a while.,digestive_upset,emergency,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0415,feel nauseas all day and no appetite,digestive_upset,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0416,cant stop throwin up since last nite,digestive_upset,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0417,got diarrea from somethin i ate,digestive_upset,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0418,heart burn real bad after i eat,digestive_upset,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0419,blood wen i poop for a few days,digestive_upset,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0420,havent pooped in 4 days stomach feels full,digestive_upset,routine,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0421,my eyes look yellow n my pee is dark,digestive_upset,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0422,"tengo náuseas y no tengo hambre, since two days",digestive_upset,routine,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0423,vomitando desde anoche y no puedo tomar agua,digestive_upset,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0424,"tengo diarrea desde ayer, should I take something?",digestive_upset,routine,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0425,agruras todas las noches después de cenar,digestive_upset,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0426,"sangre en las heces, I'm scared",digestive_upset,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0427,"estreñimiento hace cinco días, ya probé de todo",digestive_upset,routine,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0428,my 2 year old has been vomiting all day and has had no wet diapers since morning,digestive_upset,urgent,train-parent,train,17,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0429,my 7 year old has diarrhea but is drinking and playing,digestive_upset,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0430,my 9 month old has diarrhea and seems very sleepy,digestive_upset,urgent,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0431,my 5 year old is constipated and cries when she poops,digestive_upset,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0432,my 12 year old gets nauseous in the morning before school,digestive_upset,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0433,my baby is 3 weeks old and is projectile vomiting after every feed and seems weak,digestive_upset,emergency,train-parent,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0434,I'm 74 and have had diarrhea for 3 days and feel weak,digestive_upset,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0435,I'm 67 with acid reflux that's getting worse,digestive_upset,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0436,I'm 70 and noticed black tarry stools since yesterday,digestive_upset,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0437,I'm 65 and constipated since starting a new pain medicine,digestive_upset,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0438,"I'm 78 and vomiting since this morning, I take insulin",digestive_upset,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0439,I'm 69 and have nausea after taking my new pills,digestive_upset,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0440,I'm 72 and need a colonoscopy referral but have no doctor,digestive_upset,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0441,earache for 2 days,ear,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0442,ear feels clogged,ear,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0443,ear pain and fever,ear,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0444,ringing in my ears,ear,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0445,fluid draining from my ear,ear,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0446,need a hearing test,ear,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0447,sudden hearing loss in one ear,ear,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0448,My right ear has been aching for two days since I went swimming. It hurts when I pull on my earlobe. No fever. Is this swimmer's ear?,ear,routine,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0449,I woke up this morning and can't hear out of my left ear at all. It feels full and there's ringing. It came on overnight.,ear,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0450,My ears feel plugged and muffled after a cold. It's been a week. I tried yawning and chewing gum.,ear,routine,train-rambling,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0451,I have bad ear pain with a fever and now there's yellow fluid coming out of my ear. The pain got a little better when it started draining.,ear,urgent,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0452,My hearing has gotten worse over the years and people complain I have the TV too loud. I can't afford hearing aids.,ear,routine,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0453,My ear is red and swollen behind it and very painful. I had an ear infection last week and the antibiotics didn't seem to work.,ear,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0454,I have constant ringing in both ears after a concert last weekend. It's quieter now but still there.,ear,routine,train-rambling,train,18,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0455,my ear hurts since yesterday,ear,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0456,ear feels stuffed up cant hear good,ear,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0457,ear pain n fever n stuff comin out,ear,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0458,ringin in my ears all the time,ear,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0459,woke up deaf in one ear,ear,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0460,think i got wax stuck in my ear,ear,routine,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0461,swimmers ear again,ear,routine,train-misspelled,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0462,me duele el oído desde ayer,ear,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0463,tengo el oído tapado,ear,routine,train-spanglish,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0464,dolor de oído con fiebre y sale líquido,ear,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0465,zumbido en los oídos,ear,routine,train-spanglish,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0466,de repente no escucho de un oído,ear,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0467,necesito un examen de audición,ear,routine,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0468,my 2 year old is pulling her ear and has a fever,ear,urgent,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0469,my 5 year old says his ear hurts after a cold,ear,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0470,my 8 month old is crying and has pus coming from her ear,ear,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0471,my 4 year old put a bead in his ear,ear,routine,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0472,my 7 year old isn't hearing well at school,ear,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0473,my 3 year old has a swollen red area behind his ear and fever,ear,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0474,I'm 72 and my hearing is getting worse,ear,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0475,I'm 68 with ringing in my ears for months,ear,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0476,I'm 70 and lost hearing in one ear suddenly yesterday,ear,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0477,I'm 66 and my ears are full of wax,ear,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0478,"I'm 74 with ear pain, dizziness and fever",ear,urgent,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0479,I'm 65 and need a hearing aid,ear,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0480,I'm 78 and my ear itches and hurts a little,ear,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0481,red itchy eye,eye,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0482,chemical splashed in my eye,eye,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0483,sudden blurry vision in one eye,eye,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0484,need an eye exam and glasses,eye,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0485,eye pain and light sensitivity,eye,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0486,lost vision in one eye suddenly,eye,emergency,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0487,eye infection with crusty discharge,eye,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0488,I was using drain cleaner and some splashed into my eye. It's burning badly and I rinsed it a little. I can barely open it.,eye,emergency,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0489,My left eye has been red and gooey since yesterday and my eyelashes are stuck together in the morning. My kid had pink eye last week.,eye,routine,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0490,"I suddenly started seeing a bunch of floaters and flashes of light in my right eye this afternoon, and now there's a shadow on the side.",eye,urgent,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0491,I can't see the board at night school anymore and I get headaches. I haven't had an eye exam in years and I don't have vision insurance.,eye,routine,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0492,"I got poked in the eye by a branch while doing yard work. It hurts, it's watery and I can't keep it open in the light.",eye,urgent,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0493,"My eyes feel dry and gritty all the time, especially after work on the computer. Eye drops help a bit.",eye,routine,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0494,"My eye is really painful and red and my vision is cloudy, and I wear contacts. I slept in them last night.",eye,urgent,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0495,my eye is red n itchy,eye,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0496,got bleach in my eye it burns so bad,eye,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0497,cant see good outta my left eye all of a sudden,eye,urgent,train-misspelled,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0498,need glasses cant afford eye doctor,eye,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0499,my eye hurts n light makes it worse,eye,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0500,pink eye i think,eye,routine,train-misspelled,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0501,something stuck in my eye all day,eye,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0502,tengo el ojo rojo y me pica,eye,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0503,me cayó químico en el ojo y me arde mucho,eye,emergency,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0504,veo borroso de un ojo de repente,eye,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0505,"necesito lentes, no tengo seguro",eye,routine,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0506,me duele el ojo y me molesta la luz,eye,urgent,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0507,"tengo conjuntivitis, creo",eye,routine,train-spanglish,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0508,my 5 year old has pink eye,eye,routine,train-parent,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0509,my 9 year old got hit in the eye with a ball and it's swollen,eye,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0510,my 7 year old can't see the board at school,eye,routine,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0511,my 3 year old got dish soap pods in his eye and is screaming,eye,emergency,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0512,my 1 year old's eyelid is red and swollen and she has a fever,eye,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0513,"my 11 year old needs new glasses, we have medicaid",eye,routine,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0514,I'm 70 and my vision suddenly got blurry in one eye,eye,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0515,I'm 65 and need cataract evaluation,eye,routine,train-older,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0516,"I'm 73 and have severe eye pain, headache and vomiting, my eye is red",eye,emergency,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0517,I'm 68 and my glasses prescription is old,eye,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0518,I'm 72 and see a curtain coming down over my vision,eye,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0519,I'm 66 with diabetes and need an eye exam,eye,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0520,I'm 75 and my eyes are dry and irritated,eye,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0521,fever of 103 that won't break,fever_infection,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0522,low grade fever and chills,fever_infection,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0523,fever and shaking chills,fever_infection,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0524,high fever and stiff neck,fever_infection,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0525,"fever for one day, feel okay otherwise",fever_infection,routine,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0526,fever after getting back from a trip abroad,fever_infection,urgent,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0527,"fever and confused, very sleepy",fever_infection,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0528,"I've had a fever between 101 and 103 for four days now even with Tylenol. I don't have a cough or anything else, just fever and feeling wiped out. I'm 35.",fever_infection,urgent,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0529,My fever is 104 and my neck is really stiff and the light hurts my eyes. I've been throwing up too. I'm a college student living in the dorms.,fever_infection,emergency,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0530,I had a fever last night around 100.5 but it's gone this morning. I feel a little tired. I'm wondering if I should get checked or just wait.,fever_infection,routine,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0531,"I just got back from visiting family in Guatemala and now I have a high fever, chills and a headache. I'm worried it's something from the trip.",fever_infection,urgent,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0532,I'm on chemotherapy for breast cancer and I have a fever of 101. My oncology nurse told me to never ignore a fever.,fever_infection,emergency,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0533,I got a tattoo a week ago and now the area is hot and red and I have a fever. The redness is spreading up my arm.,fever_infection,urgent,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0534,I keep getting low fevers in the evenings for a couple of weeks and I've lost some weight. I don't feel terrible but something seems off.,fever_infection,routine,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0535,fever 103 for 3 days n tylenol not working,fever_infection,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0536,feelin hot n cold kinda feverish,fever_infection,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0537,my fever is 105 and im shakin real bad,fever_infection,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0538,got the chills n fever after my surgery last week,fever_infection,urgent,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0539,"lil fever and tired, think im comin down with somethin",fever_infection,routine,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0540,fever and my whole body aches real bad,fever_infection,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0541,fever and theres a purple rash spreadin on my legs,fever_infection,emergency,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0542,tengo fiebre de 103 hace tres días y no baja,fever_infection,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0543,"tengo un poco de fiebre y escalofríos, desde anoche",fever_infection,routine,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0544,"mi hija tiene fiebre muy alta y está muy dormida, no responde bien",fever_infection,emergency,train-spanglish,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0545,"fiebre después de viajar a Honduras, también dolor de cabeza",fever_infection,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0546,"calentura leve y cansancio, should I go to a clinic?",fever_infection,routine,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0547,tengo fiebre y la herida de mi operación está roja,fever_infection,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0548,my 6 week old has a fever of 100.6,fever_infection,emergency,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0549,my 2 year old has had a fever of 103 for 3 days,fever_infection,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0550,my 5 year old had a fever yesterday but is playing normally today,fever_infection,routine,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0551,my 1 year old has a fever and a rash that doesn't fade when I press a glass on it,fever_infection,emergency,train-parent,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0552,my 4 year old has a fever and is pulling at his ear and crying,fever_infection,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0553,my 9 year old has a low fever after her vaccines,fever_infection,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0554,"I'm 78 and have a fever and I'm more confused than usual, my daughter says",fever_infection,urgent,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0555,I'm 64 and have had a mild fever for a day with no other symptoms,fever_infection,routine,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0556,I'm 70 with a fever and burning when I pee,fever_infection,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0557,I'm 82 and my temperature is 103 and I can barely get out of bed,fever_infection,emergency,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0558,"I'm 66, on dialysis, and I have a fever and chills",fever_infection,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0559,I'm 69 and had a low fever after my shingles shot,fever_infection,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0560,I'm 75 with a fever and my leg wound looks infected,fever_infection,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0561,hit my head and have a headache,head_injury,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0562,"head injury, vomiting and confused",head_injury,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0563,small bump on my head,head_injury,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0564,cut on my forehead won't stop bleeding,head_injury,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0565,possible concussion from soccer,head_injury,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0566,"fell and hit head, on blood thinners",head_injury,emergency,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0567,bruise on my cheek from a fall,head_injury,routine,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0568,I slipped on ice and hit the back of my head. I didn't pass out but I have a headache and feel a little foggy. It happened two hours ago.,head_injury,urgent,train-rambling,train,30,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0569,My friend got punched and fell back and hit his head on the curb. He was knocked out for a minute and now he keeps asking the same questions and throwing up.,head_injury,emergency,train-rambling,train,32,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0570,I bumped my head on a cabinet door yesterday. There's a small lump and it's tender but I feel totally normal.,head_injury,routine,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0571,I got a deep cut on my eyebrow from a fall and it's gaping open. The bleeding slowed with pressure. I think it needs stitches.,head_injury,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0572,I'm on Eliquis and I fell and hit my head on the bathroom floor. I have a headache that's getting worse.,head_injury,emergency,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0573,"I took a hard hit to the head in a football game last night and today I'm dizzy, sensitive to light and can't concentrate.",head_injury,urgent,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0574,I walked into a pole and my nose is swollen and sore but not bleeding. I can breathe through it fine.,head_injury,routine,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0575,hit my head n got a headache,head_injury,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0576,hit my head n keep throwin up n confused,head_injury,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0577,got a lil bump on my head,head_injury,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0578,cut on my face wont stop bleedin,head_injury,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0579,think i got a concussion,head_injury,urgent,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0580,passed out after hittin my head,head_injury,emergency,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0581,black eye from a fall,head_injury,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0582,me golpeé la cabeza y me duele mucho,head_injury,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0583,"mi hijo se cayó, se golpeó la cabeza y está vomitando",head_injury,emergency,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0584,tengo un chichón en la cabeza,head_injury,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0585,me corté la frente y sangra mucho,head_injury,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0586,creo que tengo una conmoción cerebral,head_injury,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0587,"me golpeé la cara, tengo un moretón",head_injury,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0588,my 2 year old fell off the bed and hit his head and is crying,head_injury,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0589,my 9 month old fell down the stairs and is very sleepy,head_injury,emergency,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0590,my 5 year old has a bump on her forehead from the playground,head_injury,routine,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0591,my 12 year old got hit in the head at soccer and has a headache,head_injury,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0592,my 7 year old hit his head and has clear fluid from his nose,head_injury,emergency,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0593,my 4 year old cut his chin and it's gaping,head_injury,urgent,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0594,"I'm 78 and fell and hit my head, I'm on warfarin",head_injury,emergency,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0595,I'm 70 and hit my head on a shelf and feel dizzy,head_injury,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0596,"I'm 66 and bumped my head, small bruise",head_injury,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0597,I'm 82 and my wife fell and hit her head and is confused,head_injury,emergency,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0598,I'm 73 and have a cut on my scalp from a fall,head_injury,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0599,I'm 68 and have a bruise on my face from tripping,head_injury,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0600,I'm 75 and hit my head yesterday and today I'm more forgetful,head_injury,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0601,headache for two days,headache,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0602,worst headache of my life came on suddenly,headache,emergency,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0603,migraine again,headache,routine,train-short,train,2,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0604,headache with vomiting,headache,urgent,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0605,tension headache from stress,headache,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0606,headache and blurry vision,headache,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0607,sudden headache and can't move my arm,headache,emergency,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0608,"I was lifting weights and suddenly got the worst headache I've ever had, like being hit with a bat. It came on in seconds. I feel sick and the light hurts.",headache,emergency,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0609,"I get headaches most afternoons, usually behind my eyes. I stare at a computer all day and drink a lot of coffee. Ibuprofen helps but I'm taking it almost every day.",headache,routine,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0610,I've had migraines for years but this one has lasted three days and my usual medicine isn't working. I keep throwing up.,headache,urgent,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0611,"I've been getting headaches since I started a new job with night shifts. They're not terrible, just annoying. I don't have a doctor.",headache,routine,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0612,"I have a headache that's been getting worse every day for two weeks, and it's worse in the morning when I wake up. I've also been throwing up a little.",headache,urgent,train-rambling,train,30,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0613,My headache started an hour ago and now my speech is slurred and the left side of my face feels droopy.,headache,emergency,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0614,I get migraines a few times a month and I'd like to get on a preventive medication. I can't afford a neurologist.,headache,routine,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0615,my head been hurtin for 2 days,headache,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0616,worst headache ever came out of nowhere,headache,emergency,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0617,migrain again cant look at light,headache,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0618,headache n throwin up all nite,headache,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0619,headaches every day from stress at work,headache,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0620,bad headache and my vision is blurry,headache,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0621,need somethin for my migranes,headache,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0622,me duele la cabeza desde ayer,headache,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0623,"tengo el peor dolor de cabeza de mi vida, it came on suddenly",headache,emergency,train-spanglish,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0624,tengo migraña otra vez y la luz me molesta,headache,routine,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0625,"dolor de cabeza con vómito, since this morning",headache,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0626,dolores de cabeza por estrés del trabajo,headache,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0627,mi mamá tiene dolor de cabeza fuerte y la presión alta,headache,urgent,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0628,my 11 year old gets headaches after school,headache,routine,train-parent,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0629,my 9 year old has a headache and fever and his neck hurts,headache,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0630,my 15 year old gets migraines and misses school,headache,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0631,my 7 year old has had a headache every morning for a week with vomiting,headache,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0632,"my 13 year old says her head hurts when she reads, maybe she needs glasses",headache,routine,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0633,my 16 year old has a sudden terrible headache and is confused,headache,emergency,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0634,I'm 71 and have a new headache and pain at my temple when I chew,headache,urgent,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0635,I'm 65 and get tension headaches in my neck and head,headache,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0636,"I'm 78 on blood thinners, fell yesterday and now have a bad headache",headache,emergency,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0637,I'm 68 and have a headache with very high blood pressure,headache,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0638,I'm 70 and have headaches in the morning,headache,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0639,I'm 74 and this headache is different from any I've had before,headache,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0640,I'm 62 and want help with my chronic migraines,headache,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0641,heart racing for no reason,heart_circulation,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0642,heart pounding and I feel like I'm going to pass out,heart_circulation,emergency,train-short,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0643,need blood pressure medication refill,heart_circulation,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0644,blood pressure 190 over 110,heart_circulation,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0645,swollen veins in my legs,heart_circulation,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0646,heart skipping beats all day,heart_circulation,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0647,want my blood pressure checked,heart_circulation,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0648,"My heart keeps racing even when I'm just sitting on the couch, like 130 beats a minute on my watch. It started this morning and comes in waves. I drank a lot of coffee but it's never been this bad.",heart_circulation,urgent,train-rambling,train,40,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0649,I ran out of my blood pressure pills two weeks ago because I lost my job and my insurance. I feel fine but I know I'm supposed to take them every day. Where can I get a refill without insurance?,heart_circulation,routine,train-rambling,train,40,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0650,"I checked my blood pressure at the pharmacy and it was 220 over 130, and I have a pounding headache and my vision is blurry. I don't know what to do.",heart_circulation,emergency,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0651,The veins on the back of my legs have gotten really big and twisty over the last year. They ache at the end of a long shift standing at the restaurant. Is there anything that can help?,heart_circulation,routine,train-rambling,train,37,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0652,My ankles and feet have been really swollen for a week and my shoes don't fit. I've also been getting more tired walking up stairs. I'm 58 and I take a water pill but I ran out.,heart_circulation,urgent,train-rambling,train,37,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0653,My heart is beating super fast and irregular and I feel dizzy and short of breath. I've never had heart problems before. I'm 39.,heart_circulation,emergency,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0654,At my last checkup the doctor said my blood pressure was a little high and to get it rechecked. That was a few months ago and I never did. I don't have a doctor now.,heart_circulation,routine,train-rambling,train,35,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0655,my hart keeps fluttering like it skips a beat then pounds,heart_circulation,urgent,train-misspelled,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0656,i need someone to check my blood presure i dont have a doctor,heart_circulation,routine,train-misspelled,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0657,heart beatin so fast i feel like im gonna faint and my chest hurts,heart_circulation,emergency,train-misspelled,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0658,my blood presure was 180 something at the pharmacy machine wat do i do,heart_circulation,urgent,train-misspelled,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0659,varicose veins on my legs hurt wen i stand at work all day,heart_circulation,routine,train-misspelled,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0660,my legs r swollen and my bp meds ran out,heart_circulation,urgent,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0661,ran out of my lisinopril need a refill no insurance,heart_circulation,routine,train-misspelled,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0662,"mi corazón late muy rápido and I feel anxious, desde esta mañana",heart_circulation,urgent,train-spanglish,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0663,"necesito revisar mi presión, I don't have a doctor here",heart_circulation,routine,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0664,la presión de mi mamá está en 210 y dice que le duele la cabeza mucho,heart_circulation,emergency,train-spanglish,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0665,tengo las piernas muy hinchadas and my blood pressure pills se me acabaron,heart_circulation,urgent,train-spanglish,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0666,tengo várices en las piernas que me duelen al final del día,heart_circulation,routine,train-spanglish,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0667,siento palpitaciones fuertes y a veces me mareo un poco,heart_circulation,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0668,"my 14 year old's heart is racing and she feels shaky, she says it happens sometimes",heart_circulation,urgent,train-parent,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0669,"the school nurse said my 12 year old son's blood pressure was high, what should we do",heart_circulation,routine,train-parent,train,17,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0670,my 10 year old's heart is beating so fast I can't count it and he looks pale and sweaty,heart_circulation,emergency,train-parent,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0671,my daughter is 16 and gets heart flutters when she drinks energy drinks,heart_circulation,routine,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0672,my 6 year old has swollen ankles and puffy eyes in the morning,heart_circulation,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0673,"my 13 year old was told he has a heart murmur, do we need a specialist",heart_circulation,routine,train-parent,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0674,"I'm 71 and my heart has been irregular since yesterday, I have atrial fibrillation",heart_circulation,urgent,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0675,"I'm 66 and I need someone to manage my blood pressure, my doctor retired",heart_circulation,routine,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0676,"I'm 77, my heart is racing and I fainted in the kitchen a few minutes ago",heart_circulation,emergency,train-older,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0677,I'm 69 and my legs are swollen up to my knees and I'm getting out of breath,heart_circulation,urgent,train-older,train,17,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0678,I'm 64 and my home blood pressure readings are around 150 over 90,heart_circulation,routine,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0679,I'm 73 and my varicose veins itch and look darker than before,heart_circulation,routine,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0680,I am 80 and my blood pressure has been dropping low and I feel weak when I stand,heart_circulation,urgent,train-older,train,18,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0681,think I broke my wrist,injury_other,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0682,sprained my ankle playing basketball,injury_other,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0683,"car accident, chest and belly hurt",injury_other,emergency,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0684,deep cut on my hand from a knife,injury_other,urgent,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0685,bruised my ribs falling,injury_other,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0686,"burned my arm on the stove, blistering",injury_other,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0687,bone sticking out of my leg,injury_other,emergency,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0688,"I fell off my bike and landed on my wrist. It's swollen, bent a little and really painful to move. I'm in New Brunswick and don't have insurance.",injury_other,urgent,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0689,I rolled my ankle on a curb two days ago. It's swollen and bruised but I can walk on it with a limp. Do I need an x-ray?,injury_other,routine,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0690,I was in a car accident about an hour ago. I felt okay at first but now my belly hurts a lot and I feel lightheaded.,injury_other,emergency,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0691,I cut my palm with a box cutter at work. It's deep and I can see something white. I can't fully bend my finger.,injury_other,urgent,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0692,I spilled boiling water on my thigh and there's a big blister the size of my hand. It hurts a lot.,injury_other,urgent,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0693,"I fell off a ladder, about 12 feet, and my back and leg hurt badly and I can't stand up.",injury_other,emergency,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0694,Someone pushed me during an argument and I have bruises on my arms. Nothing seems broken. I want them documented.,injury_other,routine,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0695,think my wrist is broke,injury_other,urgent,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0696,sprained my ankle at work,injury_other,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0697,car crash n my neck n back hurt bad,injury_other,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0698,cut my finger real deep wont stop bleedin,injury_other,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0699,burned my hand on the stove its blisterin,injury_other,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0700,jammed my finger playin ball,injury_other,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0701,fell n my arm looks crooked,injury_other,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0702,creo que me fracturé la muñeca,injury_other,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0703,me torcí el tobillo,injury_other,routine,train-spanglish,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0704,tuve un accidente de carro y me duele mucho el abdomen,injury_other,emergency,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0705,me corté la mano con un cuchillo y sangra mucho,injury_other,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0706,me quemé con agua hirviendo,injury_other,urgent,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0707,me lastimé la rodilla en el trabajo,injury_other,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0708,my 7 year old fell off the monkey bars and his arm is crooked,injury_other,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0709,my 10 year old sprained her ankle at practice,injury_other,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0710,my 4 year old pulled a pot of boiling water on herself,injury_other,emergency,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0711,my 12 year old cut his foot on glass and it's deep,injury_other,urgent,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0712,my 8 year old jammed his finger and it's swollen,injury_other,routine,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0713,my 15 year old was hit by a car on his bike,injury_other,emergency,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0714,I'm 78 and fell and can't put weight on my hip,injury_other,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0715,I'm 66 and twisted my ankle,injury_other,routine,train-older,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0716,I'm 72 and have a skin tear on my arm that won't stop bleeding,injury_other,urgent,train-older,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0717,I'm 80 and fell down the stairs and my leg looks short and turned out,injury_other,emergency,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0718,I'm 68 and bruised my knee falling,injury_other,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0719,I'm 70 and burned my hand cooking,injury_other,urgent,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0720,I'm 74 and fell on my wrist and it's swollen,injury_other,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0721,knee pain when walking,joint_limb_pain,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0722,swollen painful calf after a long flight,joint_limb_pain,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0723,shoulder hurts when I lift my arm,joint_limb_pain,routine,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0724,arthritis in my hands,joint_limb_pain,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0725,hot swollen big toe joint,joint_limb_pain,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0726,leg cramps at night,joint_limb_pain,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0727,leg suddenly cold and painful,joint_limb_pain,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0728,"My right knee has been aching for a few months, especially going down stairs. It clicks sometimes. I'm 49 and I used to run a lot.",joint_limb_pain,routine,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0729,"My left calf is swollen, red and painful since yesterday. I just got back from a long road trip. It hurts more when I walk.",joint_limb_pain,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0730,My shoulder hurts when I reach overhead or sleep on it. I'm a painter and it's been bothering me for weeks.,joint_limb_pain,routine,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0731,"I woke up with my big toe joint red, hot, swollen and so painful I can't put a sheet on it. I had a lot of beer last night.",joint_limb_pain,urgent,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0732,My fingers are stiff and swollen in the morning for about an hour. My mom had rheumatoid arthritis.,joint_limb_pain,routine,train-rambling,train,18,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0733,"My leg suddenly got cold, pale and really painful an hour ago and I can't feel my foot well.",joint_limb_pain,emergency,train-rambling,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0734,I get cramps in my calves at night and varicose veins that ache by the end of the day.,joint_limb_pain,routine,train-rambling,train,19,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0735,my knee hurts wen i walk up stairs,joint_limb_pain,routine,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0736,my calf is swole n red n hurts,joint_limb_pain,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0737,shoulder pain cant lift my arm all the way,joint_limb_pain,routine,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0738,my hands r stiff n achy in the mornin,joint_limb_pain,routine,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0739,my big toe is red n hot n swollen,joint_limb_pain,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0740,leg cramps wake me up at nite,joint_limb_pain,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0741,my hip hurts wen i sleep on it,joint_limb_pain,routine,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0742,me duele la rodilla al caminar,joint_limb_pain,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0743,tengo la pantorrilla hinchada y roja,joint_limb_pain,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0744,me duele el hombro cuando levanto el brazo,joint_limb_pain,routine,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0745,"artritis en las manos, need medicine",joint_limb_pain,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0746,el dedo gordo del pie hinchado y caliente,joint_limb_pain,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0747,calambres en las piernas en la noche,joint_limb_pain,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0748,my 12 year old has knee pain after basketball,joint_limb_pain,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0749,my 6 year old is limping and has a fever,joint_limb_pain,urgent,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0750,my 4 year old says her legs hurt at night,joint_limb_pain,routine,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0751,my 9 year old's wrist is swollen after a fall but he can move it,joint_limb_pain,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0752,my 14 year old has heel pain when running,joint_limb_pain,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0753,my 8 year old won't walk on his leg today and it's swollen at the knee,joint_limb_pain,urgent,train-parent,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0754,I'm 70 with arthritis in both knees,joint_limb_pain,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0755,"I'm 72 with a swollen painful leg, I had surgery last month",joint_limb_pain,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0756,I'm 66 and my hip hurts walking,joint_limb_pain,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0757,I'm 68 with shoulder pain for months,joint_limb_pain,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0758,I'm 75 and my knee is suddenly hot and swollen,joint_limb_pain,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0759,I'm 69 and my hands are stiff with arthritis,joint_limb_pain,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0760,I'm 71 and my leg is purple and painful,joint_limb_pain,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0761,feeling anxious all the time,mental_health,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0762,thinking about killing myself,mental_health,emergency,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0763,panic attacks getting worse,mental_health,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0764,need a therapist that takes medicaid,mental_health,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0765,haven't slept in 3 days and hearing things,mental_health,urgent,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0766,feeling depressed lately,mental_health,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0767,I want to hurt myself tonight,mental_health,emergency,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0768,"I've been feeling down for a couple of months. I'm not enjoying things I used to and I'm sleeping a lot. I don't want to hurt myself, I just want to talk to someone. I don't have insurance.",mental_health,routine,train-rambling,train,38,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0769,I don't see a point in living anymore. I have pills saved up and I've been thinking about taking them tonight. I don't know why I'm typing this.,mental_health,emergency,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0770,I've had three panic attacks this week where my heart races and I feel like I'm dying. I had to leave work twice. They're getting more frequent.,mental_health,urgent,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0771,I'm a grad student at Rutgers and I'm really stressed and anxious all the time. I can't focus. I'd like to find counseling that's affordable.,mental_health,routine,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0772,"My brother hasn't slept in days, he's talking really fast and spending all his money and says people are following him. He won't go to the doctor.",mental_health,urgent,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0773,I've been on antidepressants but my prescriber left the clinic and I'm running out next week. I need a new psychiatrist.,mental_health,routine,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0774,Since my mom died I can barely get out of bed and I've stopped eating. It's been six weeks. I'm not suicidal but I feel stuck.,mental_health,urgent,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0775,been feelin real anxious n cant sleep,mental_health,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0776,i dont wanna be alive anymore,mental_health,emergency,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0777,havin panic attacks every day now,mental_health,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0778,need someone to talk to about my depresion,mental_health,routine,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0779,my roomate is talkin to people who arent there,mental_health,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0780,my anxiety meds ran out,mental_health,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0781,i cut myself and its bleedin alot,mental_health,emergency,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0782,"me siento muy triste y ansiosa, I need help",mental_health,routine,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0783,"ya no quiero vivir, estoy pensando en hacerme daño",mental_health,emergency,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0784,tengo ataques de pánico cada día,mental_health,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0785,busco un psicólogo que hable español,mental_health,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0786,mi esposo está muy agresivo y dice cosas sin sentido,mental_health,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0787,tengo depresión y no tengo seguro médico,mental_health,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0788,my 15 year old told me she's been cutting herself,mental_health,urgent,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0789,my 16 year old son said he wants to die and has a plan,mental_health,emergency,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0790,my 10 year old has a lot of anxiety about school,mental_health,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0791,"my 7 year old has trouble focusing, could it be ADHD",mental_health,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0792,my 14 year old hasn't eaten much in weeks and is losing weight fast,mental_health,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0793,my 12 year old seems depressed since we moved,mental_health,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0794,I'm 70 and feel lonely and depressed since my wife passed,mental_health,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0795,I'm 67 and I'm very anxious and can't sleep for a week,mental_health,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0796,I'm 75 and I've been thinking I'd be better off dead,mental_health,emergency,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0797,I'm 64 and need a new psychiatrist for my bipolar meds,mental_health,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0798,I'm 72 and my husband is suddenly very confused and agitated,mental_health,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0799,I'm 69 and have been feeling down since retiring,mental_health,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0800,I'm 66 and want counseling for my drinking and mood,mental_health,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0801,room spinning when I move my head,neuro_dizziness_seizure,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0802,face drooping and slurred speech,neuro_dizziness_seizure,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0803,having a seizure right now,neuro_dizziness_seizure,emergency,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0804,tingling in my feet,neuro_dizziness_seizure,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0805,dizzy and off balance all day,neuro_dizziness_seizure,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0806,sudden weakness on one side of my body,neuro_dizziness_seizure,emergency,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0807,numb fingers in the morning,neuro_dizziness_seizure,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0808,My husband's speech suddenly got garbled about 15 minutes ago and he can't lift his right arm. He's 61. We're at home in New Brunswick.,neuro_dizziness_seizure,emergency,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0809,Every time I roll over in bed or look up the room spins for about a minute and I feel sick. It started three days ago. I'm 45.,neuro_dizziness_seizure,urgent,train-rambling,train,28,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0810,"My hands go numb and tingly at night, especially the thumb and first fingers. I type all day at work. It's been a few months.",neuro_dizziness_seizure,routine,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0811,I had a seizure about 10 minutes ago and I've never had one before. I bit my tongue and I'm really confused.,neuro_dizziness_seizure,emergency,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0812,I have epilepsy and I've had two seizures this week even though I'm taking my medication. I'm running low on pills and can't afford more.,neuro_dizziness_seizure,urgent,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0813,I've been feeling a little lightheaded when I stand up quickly. It passes after a few seconds. I've been dieting and not eating much.,neuro_dizziness_seizure,routine,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0814,For the past week I've had numbness and tingling in both legs that seems to be moving up. Today my legs feel weak.,neuro_dizziness_seizure,urgent,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0815,im real dizzy n the room keeps spinnin,neuro_dizziness_seizure,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0816,my face feels droopy and i cant talk rite,neuro_dizziness_seizure,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0817,my feet tingle n burn at nite,neuro_dizziness_seizure,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0818,my brother is havin a seizure on the floor,neuro_dizziness_seizure,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0819,dizzy n almost fell over twice today,neuro_dizziness_seizure,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0820,my hand goes numb wen i sleep on it,neuro_dizziness_seizure,routine,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0821,ran out of my seizure meds,neuro_dizziness_seizure,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0822,me siento muy mareado y todo da vueltas,neuro_dizziness_seizure,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0823,mi papá no puede hablar bien y tiene la cara caída,neuro_dizziness_seizure,emergency,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0824,tengo hormigueo en los pies desde hace meses,neuro_dizziness_seizure,routine,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0825,"mi hijo está convulsionando, what do I do",neuro_dizziness_seizure,emergency,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0826,mareos y casi me desmayo en el trabajo,neuro_dizziness_seizure,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0827,se me duermen las manos en la noche,neuro_dizziness_seizure,routine,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0828,"my 2 year old had a seizure with a fever, first time ever",neuro_dizziness_seizure,emergency,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0829,my 10 year old has been dizzy and clumsy for a few days,neuro_dizziness_seizure,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0830,my 14 year old gets dizzy when she stands up fast,neuro_dizziness_seizure,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0831,my 8 year old has been seizing for over 5 minutes,neuro_dizziness_seizure,emergency,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0832,my 6 year old has epilepsy and his seizures are happening more often,neuro_dizziness_seizure,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0833,my 12 year old's hands shake a little when he writes,neuro_dizziness_seizure,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0834,I'm 74 and suddenly can't see out of one side and my arm is weak,neuro_dizziness_seizure,emergency,train-older,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0835,I'm 70 and keep getting dizzy spells and nearly fell,neuro_dizziness_seizure,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0836,I'm 67 with diabetes and numbness in my feet,neuro_dizziness_seizure,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0837,I'm 80 and my wife is suddenly confused and can't find her words,neuro_dizziness_seizure,emergency,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0838,I'm 66 and my balance has gotten much worse this week,neuro_dizziness_seizure,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0839,I'm 72 and have a slight tremor in my hand,neuro_dizziness_seizure,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0840,I'm 69 and have had vertigo for two days with vomiting,neuro_dizziness_seizure,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0841,general checkup needed,other_general,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0842,unexplained weight loss,other_general,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0843,swollen glands in my neck for weeks,other_general,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0844,body aches all over,other_general,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0845,wound from surgery is red and leaking,other_general,urgent,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0846,night sweats for a month,other_general,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0847,"pain all over, not sure why",other_general,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0848,I don't have any specific problem but I haven't seen a doctor in five years and I'd like a basic checkup and bloodwork. I don't have insurance.,other_general,routine,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0849,"I had my gallbladder removed last week and now one of the incisions is red, warm and leaking yellow fluid.",other_general,urgent,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0850,I've lost about 15 pounds over three months without trying and I've been having night sweats. I feel mostly okay but it's strange.,other_general,routine,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0851,I have a lump in my neck that has been there for about a month and seems to be growing. It doesn't hurt.,other_general,urgent,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0852,I just moved to New Brunswick and need a primary care doctor to manage my meds. I have NJ FamilyCare.,other_general,routine,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0853,I have pain and swelling in my groin since lifting something heavy and there's a bulge that comes and goes.,other_general,urgent,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0854,My whole body aches and I'm tired but I don't have a fever. I've been stressed and not sleeping well.,other_general,routine,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0855,need a checkup dont have a doctor,other_general,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0856,losin weight and i dont know why,other_general,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0857,lump in my neck for a month,other_general,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0858,body achin all over,other_general,routine,train-misspelled,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0859,my surgery cut is red n oozin,other_general,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0860,sweatin a lot at nite,other_general,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0861,just feel off n not myself,other_general,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0862,"necesito un chequeo general, no tengo seguro",other_general,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0863,estoy perdiendo peso sin razón,other_general,routine,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0864,tengo una bola en el cuello hace un mes,other_general,urgent,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0865,me duele todo el cuerpo,other_general,routine,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0866,la herida de la cirugía está roja y supura,other_general,urgent,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0867,sudores en la noche,other_general,routine,train-spanglish,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0868,my 5 year old needs a checkup and vaccines for school,other_general,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0869,my 2 year old isn't gaining weight well,other_general,routine,train-parent,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0870,my 9 year old has swollen glands for three weeks and night sweats,other_general,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0871,my 11 year old needs a sports physical,other_general,routine,train-parent,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0872,my 1 year old's belly button area bulges when he cries and it's hard now,other_general,urgent,train-parent,train,15,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0873,"my newborn needs a pediatrician, we have medicaid",other_general,routine,train-parent,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0874,I'm 70 and need a primary care doctor,other_general,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0875,I'm 66 and have lost weight and appetite,other_general,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0876,I'm 72 and my surgical wound is opening up,other_general,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0877,I'm 68 and ache all over in the mornings,other_general,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0878,I'm 75 with a lump in my groin that hurts,other_general,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0879,I'm 64 and need a wellness visit,other_general,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0880,I'm 69 and feel generally unwell for weeks,other_general,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0881,need prenatal care,pregnancy_womens_health,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0882,bleeding while pregnant,pregnancy_womens_health,urgent,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0883,positive pregnancy test what now,pregnancy_womens_health,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0884,pregnant and having seizures,pregnancy_womens_health,emergency,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0885,irregular periods,pregnancy_womens_health,routine,train-short,train,2,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0886,pelvic pain and fever,pregnancy_womens_health,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0887,need birth control,pregnancy_womens_health,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0888,"I just found out I'm pregnant, about 6 weeks. I don't have insurance and I'm not sure where to start with prenatal care. I'm 24.",pregnancy_womens_health,routine,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0889,I'm 12 weeks pregnant and started spotting this morning with mild cramps. It's not a lot of blood but I'm really worried.,pregnancy_womens_health,urgent,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0890,"I'm 34 weeks pregnant and I have a severe headache, swelling in my face and hands, and I'm seeing spots.",pregnancy_womens_health,emergency,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0891,"My periods have been really heavy and painful for the last year, I go through a pad every hour on the first day. I'd like to see a gynecologist.",pregnancy_womens_health,routine,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0892,"I have lower belly pain, fever and an unusual discharge with a bad smell. It's been getting worse over three days.",pregnancy_womens_health,urgent,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0893,I'm 30 weeks pregnant and haven't felt the baby move since last night.,pregnancy_womens_health,emergency,train-rambling,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0894,I want to get on birth control but I don't have a doctor. Is there a clinic that does it for free or cheap?,pregnancy_womens_health,routine,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0895,im pregnant n need a doctor no insurance,pregnancy_womens_health,routine,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0896,bleedin while pregnant 10 weeks,pregnancy_womens_health,urgent,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0897,my period is late n i took a test,pregnancy_womens_health,routine,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0898,my water broke n im only 32 weeks,pregnancy_womens_health,emergency,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0899,bad cramps every period,pregnancy_womens_health,routine,train-misspelled,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0900,weird discharge n pelvic pain n fever,pregnancy_womens_health,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0901,need the morning after pill,pregnancy_womens_health,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0902,"estoy embarazada y necesito control prenatal, no tengo seguro",pregnancy_womens_health,routine,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0903,estoy sangrando y tengo 9 semanas de embarazo,pregnancy_womens_health,urgent,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0904,"tengo 36 semanas, me duele mucho la cabeza y veo luces",pregnancy_womens_health,emergency,train-spanglish,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0905,mi regla es irregular hace meses,pregnancy_womens_health,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0906,"necesito anticonceptivos, where can I go",pregnancy_womens_health,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0907,dolor pélvico con fiebre,pregnancy_womens_health,urgent,train-spanglish,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0908,my 15 year old daughter thinks she might be pregnant,pregnancy_womens_health,routine,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0909,my 13 year old has very painful periods,pregnancy_womens_health,routine,train-parent,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0910,my 16 year old daughter has heavy bleeding and is dizzy,pregnancy_womens_health,urgent,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0911,"my 12 year old hasn't started her period, should she see someone",pregnancy_womens_health,routine,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0912,my 17 year old is pregnant and having cramps,pregnancy_womens_health,urgent,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0913,my 14 year old needs the HPV vaccine,pregnancy_womens_health,routine,train-parent,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0914,I'm 62 and started bleeding again years after menopause,pregnancy_womens_health,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0915,I'm 60 and need a mammogram and pap,pregnancy_womens_health,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0916,I'm 64 with hot flashes and trouble sleeping,pregnancy_womens_health,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0917,I'm 66 and found a lump in my breast,pregnancy_womens_health,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0918,I'm 61 and have vaginal dryness and pain,pregnancy_womens_health,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0919,I'm 68 and haven't had a gyn checkup in ten years,pregnancy_womens_health,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0920,I'm 63 with pelvic pressure and bleeding,pregnancy_womens_health,urgent,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0921,itchy rash on my arms,skin,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0922,red hot swollen spot on my leg spreading,skin,urgent,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0923,acne won't go away,skin,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0924,painful boil with pus,skin,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0925,eczema flare up,skin,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0926,skin peeling and blisters with fever after new medicine,skin,emergency,train-short,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0927,mole changed color,skin,routine,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0928,I have an itchy red rash on my hands that comes and goes. It gets worse in winter and when I wash dishes a lot at work.,skin,routine,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0929,"I have a red, hot, swollen area on my shin that's getting bigger since yesterday. I drew a line around it and it's past the line now. I have a low fever.",skin,urgent,train-rambling,train,32,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0930,I have a painful lump under my armpit that's filled with pus. It's been growing for four days. I've had these before.,skin,urgent,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0931,I have a mole on my back that my girlfriend says looks bigger and darker. It doesn't hurt. I spend a lot of time in the sun at work.,skin,routine,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0932,"I started a new seizure medicine two weeks ago and now I have a fever and my skin is blistering and peeling, even in my mouth.",skin,emergency,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0933,My acne is really bad and leaving scars. Over the counter stuff doesn't work. I'd like to see a dermatologist but I can't afford it.,skin,routine,train-rambling,train,25,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0934,I have a rash with blisters in a band on one side of my back and it burns. I'm 52.,skin,urgent,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0935,got a itchy rash on my legs,skin,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0936,my leg is red n hot n swollen,skin,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0937,acne real bad on my face,skin,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0938,got a big boil thats full of pus,skin,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0939,my eczema is flarin up,skin,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0940,scabies maybe everybody in the house is itchy,skin,routine,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0941,ringworm on my arm,skin,routine,train-misspelled,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0942,tengo una erupción que me pica mucho,skin,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0943,"tengo la pierna roja, caliente y hinchada",skin,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0944,tengo acné y no se me quita,skin,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0945,me salió un absceso con pus,skin,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0946,tengo hongos en los pies,skin,routine,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0947,un lunar cambió de color,skin,routine,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0948,my 4 year old has an itchy rash on her belly,skin,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0949,my 8 month old has a rash and fever,skin,urgent,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0950,my 6 year old has eczema that's getting worse,skin,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0951,my 7 year old has lice,skin,routine,train-parent,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0952,my 3 year old has red crusty sores around his nose that are spreading,skin,urgent,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0953,my 10 year old has chickenpox spots,skin,routine,train-parent,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0954,I'm 70 and have itchy dry skin all over,skin,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0955,I'm 72 and have shingles on my face near my eye,skin,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0956,I'm 66 with a spot on my nose that won't heal,skin,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0957,I'm 75 with a bedsore that's getting worse,skin,urgent,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0958,I'm 68 and have psoriasis that's flaring,skin,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0959,I'm 71 and my leg is red and swollen with a fever,skin,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0960,I'm 64 and need a skin check for moles,skin,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0961,friend overdosed and won't wake up,substance_overdose,emergency,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0962,took too many pills,substance_overdose,emergency,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0963,need help detoxing from alcohol,substance_overdose,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0964,want to quit drinking,substance_overdose,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0965,withdrawal shakes and sweating,substance_overdose,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0966,kid swallowed cleaning liquid,substance_overdose,emergency,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0967,looking for suboxone clinic,substance_overdose,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0968,My roommate took something at a party and now he's barely breathing and his lips are blue. I gave him Narcan once. We're in New Brunswick.,substance_overdose,emergency,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0969,"I've been drinking heavily every day for a year and I want to stop, but last time I tried I got the shakes and saw things. I'm scared to do it alone.",substance_overdose,urgent,train-rambling,train,32,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0970,I've been using pain pills for a while and I want to get on treatment like Suboxone. I don't have insurance. Is there a clinic around here?,substance_overdose,routine,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0971,I took a whole bottle of Tylenol about two hours ago because I was upset. I feel okay right now but I read that it's dangerous.,substance_overdose,emergency,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0972,"I stopped using heroin three days ago and I'm in really bad withdrawal, throwing up and can't sleep. I want help but don't know where to start.",substance_overdose,urgent,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0973,"I think I'm drinking too much, like most nights. Nothing bad has happened but my partner is worried. I want to talk to someone about cutting back.",substance_overdose,routine,train-rambling,train,27,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0974,My 3 year old got into my medicine cabinet and I think she ate some of my blood pressure pills. She seems sleepy.,substance_overdose,emergency,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0975,my boy took somethin n hes not breathin rite,substance_overdose,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0976,i got the shakes real bad from not drinkin,substance_overdose,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0977,need a rehab that takes medicaid,substance_overdose,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0978,i took a bunch of pills i shouldnt have,substance_overdose,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0979,coming off opiates and its real bad,substance_overdose,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0980,want to stop smokin weed every day,substance_overdose,routine,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0981,drank way too much n keep throwin up,substance_overdose,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0982,mi amigo tomó muchas pastillas y no despierta,substance_overdose,emergency,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0983,quiero dejar de tomar alcohol pero me tiemblan las manos,substance_overdose,urgent,train-spanglish,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0984,"busco un programa para dejar las drogas, sin seguro",substance_overdose,routine,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0985,mi hijo tomó cloro por accidente,substance_overdose,emergency,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0986,tengo síntomas de abstinencia y vomito mucho,substance_overdose,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0987,mi esposo toma mucho y necesitamos ayuda,substance_overdose,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0988,my 2 year old swallowed a battery,substance_overdose,emergency,train-parent,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0989,my 16 year old came home very drunk and keeps vomiting,substance_overdose,urgent,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0990,my 15 year old is vaping and I want help for him to quit,substance_overdose,routine,train-parent,train,14,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0991,my 4 year old drank some of the windshield washer fluid,substance_overdose,emergency,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0992,I found pills in my 17 year old's room and he's acting strange,substance_overdose,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0993,"my 14 year old is smoking weed, where can we get counseling",substance_overdose,routine,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0994,I'm 72 and I think I took my heart pills twice and feel very dizzy and slow,substance_overdose,emergency,train-older,train,17,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0995,"I'm 66 and want to stop drinking, I get shaky when I don't",substance_overdose,urgent,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0996,I'm 68 and need help quitting smoking,substance_overdose,routine,train-older,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0997,I'm 75 and accidentally took too much of my blood thinner and my gums are bleeding,substance_overdose,emergency,train-older,train,16,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0998,I'm 70 and mixed my sleeping pill with wine and feel very confused,substance_overdose,urgent,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-0999,I'm 63 and want to cut down on my drinking,substance_overdose,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1000,"I'm 67 on methadone and missed doses, feeling sick",substance_overdose,urgent,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1001,burning when I pee,urinary_kidney,routine,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1002,kidney stone pain,urinary_kidney,urgent,train-short,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1003,blood in my urine,urinary_kidney,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1004,peeing a lot at night,urinary_kidney,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1005,UTI with fever and back pain,urinary_kidney,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1006,can't pee at all and bladder is full,urinary_kidney,emergency,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1007,think I have a bladder infection,urinary_kidney,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1008,It burns when I pee and I feel like I have to go all the time but only a little comes out. It started yesterday. I've had UTIs before and this feels the same.,urinary_kidney,routine,train-rambling,train,34,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1009,I have sharp pain in my side and back that comes in waves and goes down to my groin. I can't sit still. I had a kidney stone two years ago.,urinary_kidney,urgent,train-rambling,train,31,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1010,"I've had UTI symptoms for four days and now I have a fever, chills and pain in my lower back on one side. I feel sick to my stomach.",urinary_kidney,urgent,train-rambling,train,29,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1011,I'm getting up three or four times a night to pee and my stream is weak. I'm 58. It's been getting worse for months.,urinary_kidney,routine,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1012,I haven't been able to pee since this morning and my lower belly is swollen and really painful. I'm 66.,urinary_kidney,emergency,train-rambling,train,20,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1013,"There's blood in my urine today, it looks pink. It doesn't hurt. I'm 55 and I smoke.",urinary_kidney,urgent,train-rambling,train,17,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1014,I have kidney disease and need to get my labs checked but I lost my insurance. I'm not having symptoms right now.,urinary_kidney,routine,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1015,it burns wen i pee,urinary_kidney,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1016,real bad pain in my side goin down to my groin,urinary_kidney,urgent,train-misspelled,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1017,pee is red and it hurts,urinary_kidney,urgent,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1018,gotta pee all the time,urinary_kidney,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1019,uti n now fever n my back hurts,urinary_kidney,urgent,train-misspelled,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1020,cant pee at all since this mornin,urinary_kidney,emergency,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1021,bladder infection again,urinary_kidney,routine,train-misspelled,train,3,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1022,me arde al orinar,urinary_kidney,routine,train-spanglish,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1023,"dolor fuerte en el costado, creo que es piedra en el riñón",urinary_kidney,urgent,train-spanglish,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1024,tengo sangre en la orina,urinary_kidney,urgent,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1025,orino mucho en la noche,urinary_kidney,routine,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1026,infección de orina con fiebre y dolor de espalda,urinary_kidney,urgent,train-spanglish,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1027,creo que tengo infección urinaria,urinary_kidney,routine,train-spanglish,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1028,my 3 year old cries when she pees and has a fever,urinary_kidney,urgent,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1029,my 6 year old started wetting the bed again,urinary_kidney,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1030,my 1 year old's diapers smell very strong and he has a fever,urinary_kidney,urgent,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1031,my 8 year old daughter says it burns when she pees,urinary_kidney,routine,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1032,my 12 year old has pink urine and puffy eyes,urinary_kidney,urgent,train-parent,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1033,my 14 year old son has sudden pain in his testicle,urinary_kidney,urgent,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1034,I'm 75 and have a UTI and I'm a bit confused,urinary_kidney,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1035,I'm 70 and leak urine when I cough,urinary_kidney,routine,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1036,I'm 79 and can't urinate and I'm in a lot of pain,urinary_kidney,emergency,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1037,I'm 66 and get up to pee 4 times a night,urinary_kidney,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1038,I'm 72 with kidney stones and the pain is back,urinary_kidney,urgent,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1039,"I'm 64 with chronic kidney disease, need a nephrologist",urinary_kidney,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1040,I'm 68 and see blood in my urine,urinary_kidney,urgent,train-older,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1041,fainted at work today,weakness_fainting,urgent,train-short,train,4,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1042,always tired and no energy,weakness_fainting,routine,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1043,passed out in the shower,weakness_fainting,urgent,train-short,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1044,feel weak and run down lately,weakness_fainting,routine,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1045,"passed out and hit my head, still confused",weakness_fainting,emergency,train-short,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1046,so weak I can barely stand,weakness_fainting,urgent,train-short,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1047,tired all the time even with sleep,weakness_fainting,routine,train-short,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1048,I fainted this morning while standing in line at the store. I was out for maybe 10 seconds. I feel okay now but a little shaky. I'm 28 and it's never happened before.,weakness_fainting,urgent,train-rambling,train,33,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1049,I've been exhausted for about a month. I sleep 8 hours and still need a nap. My periods have been heavy. I wonder if I'm anemic.,weakness_fainting,routine,train-rambling,train,26,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1050,I fainted while jogging and when I came to my heart was racing and my chest hurt. I'm 22 and play soccer.,weakness_fainting,emergency,train-rambling,train,22,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1051,I've felt really weak and lightheaded for two days and I've barely been able to eat or drink because of a stomach bug.,weakness_fainting,urgent,train-rambling,train,23,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1052,I've been feeling tired and sluggish for a few months and gained weight. My mom has thyroid problems. Can I get bloodwork somewhere cheap?,weakness_fainting,routine,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1053,I keep almost passing out when I stand up and my heart races. It's been happening more this week. I'm 34.,weakness_fainting,urgent,train-rambling,train,21,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1054,I work two jobs and feel worn out all the time. I'm not sick exactly but I don't feel right. I'd like a checkup.,weakness_fainting,routine,train-rambling,train,24,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1055,i passed out at the bus stop this mornin,weakness_fainting,urgent,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1056,so tired all the time cant get outta bed,weakness_fainting,routine,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1057,feel real weak n shaky n lightheaded,weakness_fainting,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1058,no energy for weeks idk why,weakness_fainting,routine,train-misspelled,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1059,my friend fainted n hes not wakin up rite,weakness_fainting,emergency,train-misspelled,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1060,blacked out for a sec at work,weakness_fainting,urgent,train-misspelled,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1061,always tired maybe low iron,weakness_fainting,routine,train-misspelled,train,5,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1062,me desmayé en el trabajo hoy,weakness_fainting,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1063,me siento muy cansado todo el tiempo,weakness_fainting,routine,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1064,"tengo mucha debilidad y mareo, since yesterday",weakness_fainting,urgent,train-spanglish,train,7,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1065,no tengo energía desde hace semanas,weakness_fainting,routine,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1066,mi abuela se desmayó y no despierta bien,weakness_fainting,emergency,train-spanglish,train,8,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1067,casi me desmayo cuando me levanto,weakness_fainting,urgent,train-spanglish,train,6,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1068,my 13 year old fainted at church this morning,weakness_fainting,urgent,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1069,my 15 year old is tired all the time and sleeps a lot,weakness_fainting,routine,train-parent,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1070,my 9 year old fainted while running and isn't waking up normally,weakness_fainting,emergency,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1071,my 16 year old daughter keeps getting lightheaded and almost fainting,weakness_fainting,urgent,train-parent,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1072,my 7 year old seems pale and tired lately,weakness_fainting,routine,train-parent,train,9,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1073,my 3 year old is very weak and floppy after being sick,weakness_fainting,urgent,train-parent,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1074,I'm 73 and fainted when I got up from the toilet,weakness_fainting,urgent,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1075,I'm 68 and feel weaker than usual for a few weeks,weakness_fainting,routine,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1076,I'm 79 and passed out and my pulse feels very slow,weakness_fainting,emergency,train-older,train,11,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1077,I'm 70 and very weak since starting a new blood pressure pill,weakness_fainting,urgent,train-older,train,12,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1078,"I'm 65 and tired all the time, maybe my thyroid",weakness_fainting,routine,train-older,train,10,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1079,I'm 82 and so weak I can't get out of my chair today,weakness_fainting,urgent,train-older,train,13,claude-opus-5-5 (Claude Code session),2026-11-24
+syn-train-1080,I'm 67 and get tired quickly when I walk,weakness_fainting,routine,train-older,train,9,claude-opus-5-5 (Claude Code session),2026-11-24

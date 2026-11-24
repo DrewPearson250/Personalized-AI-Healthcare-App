@@ -1,0 +1,82 @@
+# group: injury_other
+s|u|think I broke my wrist
+s|r|sprained my ankle playing basketball
+s|e|car accident, chest and belly hurt
+s|u|deep cut on my hand from a knife
+s|r|bruised my ribs falling
+s|u|burned my arm on the stove, blistering
+s|e|bone sticking out of my leg
+r|u|I fell off my bike and landed on my wrist. It's swollen, bent a little and really painful to move. I'm in New Brunswick and don't have insurance.
+r|r|I rolled my ankle on a curb two days ago. It's swollen and bruised but I can walk on it with a limp. Do I need an x-ray?
+r|e|I was in a car accident about an hour ago. I felt okay at first but now my belly hurts a lot and I feel lightheaded.
+r|u|I cut my palm with a box cutter at work. It's deep and I can see something white. I can't fully bend my finger.
+r|u|I spilled boiling water on my thigh and there's a big blister the size of my hand. It hurts a lot.
+r|e|I fell off a ladder, about 12 feet, and my back and leg hurt badly and I can't stand up.
+r|r|Someone pushed me during an argument and I have bruises on my arms. Nothing seems broken. I want them documented.
+m|u|think my wrist is broke
+m|r|sprained my ankle at work
+m|e|car crash n my neck n back hurt bad
+m|u|cut my finger real deep wont stop bleedin
+m|u|burned my hand on the stove its blisterin
+m|r|jammed my finger playin ball
+m|u|fell n my arm looks crooked
+x|u|creo que me fracturé la muñeca
+x|r|me torcí el tobillo
+x|e|tuve un accidente de carro y me duele mucho el abdomen
+x|u|me corté la mano con un cuchillo y sangra mucho
+x|u|me quemé con agua hirviendo
+x|r|me lastimé la rodilla en el trabajo
+p|u|my 7 year old fell off the monkey bars and his arm is crooked
+p|r|my 10 year old sprained her ankle at practice
+p|e|my 4 year old pulled a pot of boiling water on herself
+p|u|my 12 year old cut his foot on glass and it's deep
+p|r|my 8 year old jammed his finger and it's swollen
+p|e|my 15 year old was hit by a car on his bike
+o|u|I'm 78 and fell and can't put weight on my hip
+o|r|I'm 66 and twisted my ankle
+o|u|I'm 72 and have a skin tear on my arm that won't stop bleeding
+o|e|I'm 80 and fell down the stairs and my leg looks short and turned out
+o|r|I'm 68 and bruised my knee falling
+o|u|I'm 70 and burned my hand cooking
+o|u|I'm 74 and fell on my wrist and it's swollen
+# group: other_general
+s|r|general checkup needed
+s|r|unexplained weight loss
+s|u|swollen glands in my neck for weeks
+s|r|body aches all over
+s|u|wound from surgery is red and leaking
+s|r|night sweats for a month
+s|r|pain all over, not sure why
+r|r|I don't have any specific problem but I haven't seen a doctor in five years and I'd like a basic checkup and bloodwork. I don't have insurance.
+r|u|I had my gallbladder removed last week and now one of the incisions is red, warm and leaking yellow fluid.
+r|r|I've lost about 15 pounds over three months without trying and I've been having night sweats. I feel mostly okay but it's strange.
+r|u|I have a lump in my neck that has been there for about a month and seems to be growing. It doesn't hurt.
+r|r|I just moved to New Brunswick and need a primary care doctor to manage my meds. I have NJ FamilyCare.
+r|u|I have pain and swelling in my groin since lifting something heavy and there's a bulge that comes and goes.
+r|r|My whole body aches and I'm tired but I don't have a fever. I've been stressed and not sleeping well.
+m|r|need a checkup dont have a doctor
+m|r|losin weight and i dont know why
+m|u|lump in my neck for a month
+m|r|body achin all over
+m|u|my surgery cut is red n oozin
+m|r|sweatin a lot at nite
+m|r|just feel off n not myself
+x|r|necesito un chequeo general, no tengo seguro
+x|r|estoy perdiendo peso sin razón
+x|u|tengo una bola en el cuello hace un mes
+x|r|me duele todo el cuerpo
+x|u|la herida de la cirugía está roja y supura
+x|r|sudores en la noche
+p|r|my 5 year old needs a checkup and vaccines for school
+p|r|my 2 year old isn't gaining weight well
+p|u|my 9 year old has swollen glands for three weeks and night sweats
+p|r|my 11 year old needs a sports physical
+p|u|my 1 year old's belly button area bulges when he cries and it's hard now
+p|r|my newborn needs a pediatrician, we have medicaid
+o|r|I'm 70 and need a primary care doctor
+o|r|I'm 66 and have lost weight and appetite
+o|u|I'm 72 and my surgical wound is opening up
+o|r|I'm 68 and ache all over in the mornings
+o|u|I'm 75 with a lump in my groin that hurts
+o|r|I'm 64 and need a wellness visit
+o|r|I'm 69 and feel generally unwell for weeks
