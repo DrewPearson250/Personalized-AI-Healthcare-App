@@ -36,7 +36,7 @@ ISSUERS = {
     "48608": "Dentegra",
     "93627": "Guardian",
     "99708": "Delta Dental of New Jersey",
-    "35152": None,   # dental-only, "Choice PPO" / "SELECT PLAN": name not in the file
+    "35152": "Dominion Dental Services, Inc.",   # dental-only "Choice PPO"; blank in the file, filled by hand
 }
 # CSR VARIATION TYPE -> short code. Zero/limited cost-sharing variants are only for
 # members of federally recognized tribes; dropped for v1.

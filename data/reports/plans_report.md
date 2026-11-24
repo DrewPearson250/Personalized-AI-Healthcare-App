@@ -1,7 +1,7 @@
 # Validation report: plans
 *Run 2026-11-24*
 
-**Result:** PASSED — 126 rows, 0 errors, 8 warnings
+**Result:** PASSED — 126 rows, 0 errors, 2 warnings
 
 ## Counts
 - Service areas: 262 rows; plans: 204 plan variants
@@ -16,12 +16,6 @@
 - none
 
 ## Warnings (review)
-- 35152NJ0010001-01 (Choice PPO Basic): issuer 35152 has no name in the file; look it up (HIOS issuer ID) and add it to ISSUERS
-- 35152NJ0010002-01 (Choice PPO Premium): issuer 35152 has no name in the file; look it up (HIOS issuer ID) and add it to ISSUERS
-- 35152NJ0010003-01 (Choice PPO Basic Pediatric): issuer 35152 has no name in the file; look it up (HIOS issuer ID) and add it to ISSUERS
-- 35152NJ0010004-01 (Choice PPO Premium Pediatric): issuer 35152 has no name in the file; look it up (HIOS issuer ID) and add it to ISSUERS
-- 35152NJ0010005-01 (Choice PPO Plus): issuer 35152 has no name in the file; look it up (HIOS issuer ID) and add it to ISSUERS
-- 35152NJ0010006-01 (Choice PPO Preventive): issuer 35152 has no name in the file; look it up (HIOS issuer ID) and add it to ISSUERS
 - Premiums and deductibles are full price before financial help; the subsidy is calculated by Get Covered NJ. Plan brochure/SBC/formulary URLs are empty in the file, so link to Get Covered NJ
 - cost_having_baby / cost_diabetes / cost_simple_fracture = sum of the SBC deductible + copay + coinsurance + limit amounts (the 'Coverage Examples' total)
 
@@ -31,7 +25,7 @@
 | plan_id | 100 |
 | standard_component_id | 100 |
 | issuer_id | 100 |
-| issuer_name | 95 |
+| issuer_name | 100 |
 | plan_name | 100 |
 | variant_name | 100 |
 | dental_only | 100 |
