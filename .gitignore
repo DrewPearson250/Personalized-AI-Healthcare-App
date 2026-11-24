@@ -9,5 +9,7 @@ __pycache__/
 venv/
 .env
 
+current_stage.md
+
 # macOS
 .DS_Store
