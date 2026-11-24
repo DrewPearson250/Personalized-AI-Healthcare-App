@@ -1,0 +1,61 @@
+# Link-outs and hotlines the app shows. The LLM may only cite links from this file
+# or from source_url columns in the database. Check every link each semester.
+
+emergency:
+  - id: "911"
+    name: Emergency (police, fire, ambulance)
+    phone: "911"
+    when: Life-threatening emergency
+    last_verified: 2026-11-24
+  - id: "988"
+    name: 988 Suicide & Crisis Lifeline
+    phone: "988"
+    url: https://988lifeline.org
+    when: Always shown with mental health results; call or text 24/7
+    last_verified: 2026-11-24
+
+coverage:
+  - id: get_covered_nj
+    name: Get Covered NJ (state marketplace)
+    url: https://nj.gov/getcoverednj
+    phone: 1-833-677-1010
+    when: Earns too much for NJ FamilyCare; compare plans, see subsidized price, enroll
+    last_verified: 2026-11-24
+  - id: nj_familycare_apply
+    name: NJ FamilyCare (Medicaid / CHIP) application
+    url: https://njfamilycare.dhs.state.nj.us
+    when: Income under the NJ FamilyCare limit, or any child under 19
+    last_verified: 2026-11-24
+  - id: nj_familycare_eligibility
+    name: NJ FamilyCare - who is eligible
+    url: https://njfamilycare.dhs.state.nj.us/who_eligbl.aspx
+    last_verified: 2026-11-24
+  - id: medicaid_changes
+    name: NJ FamilyCare federal changes (2026-2027)
+    url: https://www.nj.gov/humanservices/dmahs/obbba/medicaid-federal-changes.shtml
+    last_verified: 2026-11-24
+  - id: medicaid_work_rules
+    name: NJ Medicaid work rules
+    url: https://MedicaidWorkRules.nj.gov
+    last_verified: 2026-11-24
+  - id: charity_care
+    name: NJ Hospital Care Payment Assistance (Charity Care) fact sheet
+    url: https://nj.gov/health/hcf/documents/NJ-Charity-Care-Fact-Sheet-January-2026-English.pdf
+    phone: 1-866-588-5696
+    when: Uninsured or underinsured with a hospital bill, income up to 300% FPL
+    last_verified: 2026-11-24
+
+finders:   # national directories, as a fallback when our tables have nothing
+  - id: hrsa_find_health_center
+    name: HRSA Find a Health Center
+    url: https://findahealthcenter.hrsa.gov
+    last_verified: 2026-11-24
+  - id: findtreatment
+    name: FindTreatment.gov (mental health and substance use)
+    url: https://findtreatment.gov
+    last_verified: 2026-11-24
+  - id: nj_211
+    name: NJ 211 (food, housing, utilities and other local help)
+    url: https://www.nj211.org
+    phone: "211"
+    last_verified: 2026-11-24

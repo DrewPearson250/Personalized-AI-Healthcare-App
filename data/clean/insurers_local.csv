@@ -1,0 +1,19 @@
+insurer_id,insurer_name,naic,brand,marketplace_issuer_id,total_enrollment,commercial_enrollment,commercial_network,commercial_non_network,medicaid_enrollment,is_medicaid_plan,share_of_county_pct,rank,brand_rank,quarter,source_url,last_verified
+95529,"Horizon HC of NJ, Inc",95529,Horizon,91661,80428,7,7,0,80421,True,34.1,1,1,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+55069,HBCBS of NJ,55069,Horizon,91661,40870,40870,40846,24,0,False,17.3,2,1,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+95497,AmeriChoice,95497,UnitedHealthcare,37777,31639,0,0,0,31639,True,13.4,3,2,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+60061,AmeriHealth Ins Co,60061,AmeriHealth,91762,14979,14979,14979,0,0,False,6.4,4,4,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+15585,Oscar Insurance Company of New Jersey,15585,Oscar,23818,14089,14089,14089,0,0,False,6.0,5,5,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+15611,Aetna Better Health Inc.,15611,Aetna,,10028,0,0,0,10028,True,4.3,6,3,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+95373,AmeriGroup (Wellpoint),95373,Wellpoint,,9988,0,0,0,9988,True,4.2,7,6,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+78026,"Oxford Health Ins, Inc",78026,UnitedHealthcare,37777,7549,7549,7549,0,0,False,3.2,8,2,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+16789-13020,"WellCare Health Plans of New Jersey, Inc.",16789/13020,WellCare,17970,7376,140,131,9,7236,True,3.1,9,7,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+60054,Aetna Life Ins Co,60054,Aetna,,6660,6660,6470,190,0,False,2.8,10,3,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+67369,CIGNA Health & Life Ins Co,67369,Cigna,,6397,6397,6366,31,0,False,2.7,11,8,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+79413,United HealthCare Ins Co,79413,UnitedHealthcare,37777,5379,5379,5348,31,0,False,2.3,12,2,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+81264,Nippon Life Ins Co,81264,Nippon Life Ins Co,,157,157,157,0,0,False,0.1,13,9,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+66869,Nationwide Life Insurance Company,66869,Nationwide Life Insurance Company,,51,51,51,0,0,False,0.0,14,10,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+95287,"Aetna Health, Inc.",95287,Aetna,,43,43,43,0,0,False,0.0,15,3,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+95500,"CIGNA HealthCare of New Jersey, Inc",95500,Cigna,,33,33,33,0,0,False,0.0,16,8,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+81434,ShelterPoint Life Ins Co (formerly First Rehab),81434,ShelterPoint Life Ins Co (formerly First Rehab),,31,31,31,0,0,False,0.0,17,11,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24
+95044,AmeriHealth HMO,95044,AmeriHealth,91762,3,3,3,0,0,False,0.0,18,4,2026Q2,https://www.nj.gov/dobi/lifehealthactuarial/26health02.pdf,2026-11-24

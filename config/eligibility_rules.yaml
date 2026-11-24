@@ -1,0 +1,120 @@
+# CareBridge NB eligibility rules (published rules, not datasets).
+# The rules engine reads this file; the LLM never invents these values.
+# Update every January (new poverty guidelines) and whenever NJ changes a program.
+# Every block has source_url + last_verified. verified: false = from a secondary
+# source or general federal rule, confirm against the official page before launch.
+# Checked by: python scripts/check_rules.py
+
+version: 2026.1
+last_reviewed: 2026-11-24
+
+poverty_guidelines:
+  year: 2026
+  region: 48 contiguous states and DC
+  # annual income for household size 1..8; add per_additional_person beyond 8
+  by_household_size: {1: 15960, 2: 21640, 3: 27320, 4: 33000, 5: 38680, 6: 44360, 7: 50040, 8: 55720}
+  per_additional_person: 5680
+  published: 2026-01-15
+  source_url: https://www.govinfo.gov/content/pkg/FR-2026-01-15/pdf/2026-00755.pdf
+  last_verified: 2026-11-24
+  verified: true
+
+# fpl_percent = 100 * annual household income / poverty guideline for household size
+
+nj_familycare:   # Medicaid / CHIP
+  program: NJ FamilyCare
+  groups:
+    children:
+      max_age: 18              # under 19
+      max_fpl_pct: 355
+      example: "$9,763/month for a family of 4"
+      immigration_check: false # Cover All Kids: children qualify regardless of immigration status
+    adults:
+      min_age: 19
+      max_age: 64
+      max_fpl_pct: 138
+      example: "$1,836/month for 1 person, $2,489/month for a couple"
+      immigration_rule: >-
+        Non-citizen adults generally need lawful permanent resident status for 5 years,
+        with exceptions; lawfully present people aged 19-20 qualify regardless of entry date.
+    pregnant:
+      max_fpl_pct: 205
+      example: "$5,638/month for a family of 4"
+      immigration_rule: Lawfully present pregnant people qualify regardless of entry date.
+  apply_url: https://njfamilycare.dhs.state.nj.us
+  source_url: https://njfamilycare.dhs.state.nj.us/who_eligbl.aspx
+  last_verified: 2026-11-24
+  verified: true
+  upcoming_changes:   # shown as a notice; the engine doesn't model these yet
+    - date: 2026-10-01
+      change: Some non-citizen immigrants may no longer qualify. Children under 19, lawfully present pregnant people and lawfully present non-citizens under 21 still qualify.
+    - date: 2027-01-01
+      change: Adults 19-64 may need to work, volunteer or attend school (community engagement), and renew every 6 months instead of 12.
+  changes_source_url: https://www.nj.gov/humanservices/dmahs/obbba/medicaid-federal-changes.shtml
+  changes_info_url: https://MedicaidWorkRules.nj.gov
+
+cover_all_kids:
+  applies_to: children under 19
+  rule: Children qualify for NJ FamilyCare regardless of immigration status if they meet the income limit.
+  ask_immigration_status: false   # never ask about a child's immigration status
+  income_rule: nj_familycare.groups.children
+  source_url: https://njfamilycare.dhs.state.nj.us/who_eligbl.aspx
+  last_verified: 2026-11-24
+  verified: true
+
+charity_care:    # NJ Hospital Care Payment Assistance Program
+  program: NJ Hospital Care Payment Assistance (Charity Care)
+  applies_at: NJ acute care hospitals (hospital charges only; physician, anesthesia, radiology reading fees and outpatient prescriptions may be billed separately)
+  requires:
+    - New Jersey resident (non-residents possible under specific provisions)
+    - No health coverage, or coverage that pays only part of the bill
+    - Not eligible for any private or government coverage such as Medicaid (hospital screens for this first)
+    - Meets the income and asset limits
+  # patient pays this % of hospital charges; bands are (min_fpl_pct exclusive, max_fpl_pct inclusive]
+  income_bands:
+    - {max_fpl_pct: 200, patient_pays_pct: 0}
+    - {min_fpl_pct: 200, max_fpl_pct: 225, patient_pays_pct: 20}
+    - {min_fpl_pct: 225, max_fpl_pct: 250, patient_pays_pct: 40}
+    - {min_fpl_pct: 250, max_fpl_pct: 275, patient_pays_pct: 60}
+    - {min_fpl_pct: 275, max_fpl_pct: 300, patient_pays_pct: 80}
+    - {min_fpl_pct: 300, patient_pays_pct: 100}
+  out_of_pocket_cap: On the 20-80% scale, qualified medical bills above 30% of gross annual income count as assistance.
+  asset_limits:
+    individual: 7500
+    family: 15000
+    spend_down: true    # can pay the excess toward the bill to get under the limit
+  apply: At the hospital's business or admissions office, with income and asset documents, up to 1 year after the date of service. Decision within 10 working days of a complete application.
+  help_phone: 1-866-588-5696
+  source_url: https://nj.gov/health/hcf/documents/NJ-Charity-Care-Fact-Sheet-January-2026-English.pdf
+  regulation_url: https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-10-52-11-8
+  last_verified: 2026-11-24
+  verified: true
+
+marketplace:     # Get Covered NJ
+  open_enrollment: {start: 2026-11-01, end: 2027-01-31, deadline_for_jan_1_coverage: 2026-12-31}
+  open_enrollment_source_url: https://www.nj.gov/getcoverednj/financialhelp/savings
+  # Silver cost-sharing reduction variant by income (federal ACA rule, 45 CFR 155.305(g));
+  # maps to plans.csr_variant. Above 250% FPL: standard silver.
+  silver_csr_bands:
+    - {min_fpl_pct: 100, max_fpl_pct: 150, csr_variant: csr_94}
+    - {min_fpl_pct: 150, max_fpl_pct: 200, csr_variant: csr_87}
+    - {min_fpl_pct: 200, max_fpl_pct: 250, csr_variant: csr_73}
+  csr_source_url: https://www.law.cornell.edu/cfr/text/45/155.305
+  csr_verified: false   # federal rule; confirm Get Covered NJ applies the same bands
+  notes:
+    - Enhanced federal premium tax credits ended Dec 31, 2025, so most 2026 premiums rose.
+    - From Jan 1, 2027, federal financial help requires a qualifying immigration status.
+    - Premiums in plan_rates are full price; the subsidy is calculated by Get Covered NJ.
+  help_phone: 1-833-677-1010
+  enroll_url: https://nj.gov/getcoverednj
+  source_url: https://nj.gov/getcoverednj/findanswers/updates
+  last_verified: 2026-11-24
+  verified: true
+
+# Routing order the engine follows (from the catalog)
+routing:
+  - emergency: 911 and the nearest ER first (keyword safety check runs before any model)
+  - non_urgent_uninsured: clinics first (health centers, sliding fee)
+  - then: NJ FamilyCare, then Charity Care eligibility
+  - insured: hospitals and providers that work with the user's insurer
+  - mental_health: always show 988 alongside results

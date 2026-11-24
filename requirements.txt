@@ -2,3 +2,5 @@ pandas
 requests
 psycopg2-binary
 pdfplumber
+pyyaml
+ijson

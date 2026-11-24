@@ -13,11 +13,12 @@ from pathlib import Path
 
 import pandas as pd
 
-from geo import RADIUS_MI, load_zips
+from geo import RADIUS_MI, geocode_batch, load_zips, miles
 
 RAW = Path("data/raw/hospitals")
 CLEAN = Path("data/clean")
 REPORTS = Path("data/reports")
+MANUAL_PEDS = Path("data/manual/hospital_pediatrics.csv")
 SOURCES = {
     "general": "https://data.cms.gov/provider-data/dataset/xubh-q36u",
     "survey": "https://data.cms.gov/provider-data/dataset/dgck-syfz",
@@ -72,17 +73,26 @@ def main():
     report["counts"].append(f"In Middlesex: {len(g)} hospitals")
 
     zips = load_zips()
+    # street address -> lat/lng (Census geocoder); ZIP centroid if that fails
+    geo = geocode_batch({r["Facility ID"]: (r["Address"], r["City/Town"], "NJ", str(r["ZIP Code"]).zfill(5)[:5])
+                         for _, r in g.iterrows()})
     rows = []
     for _, r in g.iterrows():
         z = str(r["ZIP Code"]).zfill(5)[:5]
         zr = zips.get(z)
         lat = lng = dist = None
-        if zr:
+        gc = geo.get(r["Facility ID"])
+        if gc:
+            lat, lng = round(gc[0], 6), round(gc[1], 6)
+            dist = round(miles(lat, lng), 1)
+        elif zr and zr["lat"]:
             lat, lng, dist = float(zr["lat"]), float(zr["lng"]), float(zr["miles_to_nb"])
+            report["warnings"].append(f"{r['Facility ID']} {r['Facility Name']}: address didn't "
+                                      "geocode, using the ZIP centroid")
         else:
             report["warnings"].append(
-                f"{r['Facility ID']} {r['Facility Name']}: ZIP {z} has no Census centroid "
-                f"(PO-box ZIP); distance unknown, kept because it's in Middlesex")
+                f"{r['Facility ID']} {r['Facility Name']}: address didn't geocode and ZIP {z} has "
+                f"no Census centroid (PO-box ZIP); distance unknown, kept because it's in Middlesex")
         if dist is not None and dist > RADIUS_MI:
             report["counts"].append(f"Dropped {r['Facility Name']}: {dist} mi from New Brunswick")
             continue
@@ -129,11 +139,17 @@ def main():
     op18 = t[t["Measure ID"] == "OP_18b"].set_index("Facility ID")
     h["er_period_end"] = op18["End Date"].map(iso).reindex(h.index)
 
-    # --- manual columns (filled by hand later) + provenance ------------------
-    h["has_pediatric_er"] = None
-    h["has_childrens_hospital"] = None
-    h["pediatric_specialties"] = None
+    # --- manual columns from data/manual/hospital_pediatrics.csv + provenance ---
     h["source_url"] = SOURCES["general"]
+    peds = pd.read_csv(MANUAL_PEDS, dtype=str).fillna("") if MANUAL_PEDS.exists() else pd.DataFrame()
+    peds = peds.set_index("facility_id") if len(peds) else peds
+    tf = {"true": True, "false": False}
+    h["has_pediatric_er"] = [tf.get(peds.at[i, "has_pediatric_er"]) if i in peds.index else None for i in h.index]
+    h["has_childrens_hospital"] = [tf.get(peds.at[i, "has_childrens_hospital"]) if i in peds.index else None for i in h.index]
+    h["pediatric_specialties"] = [
+        [x.strip() for x in peds.at[i, "pediatric_specialties"].split(";") if x.strip()] or None
+        if i in peds.index else None for i in h.index]
+    h["pediatric_source_url"] = [peds.at[i, "source_url"] or None if i in peds.index else None for i in h.index]
     h["last_verified"] = date.today().isoformat()
     h = h.reset_index()
 
@@ -154,15 +170,18 @@ def main():
         for p in ("survey_period_end", "er_period_end"):
             if pd.notna(r[p]) and (date.today() - date.fromisoformat(r[p])).days > 3 * 365:
                 report["warnings"].append(f"{r.facility_id}: {p} {r[p]} is over 3 years old")
-    report["warnings"].append("has_pediatric_er, has_childrens_hospital, pediatric_specialties: "
-                              "empty for all rows, fill by hand from hospital websites")
+    for _, r in h.iterrows():
+        if r["has_pediatric_er"] is None:
+            report["warnings"].append(f"{r.facility_id} {r['name']}: pediatric columns not filled "
+                                      f"(data/manual/hospital_pediatrics.csv); check the hospital website")
     for c in h.columns:
-        report["coverage"][c] = round(100 * h[c].notna().mean())
+        report["coverage"][c] = round(100 * h[c].map(lambda v: v is not None and not (isinstance(v, float) and pd.isna(v))).mean())
 
     # --- write outputs --------------------------------------------------------
     CLEAN.mkdir(exist_ok=True)
     REPORTS.mkdir(exist_ok=True)
-    h.to_csv(CLEAN / "hospitals.csv", index=False)
+    h.assign(pediatric_specialties=h["pediatric_specialties"].map(
+        lambda v: "; ".join(v) if isinstance(v, list) else v)).to_csv(CLEAN / "hospitals.csv", index=False)
     recs = json.loads(h.to_json(orient="records"))
     (CLEAN / "hospitals.json").write_text(json.dumps(recs, indent=2))
     write_report(report, h)

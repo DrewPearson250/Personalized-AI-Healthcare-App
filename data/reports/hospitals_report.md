@@ -1,7 +1,7 @@
 # Validation report: hospitals
 *Run 2026-11-24*
 
-**Result:** PASSED — 7 rows, 0 errors, 5 warnings
+**Result:** PASSED — 7 rows, 0 errors, 7 warnings
 
 ## Counts
 - General Information: 79 rows read (NJ)
@@ -13,11 +13,13 @@
 - none
 
 ## Warnings (review)
-- 310108 JFK UNIVERSITY MEDICAL CENTER: ZIP 08818 has no Census centroid (PO-box ZIP); distance unknown, kept because it's in Middlesex
+- 310038 ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL: address didn't geocode, using the ZIP centroid
+- 313300 CHILDREN'S SPECIALIZED HOSPITAL: address didn't geocode, using the ZIP centroid
 - 313300 Children's Specialized Hospital: no patient survey star rating
 - 314011 University Behavioral Health Care: has an ER but no median ER time
 - 314011 University Behavioral Health Care: no patient survey star rating
-- has_pediatric_er, has_childrens_hospital, pediatric_specialties: empty for all rows, fill by hand from hospital websites
+- 310010 University Medical Center Of Princeton At Plainsboro: pediatric columns not filled (data/manual/hospital_pediatrics.csv); check the hospital website
+- 310039 Raritan Bay Medical Center: pediatric columns not filled (data/manual/hospital_pediatrics.csv); check the hospital website
 
 ## Coverage (% of rows filled)
 | column | % |
@@ -35,9 +37,9 @@
 | has_emergency | 100 |
 | birthing_friendly | 100 |
 | overall_rating | 71 |
-| lat | 86 |
-| lng | 86 |
-| miles_to_nb | 86 |
+| lat | 100 |
+| lng | 100 |
+| miles_to_nb | 100 |
 | survey_star | 71 |
 | nurse_comm_star | 71 |
 | doctor_comm_star | 71 |
@@ -49,8 +51,9 @@
 | er_left_unseen_pct | 71 |
 | er_volume | 71 |
 | er_period_end | 86 |
-| has_pediatric_er | 0 |
-| has_childrens_hospital | 0 |
-| pediatric_specialties | 0 |
 | source_url | 100 |
+| has_pediatric_er | 71 |
+| has_childrens_hospital | 71 |
+| pediatric_specialties | 71 |
+| pediatric_source_url | 71 |
 | last_verified | 100 |

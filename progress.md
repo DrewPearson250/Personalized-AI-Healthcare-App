@@ -1,26 +1,26 @@
 # CareBridge NB — Progress
 
-*Updated 2026-11-24 · Stage: data cleaning*
+*Updated 2026-11-24 · Stage: data done, models next*
 
 ## Done
 
-- [x] Dataset catalog (`dataset_catalog.pdf`)
-- [x] Repo layout (`data/`, `db/`, `scripts/`, `config/`)
-- [x] Raw downloads: hospitals, clinics, insurance, providers (CMS), training data
-- [x] Middlesex ZIP list (`config/middlesex_zips.csv`, 36 in scope)
-- [x] `hospitals` table in `db/schema.sql`
-- [x] Hospitals cleaned → `data/clean/hospitals.*` (7 hospitals, report passed)
-- [x] NPPES fetched: 108 files (1,685 dentists, 178 pediatrics, 92 OB/GYN results, before cleaning)
-- [x] Scripts: DOBI extraction, NPPES fetcher, ZIP builder, hospitals cleaner
+- [x] Dataset catalog, repo layout, Middlesex ZIP list (36 in scope)
+- [x] All raw downloads, incl. NPPES and hospital price files (5 of 6 hospitals)
+- [x] Cleaned + validated (reports in `data/reports/`, all PASSED):
+  - hospitals (7, pediatric columns for 5)
+  - clinics (42: HRSA, SAMHSA, free clinics)
+  - providers (1,386 dentist / pediatric / OB-GYN locations)
+  - plans, plan_rates, plan_benefits, insurers_local (2026 NJ marketplace + DOBI)
+  - hospital_payers, hospital_prices (price transparency, 30 common services)
+  - services (101: food, benefits, housing, legal, mental health)
+- [x] `config/eligibility_rules.yaml` + `links.yaml` (checked by `check_rules.py`)
+- [x] `db/schema.sql` (10 tables) + `scripts/load.py` (tested on Postgres 16)
 
 ## To do
 
-- [ ] Fill hospital pediatric columns by hand
-- [ ] Clean clinics (HRSA + SAMHSA) + schema + report
-- [ ] Clean providers, plans, insurers + schema + reports
-- [ ] Eligibility rules + links config
-- [ ] Price transparency for local hospitals
-- [ ] Hand-built lists (free/student-run clinics, local services)
-- [ ] Load everything into Postgres
+- [ ] Human checks: services list (all `verified = false`), pediatric columns for Princeton + Raritan Bay, clinic dental/walk-in flags
+- [ ] Add what sites blocked: county social services, MCAT, Woman Aware, legal services, PAAD
+- [ ] Princeton price file (download by hand)
+- [ ] Training data: clean NHAMCS + symptom set, generate AI messages
 - [ ] Models: urgency classifier, service matcher
 - [ ] Backend (FastAPI) + frontend (Next.js) + LLM explanations
